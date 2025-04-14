@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef0c45c-83ad-4e85-a793-3ed1b5724681" name="Changes" comment="Add files via upload">
-      <change beforePath="$PROJECT_DIR$/../parasors/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObject/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/homepage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,18 +24,18 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/VishalHadiyal/demoproject.git&quot;,
-    &quot;accountId&quot;: &quot;330acbf3-8c0a-4302-8f9e-2f3fdf20f6e0&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/VishalHadiyal/DemoProject.git",
+    "accountId": "330acbf3-8c0a-4302-8f9e-2f3fdf20f6e0"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/TestCases/test_Login.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -203,6 +207,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
     <MESSAGE value="Add files via upload" />
     <option name="LAST_COMMIT_MESSAGE" value="Add files via upload" />
   </component>
