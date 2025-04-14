@@ -1,0 +1,4 @@
+{
+  "TestCases/test_Login.py::test_login": true,
+  "TestCases/test_Login.py::test_homepage_title": true
+}

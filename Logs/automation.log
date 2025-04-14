@@ -1,0 +1,1092 @@
+03/18/2025 09:36:36 AM: INFO: ******************************* Test_001_Login **********************************
+03/18/2025 09:36:36 AM: INFO: Verifying HomePage Title
+03/18/2025 09:36:39 AM: INFO: HomePage Title Verification Passed
+03/18/2025 09:36:40 AM: INFO: ******************************* Login Test Started **********************************
+03/18/2025 09:36:42 AM: INFO: Navigated to application URL
+03/18/2025 09:36:42 AM: INFO: Entering username
+03/18/2025 09:36:42 AM: INFO: Entering password
+03/18/2025 09:36:43 AM: INFO: Clicking login button
+03/18/2025 09:36:43 AM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/18/2025 09:41:52 AM: INFO: ******************************* Test_001_Login **********************************
+03/18/2025 09:41:52 AM: INFO: Verifying HomePage Title
+03/18/2025 09:41:54 AM: INFO: HomePage Title Verification Passed
+03/18/2025 09:41:55 AM: INFO: ******************************* Login Test Started **********************************
+03/18/2025 09:41:57 AM: INFO: Navigated to application URL
+03/18/2025 09:41:57 AM: INFO: Entering username
+03/18/2025 09:41:57 AM: INFO: Entering password
+03/18/2025 09:41:58 AM: INFO: Clicking login button
+03/18/2025 09:41:58 AM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/24/2025 02:17:36 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:17:36 PM: INFO: Verifying HomePage Title
+03/24/2025 02:17:40 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:17:41 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:17:44 PM: INFO: Navigated to application URL
+03/24/2025 02:17:44 PM: INFO: Entering username
+03/24/2025 02:17:44 PM: INFO: Entering password
+03/24/2025 02:17:44 PM: INFO: Clicking login button
+03/24/2025 02:17:46 PM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/24/2025 02:28:00 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:28:00 PM: INFO: Verifying HomePage Title
+03/24/2025 02:28:04 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:28:06 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:28:08 PM: INFO: Navigated to application URL
+03/24/2025 02:28:08 PM: INFO: Entering username
+03/24/2025 02:28:08 PM: INFO: Entering password
+03/24/2025 02:28:08 PM: INFO: Clicking login button
+03/24/2025 02:28:10 PM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/24/2025 02:29:10 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:29:10 PM: INFO: Verifying HomePage Title
+03/24/2025 02:29:16 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:29:22 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:29:34 PM: INFO: Navigated to application URL
+03/24/2025 02:29:34 PM: INFO: Entering username
+03/24/2025 02:29:34 PM: INFO: Entering password
+03/24/2025 02:29:34 PM: INFO: Clicking login button
+03/24/2025 02:29:53 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/24/2025 02:33:57 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:33:57 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:33:57 PM: INFO: Verifying HomePage Title
+03/24/2025 02:34:00 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:34:00 PM: INFO: Navigated to application URL
+03/24/2025 02:34:00 PM: INFO: Entering username
+03/24/2025 02:34:00 PM: INFO: Entering password
+03/24/2025 02:34:00 PM: INFO: Clicking login button
+03/24/2025 02:34:05 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/24/2025 02:37:12 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:37:12 PM: INFO: Verifying HomePage Title
+03/24/2025 02:37:12 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:37:14 PM: INFO: Navigated to application URL
+03/24/2025 02:37:14 PM: INFO: Entering username
+03/24/2025 02:37:14 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:37:14 PM: INFO: Entering password
+03/24/2025 02:37:15 PM: INFO: Clicking login button
+03/24/2025 02:37:16 PM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/24/2025 02:38:57 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:38:57 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:38:57 PM: INFO: Verifying HomePage Title
+03/24/2025 02:39:01 PM: INFO: Navigated to application URL
+03/24/2025 02:39:01 PM: INFO: Entering username
+03/24/2025 02:39:01 PM: INFO: Entering password
+03/24/2025 02:39:01 PM: INFO: Clicking login button
+03/24/2025 02:39:48 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/24/2025 02:39:59 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:45:53 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:45:53 PM: INFO: Verifying HomePage Title
+03/24/2025 02:45:56 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:45:58 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:46:01 PM: INFO: Navigated to application URL
+03/24/2025 02:46:01 PM: INFO: Entering username
+03/24/2025 02:46:01 PM: INFO: Entering password
+03/24/2025 02:46:01 PM: INFO: Clicking login button
+03/24/2025 02:46:06 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/24/2025 02:49:45 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:49:45 PM: INFO: Verifying HomePage Title
+03/24/2025 02:49:46 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:49:48 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:49:48 PM: INFO: Navigated to application URL
+03/24/2025 02:49:48 PM: INFO: Entering username
+03/24/2025 02:49:49 PM: INFO: Entering password
+03/24/2025 02:49:49 PM: INFO: Clicking login button
+03/24/2025 02:49:50 PM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/24/2025 02:54:51 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:54:51 PM: INFO: Verifying HomePage Title
+03/24/2025 02:54:51 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:56:11 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:56:13 PM: INFO: Navigated to application URL
+03/24/2025 02:56:13 PM: INFO: Entering username
+03/24/2025 02:57:53 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 02:57:53 PM: INFO: Verifying HomePage Title
+03/24/2025 02:57:54 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 02:57:56 PM: INFO: Navigated to application URL
+03/24/2025 02:57:56 PM: INFO: Entering username
+03/24/2025 02:57:56 PM: INFO: Entering password
+03/24/2025 02:57:57 PM: INFO: Clicking login button
+03/24/2025 02:57:57 PM: INFO: HomePage Title Verification Passed
+03/24/2025 02:57:59 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/24/2025 03:23:32 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 03:23:32 PM: INFO: Verifying HomePage Title
+03/24/2025 03:23:32 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 03:23:35 PM: INFO: Navigated to application URL
+03/24/2025 03:23:35 PM: INFO: Entering username
+03/24/2025 03:23:36 PM: INFO: Entering password
+03/24/2025 03:23:36 PM: INFO: Clicking login button
+03/24/2025 03:23:37 PM: INFO: HomePage Title Verification Passed
+03/24/2025 03:23:46 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/24/2025 03:26:06 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 03:26:06 PM: INFO: Verifying HomePage Title
+03/24/2025 03:26:07 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 03:26:09 PM: INFO: HomePage Title Verification Passed
+03/24/2025 03:26:11 PM: INFO: Navigated to application URL
+03/24/2025 03:26:11 PM: INFO: Entering username
+03/24/2025 03:26:11 PM: INFO: Entering password
+03/24/2025 03:26:11 PM: INFO: Clicking login button
+03/24/2025 03:26:16 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/24/2025 03:45:25 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 03:45:25 PM: INFO: Verifying HomePage Title
+03/24/2025 03:45:26 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 03:45:28 PM: INFO: HomePage Title Verification Passed
+03/24/2025 03:45:29 PM: INFO: Navigated to application URL
+03/24/2025 03:45:29 PM: INFO: Entering username
+03/24/2025 03:45:29 PM: INFO: Entering password
+03/24/2025 03:45:29 PM: INFO: Clicking login button
+03/24/2025 03:45:31 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/24/2025 03:49:22 PM: INFO: ******************************* Login Test Started **********************************
+03/24/2025 03:49:22 PM: INFO: ******************************* Test_001_Login **********************************
+03/24/2025 03:49:22 PM: INFO: Verifying HomePage Title
+03/24/2025 03:49:24 PM: INFO: HomePage Title Verification Passed
+03/24/2025 03:49:27 PM: INFO: Navigated to application URL
+03/24/2025 03:49:27 PM: INFO: Entering username
+03/24/2025 03:49:27 PM: INFO: Entering password
+03/24/2025 03:49:28 PM: INFO: Clicking login button
+03/24/2025 03:49:29 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/24/2025 03:49:29 PM: INFO: Clicking logout link
+03/25/2025 09:45:51 AM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 10:27:53 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 10:27:56 AM: INFO: Total number of rows in Excel: None
+03/25/2025 10:30:32 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 10:30:37 AM: ERROR: Failed to fetch row count from Excel file: No rows found in the Excel sheet or invalid row count.
+03/25/2025 10:32:19 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 10:34:22 AM: WARNING: Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+03/25/2025 10:34:24 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 10:34:26 AM: ERROR: Failed to fetch row count from Excel file: No rows found in the Excel sheet or invalid row count.
+03/25/2025 10:35:55 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 10:35:57 AM: ERROR: Failed to fetch row count from Excel file: No rows found in the Excel sheet or invalid row count.
+03/25/2025 10:36:26 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 10:36:28 AM: ERROR: Failed to fetch row count from Excel file: No rows found in the Excel sheet or invalid row count.
+03/25/2025 10:40:03 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 10:40:05 AM: ERROR: Failed to fetch row count from Excel file: No rows found in the Excel sheet or invalid row count.
+03/25/2025 10:44:54 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 10:44:56 AM: ERROR: Failed to fetch row count from Excel file: No rows found in the Excel sheet or invalid row count.
+03/25/2025 10:47:42 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 10:47:44 AM: ERROR: Failed to fetch row count from Excel file: No rows found in the Excel sheet or invalid row count.
+03/25/2025 11:16:43 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 11:16:46 AM: ERROR: Failed to fetch row count from Excel file: No rows found in the Excel sheet or invalid row count.
+03/25/2025 11:27:12 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 11:27:15 AM: ERROR: No valid test data found in Excel file.
+03/25/2025 11:27:21 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028DD52816D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c1dd41114d66f29ebb1cbd14b7848320
+03/25/2025 11:27:25 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028DD5281A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c1dd41114d66f29ebb1cbd14b7848320
+03/25/2025 11:27:30 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028DD52843E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c1dd41114d66f29ebb1cbd14b7848320
+03/25/2025 11:32:33 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 11:32:35 AM: ERROR: No valid test data found in Excel file.
+03/25/2025 11:32:42 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DFC4A516D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f854ba800c59ef3bec7250b4fbcd8b8c
+03/25/2025 11:32:46 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DFC4A51A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f854ba800c59ef3bec7250b4fbcd8b8c
+03/25/2025 11:32:50 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DFC4A543E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f854ba800c59ef3bec7250b4fbcd8b8c
+03/25/2025 11:35:25 AM: INFO: ********** Starting Test_002_DDT_Login **********
+03/25/2025 11:35:27 AM: ERROR: Invalid row count: None. Check Excel file.
+03/25/2025 11:35:34 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FF4D151310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5262f1410b9daf62ade0f6aadb333d32
+03/25/2025 11:35:38 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FF4D150B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5262f1410b9daf62ade0f6aadb333d32
+03/25/2025 11:35:42 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FF4D1543E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5262f1410b9daf62ade0f6aadb333d32
+03/25/2025 11:35:51 AM: INFO: ********** Completed Test_002_DDT_Login **********
+03/25/2025 11:35:55 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FF4D0EBAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5262f1410b9daf62ade0f6aadb333d32
+03/25/2025 11:35:59 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FF4D112470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5262f1410b9daf62ade0f6aadb333d32
+03/25/2025 11:36:03 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FF4D1128B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5262f1410b9daf62ade0f6aadb333d32
+03/25/2025 11:50:02 AM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 11:56:29 AM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 11:58:17 AM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 11:58:56 AM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:03:05 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:05:13 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:08:41 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:14:37 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:21:12 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:23:39 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:23:52 PM: INFO: *** Test Failed ***
+03/25/2025 12:24:03 PM: INFO: *** Test Passed ***
+03/25/2025 12:24:13 PM: INFO: *** Test Passed ***
+03/25/2025 12:24:24 PM: INFO: *** Test Passed ***
+03/25/2025 12:24:24 PM: INFO: ******** Login DDT test failed *********
+03/25/2025 12:29:52 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:30:25 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:31:49 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:32:02 PM: INFO: *** Test Failed ***
+03/25/2025 12:32:13 PM: INFO: *** Test Passed ***
+03/25/2025 12:32:24 PM: INFO: *** Test Passed ***
+03/25/2025 12:32:34 PM: INFO: *** Test Passed ***
+03/25/2025 12:32:34 PM: INFO: ******** Login DDT test failed *********
+03/25/2025 12:35:41 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:35:50 PM: INFO: *** Test Failed ***
+03/25/2025 12:36:13 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:36:21 PM: INFO: *** Test Failed ***
+03/25/2025 12:36:41 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:36:54 PM: INFO: *** Test Failed ***
+03/25/2025 12:38:57 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:39:10 PM: INFO: *** Test Failed ***
+03/25/2025 12:44:57 PM: INFO: **************************Test_002_login_ddt test**********************
+03/25/2025 12:45:08 PM: INFO: *** Test Failed ***
+03/25/2025 12:45:08 PM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/25/2025 12:45:08 PM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF775174C25+3179557]
+	(No symbol) [0x00007FF774DD88A0]
+	(No symbol) [0x00007FF774C691CA]
+	(No symbol) [0x00007FF774CBFA67]
+	(No symbol) [0x00007FF774CBFC9C]
+	(No symbol) [0x00007FF774D13627]
+	(No symbol) [0x00007FF774CE7C6F]
+	(No symbol) [0x00007FF774D102F3]
+	(No symbol) [0x00007FF774CE7A03]
+	(No symbol) [0x00007FF774CB06D0]
+	(No symbol) [0x00007FF774CB1983]
+	GetHandleVerifier [0x00007FF7751D67CD+3579853]
+	GetHandleVerifier [0x00007FF7751ED1D2+3672530]
+	GetHandleVerifier [0x00007FF7751E2153+3627347]
+	GetHandleVerifier [0x00007FF774F4092A+868650]
+	(No symbol) [0x00007FF774DE2FFF]
+	(No symbol) [0x00007FF774DDF4A4]
+	(No symbol) [0x00007FF774DDF646]
+	(No symbol) [0x00007FF774DCEAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/25/2025 12:45:08 PM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/25/2025 12:45:08 PM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF775174C25+3179557]
+	(No symbol) [0x00007FF774DD88A0]
+	(No symbol) [0x00007FF774C691CA]
+	(No symbol) [0x00007FF774CBFA67]
+	(No symbol) [0x00007FF774CBFC9C]
+	(No symbol) [0x00007FF774D13627]
+	(No symbol) [0x00007FF774CE7C6F]
+	(No symbol) [0x00007FF774D102F3]
+	(No symbol) [0x00007FF774CE7A03]
+	(No symbol) [0x00007FF774CB06D0]
+	(No symbol) [0x00007FF774CB1983]
+	GetHandleVerifier [0x00007FF7751D67CD+3579853]
+	GetHandleVerifier [0x00007FF7751ED1D2+3672530]
+	GetHandleVerifier [0x00007FF7751E2153+3627347]
+	GetHandleVerifier [0x00007FF774F4092A+868650]
+	(No symbol) [0x00007FF774DE2FFF]
+	(No symbol) [0x00007FF774DDF4A4]
+	(No symbol) [0x00007FF774DDF646]
+	(No symbol) [0x00007FF774DCEAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/25/2025 12:45:08 PM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/25/2025 12:45:08 PM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="Email"]"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF775174C25+3179557]
+	(No symbol) [0x00007FF774DD88A0]
+	(No symbol) [0x00007FF774C691CA]
+	(No symbol) [0x00007FF774CBFA67]
+	(No symbol) [0x00007FF774CBFC9C]
+	(No symbol) [0x00007FF774D13627]
+	(No symbol) [0x00007FF774CE7C6F]
+	(No symbol) [0x00007FF774D102F3]
+	(No symbol) [0x00007FF774CE7A03]
+	(No symbol) [0x00007FF774CB06D0]
+	(No symbol) [0x00007FF774CB1983]
+	GetHandleVerifier [0x00007FF7751D67CD+3579853]
+	GetHandleVerifier [0x00007FF7751ED1D2+3672530]
+	GetHandleVerifier [0x00007FF7751E2153+3627347]
+	GetHandleVerifier [0x00007FF774F4092A+868650]
+	(No symbol) [0x00007FF774DE2FFF]
+	(No symbol) [0x00007FF774DDF4A4]
+	(No symbol) [0x00007FF774DDF646]
+	(No symbol) [0x00007FF774DCEAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/25/2025 12:45:09 PM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/25/2025 12:45:09 PM: INFO: ******** Login DDT test failed *********
+03/25/2025 02:56:40 PM: INFO: ******************************* Test_001_Login **********************************
+03/25/2025 02:56:40 PM: INFO: Verifying HomePage Title
+03/25/2025 02:56:42 PM: INFO: HomePage Title Verification Passed
+03/25/2025 03:00:55 PM: INFO: ******************************* Login Test Started **********************************
+03/25/2025 03:00:59 PM: INFO: Navigated to application URL
+03/25/2025 03:00:59 PM: INFO: Entering username
+03/25/2025 03:00:59 PM: INFO: Entering password
+03/25/2025 03:01:00 PM: INFO: Clicking login button
+03/25/2025 03:01:10 PM: INFO: Login Test Passed - Redirected to Dashboard
+03/25/2025 03:01:10 PM: INFO: Clicking logout link
+03/26/2025 09:16:45 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 09:16:45 AM: INFO: Verifying HomePage Title
+03/26/2025 09:16:47 AM: ERROR: HomePage Title Verification Failed
+03/26/2025 09:16:53 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000176C486BD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5da9d0a6dac8a53b0eca753b8dbc5be1
+03/26/2025 09:16:58 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000176C491C050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5da9d0a6dac8a53b0eca753b8dbc5be1
+03/26/2025 09:17:02 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000176C47B62C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5da9d0a6dac8a53b0eca753b8dbc5be1
+03/26/2025 09:17:11 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 09:17:12 AM: INFO: Navigated to application URL
+03/26/2025 09:17:12 AM: INFO: Entering username
+03/26/2025 09:19:34 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 09:19:34 AM: INFO: Verifying HomePage Title
+03/26/2025 09:19:36 AM: ERROR: HomePage Title Verification Failed
+03/26/2025 09:19:42 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4BBEBD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/41bc519f488c12ff34258cc75f0cd0f0
+03/26/2025 09:19:47 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4BC9C050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/41bc519f488c12ff34258cc75f0cd0f0
+03/26/2025 09:19:51 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4BB56190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/41bc519f488c12ff34258cc75f0cd0f0
+03/26/2025 09:20:00 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 09:20:02 AM: INFO: Navigated to application URL
+03/26/2025 09:20:02 AM: INFO: Entering username
+03/26/2025 09:20:02 AM: INFO: Entering password
+03/26/2025 09:20:03 AM: INFO: Clicking login button
+03/26/2025 09:20:03 AM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/26/2025 09:20:09 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4BCA1040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2adf3ae261c4892b35ffe7d51043adae
+03/26/2025 09:20:13 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4BCA1370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2adf3ae261c4892b35ffe7d51043adae
+03/26/2025 09:20:17 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4BCA17B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2adf3ae261c4892b35ffe7d51043adae
+03/26/2025 09:22:15 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 09:22:15 AM: INFO: Verifying HomePage Title
+03/26/2025 09:22:17 AM: ERROR: HomePage Title Verification Failed
+03/26/2025 09:22:23 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002121F77BD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7a7b52c57d93bab1526b3f0b05961f4a
+03/26/2025 09:22:27 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002121F820050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7a7b52c57d93bab1526b3f0b05961f4a
+03/26/2025 09:22:31 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002121F6162C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7a7b52c57d93bab1526b3f0b05961f4a
+03/26/2025 09:22:41 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 09:22:42 AM: INFO: Navigated to application URL
+03/26/2025 09:22:42 AM: INFO: Entering username
+03/26/2025 09:22:42 AM: INFO: Entering password
+03/26/2025 09:22:42 AM: INFO: Clicking login button
+03/26/2025 09:22:42 AM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/26/2025 09:22:49 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002121F82D040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/479e4c38f0d9be5f76c4b8fcbf426bb3
+03/26/2025 09:22:53 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002121F82D370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/479e4c38f0d9be5f76c4b8fcbf426bb3
+03/26/2025 09:22:57 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002121F82D7B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/479e4c38f0d9be5f76c4b8fcbf426bb3
+03/26/2025 09:30:25 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 09:30:25 AM: INFO: Verifying HomePage Title
+03/26/2025 09:30:27 AM: INFO: HomePage Title Verification Passed
+03/26/2025 09:30:31 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 09:30:32 AM: INFO: Navigated to application URL
+03/26/2025 09:30:32 AM: INFO: Entering username
+03/26/2025 09:30:32 AM: INFO: Entering password
+03/26/2025 09:30:33 AM: INFO: Clicking login button
+03/26/2025 09:54:25 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 09:54:25 AM: INFO: Verifying HomePage Title
+03/26/2025 09:54:28 AM: INFO: HomePage Title Verification Passed
+03/26/2025 09:54:32 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 09:54:33 AM: INFO: Navigated to application URL
+03/26/2025 09:54:33 AM: INFO: Entering username
+03/26/2025 09:54:34 AM: INFO: Entering password
+03/26/2025 09:54:34 AM: INFO: Clicking login button
+03/26/2025 09:54:34 AM: INFO: Login successful
+03/26/2025 09:55:46 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 09:55:46 AM: INFO: Verifying HomePage Title
+03/26/2025 09:55:47 AM: INFO: HomePage Title Verification Passed
+03/26/2025 09:55:51 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 09:55:52 AM: INFO: Navigated to application URL
+03/26/2025 09:55:52 AM: INFO: Entering username
+03/26/2025 09:55:52 AM: INFO: Entering password
+03/26/2025 09:55:52 AM: INFO: Clicking login button
+03/26/2025 09:55:52 AM: INFO: Login successful
+03/26/2025 09:55:52 AM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/26/2025 09:55:59 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000226A33F8410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/715301c275c2cdae85f88e05ce65fba8
+03/26/2025 09:56:03 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000226A32E7230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/715301c275c2cdae85f88e05ce65fba8
+03/26/2025 09:56:07 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000226A32E7360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/715301c275c2cdae85f88e05ce65fba8
+03/26/2025 09:59:46 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 09:59:46 AM: INFO: Verifying HomePage Title
+03/26/2025 09:59:48 AM: INFO: HomePage Title Verification Passed
+03/26/2025 09:59:51 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 09:59:53 AM: INFO: Navigated to application URL
+03/26/2025 09:59:53 AM: INFO: Entering username
+03/26/2025 09:59:53 AM: INFO: Entering password
+03/26/2025 09:59:53 AM: INFO: Clicking login button
+03/26/2025 09:59:53 AM: INFO: Login successful
+03/26/2025 09:59:53 AM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/26/2025 10:00:00 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D33F0A82D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/954df40df469cf92d31efe9eab4c6e44
+03/26/2025 10:00:04 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D33EF97230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/954df40df469cf92d31efe9eab4c6e44
+03/26/2025 10:00:08 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D33EF97360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/954df40df469cf92d31efe9eab4c6e44
+03/26/2025 10:01:51 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 10:01:51 AM: INFO: Verifying HomePage Title
+03/26/2025 10:01:53 AM: INFO: HomePage Title Verification Passed
+03/26/2025 10:01:57 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 10:01:58 AM: INFO: Navigated to application URL
+03/26/2025 10:01:58 AM: INFO: Entering username
+03/26/2025 10:01:58 AM: INFO: Entering password
+03/26/2025 10:01:58 AM: INFO: Clicking login button
+03/26/2025 10:01:58 AM: INFO: Login successful
+03/26/2025 10:01:58 AM: ERROR: Login Test Failed - Incorrect Dashboard Title
+03/26/2025 10:02:05 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000181DB4D8410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/31bf0ee54531be55c9218da3ec2aa5c0
+03/26/2025 10:02:09 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000181DB3CB230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/31bf0ee54531be55c9218da3ec2aa5c0
+03/26/2025 10:02:13 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000181DB3CB360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/31bf0ee54531be55c9218da3ec2aa5c0
+03/26/2025 10:05:10 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 10:05:10 AM: INFO: Verifying HomePage Title
+03/26/2025 10:05:11 AM: INFO: HomePage Title Verification Passed
+03/26/2025 10:05:15 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 10:05:16 AM: INFO: Navigated to application URL
+03/26/2025 10:05:16 AM: INFO: Entering username
+03/26/2025 10:05:16 AM: INFO: Entering password
+03/26/2025 10:05:17 AM: INFO: Clicking login button
+03/26/2025 10:05:17 AM: INFO: Login successful
+03/26/2025 10:10:47 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 10:10:47 AM: INFO: Verifying HomePage Title
+03/26/2025 10:10:49 AM: INFO: HomePage Title Verification Passed
+03/26/2025 10:10:52 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 10:10:54 AM: INFO: Navigated to application URL
+03/26/2025 10:10:54 AM: INFO: Entering username
+03/26/2025 10:10:54 AM: INFO: Entering password
+03/26/2025 10:10:54 AM: INFO: Clicking login button
+03/26/2025 10:10:54 AM: INFO: Login successful
+03/26/2025 10:10:54 AM: ERROR: Login Test Failed: Unexpected Toaster Message - //div[@role = 'alert']
+03/26/2025 10:16:51 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 10:16:51 AM: INFO: Verifying HomePage Title
+03/26/2025 10:16:52 AM: INFO: HomePage Title Verification Passed
+03/26/2025 10:16:56 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 10:16:57 AM: INFO: Navigated to application URL
+03/26/2025 10:16:57 AM: INFO: Entering username
+03/26/2025 10:16:58 AM: INFO: Entering password
+03/26/2025 10:16:58 AM: INFO: Clicking login button
+03/26/2025 10:16:58 AM: INFO: Login successful
+03/26/2025 10:16:58 AM: ERROR: Login Test Failed: Unexpected Toaster Message - //div[@role='alert']
+03/26/2025 10:31:21 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 10:31:21 AM: INFO: Verifying HomePage Title
+03/26/2025 10:31:23 AM: INFO: HomePage Title Verification Passed
+03/26/2025 10:31:27 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 10:31:28 AM: INFO: Navigated to application URL
+03/26/2025 10:31:28 AM: INFO: Entering username
+03/26/2025 10:31:28 AM: INFO: Entering password
+03/26/2025 10:31:28 AM: INFO: Clicking login button
+03/26/2025 10:31:28 AM: INFO: Login successful
+03/26/2025 10:31:30 AM: ERROR: Login Test Failed: Unexpected Toaster Message - Login Successful !
+03/26/2025 10:32:41 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 10:32:41 AM: INFO: Verifying HomePage Title
+03/26/2025 10:32:42 AM: INFO: HomePage Title Verification Passed
+03/26/2025 10:32:45 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 10:32:47 AM: INFO: Navigated to application URL
+03/26/2025 10:32:47 AM: INFO: Entering username
+03/26/2025 10:32:47 AM: INFO: Entering password
+03/26/2025 10:32:47 AM: INFO: Clicking login button
+03/26/2025 10:32:47 AM: INFO: Login successful
+03/26/2025 10:32:49 AM: ERROR: Login Test Failed: Unexpected Toaster Message - Login Successful !
+03/26/2025 10:33:22 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 10:33:22 AM: INFO: Verifying HomePage Title
+03/26/2025 10:33:24 AM: INFO: HomePage Title Verification Passed
+03/26/2025 10:33:27 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 10:33:28 AM: INFO: Navigated to application URL
+03/26/2025 10:33:28 AM: INFO: Entering username
+03/26/2025 10:33:29 AM: INFO: Entering password
+03/26/2025 10:33:29 AM: INFO: Clicking login button
+03/26/2025 10:33:29 AM: INFO: Login successful
+03/26/2025 10:33:30 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 11:51:57 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 11:51:57 AM: INFO: Verifying HomePage Title
+03/26/2025 11:51:59 AM: INFO: HomePage Title Verification Passed
+03/26/2025 11:52:05 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 11:52:09 AM: INFO: Navigated to application URL
+03/26/2025 11:52:09 AM: INFO: Clicking login button on the homepage
+03/26/2025 11:52:09 AM: INFO: Entering username
+03/26/2025 11:52:09 AM: INFO: Entering password
+03/26/2025 11:52:09 AM: INFO: Clicking login button
+03/26/2025 11:52:09 AM: INFO: Login successful
+03/26/2025 11:52:10 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 11:55:04 AM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 11:55:04 AM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 11:55:04 AM: INFO: Verifying HomePage Title
+03/26/2025 11:55:06 AM: INFO: HomePage Title Verification Passed
+03/26/2025 11:55:06 AM: INFO: Navigated to application URL
+03/26/2025 11:55:06 AM: INFO: Clicking login button on the homepage
+03/26/2025 11:55:07 AM: INFO: Entering username
+03/26/2025 11:55:07 AM: INFO: Entering password
+03/26/2025 11:55:07 AM: INFO: Clicking login button
+03/26/2025 11:55:07 AM: INFO: Login successful
+03/26/2025 11:55:08 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 12:39:06 PM: INFO: ******************************* Test_001_Login **********************************
+03/26/2025 12:39:06 PM: INFO: Verifying HomePage Title
+03/26/2025 12:39:06 PM: INFO: ******************************* Login Test Started **********************************
+03/26/2025 12:39:07 PM: INFO: HomePage Title Verification Passed
+03/26/2025 12:39:08 PM: INFO: Navigated to application URL
+03/26/2025 12:39:08 PM: INFO: Clicking login button on the homepage
+03/26/2025 12:39:09 PM: INFO: Entering username
+03/26/2025 12:39:09 PM: INFO: Entering password
+03/26/2025 12:39:09 PM: INFO: Clicking login button
+03/26/2025 12:39:09 PM: INFO: Login successful
+03/26/2025 12:39:10 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 12:39:12 PM: INFO: ******************************* Login to Logout Flow Test Started **********************************
+03/26/2025 12:39:13 PM: INFO: Clicking login button on the homepage
+03/26/2025 12:44:52 PM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+03/26/2025 12:44:52 PM: INFO: ********** Test_001_Login: Login Test Started **********
+03/26/2025 12:44:55 PM: INFO: Clicking login button on the homepage
+03/26/2025 12:44:55 PM: INFO: HomePage Title Verification Passed
+03/26/2025 12:44:56 PM: INFO: Entering username
+03/26/2025 12:44:57 PM: INFO: Entering password
+03/26/2025 12:44:58 PM: INFO: Clicking login button
+03/26/2025 12:44:59 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 12:45:04 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029843709090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7555603fa1c0fca4d944e89ae41b879c
+03/26/2025 12:45:06 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AD2D0011D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0da3da4587ab90d0c9cece69f56d87c8
+03/26/2025 12:45:08 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029843709450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7555603fa1c0fca4d944e89ae41b879c
+03/26/2025 12:45:10 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AD2D001450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0da3da4587ab90d0c9cece69f56d87c8
+03/26/2025 12:45:12 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000298435E3490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7555603fa1c0fca4d944e89ae41b879c
+03/26/2025 12:45:14 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AD2CEE2B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0da3da4587ab90d0c9cece69f56d87c8
+03/26/2025 12:45:23 PM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+03/26/2025 12:45:24 PM: INFO: Clicking login button on the homepage
+03/26/2025 12:45:24 PM: INFO: Entering username
+03/26/2025 12:45:24 PM: INFO: Entering password
+03/26/2025 12:45:24 PM: INFO: Clicking login button
+03/26/2025 12:45:26 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 12:45:26 PM: INFO: Logging out of the application
+03/26/2025 12:48:27 PM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+03/26/2025 12:48:27 PM: INFO: ********** Test_001_Login: Login Test Started **********
+03/26/2025 12:48:30 PM: INFO: HomePage Title Verification Passed
+03/26/2025 12:48:30 PM: INFO: Clicking login button on the homepage
+03/26/2025 12:48:30 PM: INFO: Entering username
+03/26/2025 12:48:31 PM: INFO: Entering password
+03/26/2025 12:48:31 PM: INFO: Clicking login button
+03/26/2025 12:48:32 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 12:48:36 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DA6CEB1090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/753a292bd5299fff7b467ed9bd9cb0c2
+03/26/2025 12:48:38 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B6C3A611D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6370f5319726a936c381734936bacfef
+03/26/2025 12:48:41 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DA6CEB1450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/753a292bd5299fff7b467ed9bd9cb0c2
+03/26/2025 12:48:42 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B6C3A61450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6370f5319726a936c381734936bacfef
+03/26/2025 12:48:45 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DA6CD93360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/753a292bd5299fff7b467ed9bd9cb0c2
+03/26/2025 12:48:46 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B6C3922B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6370f5319726a936c381734936bacfef
+03/26/2025 12:48:55 PM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+03/26/2025 12:48:56 PM: INFO: Clicking login button on the homepage
+03/26/2025 12:48:56 PM: INFO: Entering username
+03/26/2025 12:48:56 PM: INFO: Entering password
+03/26/2025 12:48:56 PM: INFO: Clicking login button
+03/26/2025 12:48:57 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 12:48:57 PM: INFO: Logging out of the application
+03/26/2025 12:55:19 PM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+03/26/2025 12:55:22 PM: INFO: Clicking login button on the homepage
+03/26/2025 12:55:22 PM: INFO: HomePage Title Verification Passed
+03/26/2025 12:55:23 PM: INFO: Entering username
+03/26/2025 12:55:24 PM: INFO: Entering password
+03/26/2025 12:55:24 PM: INFO: Clicking login button
+03/26/2025 12:55:26 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 12:55:30 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FBAE551090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/becbfaa20efca4c838f610cfb9070179
+03/26/2025 12:55:32 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026AC1E911D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9c6b104043709eab73e562012597c769
+03/26/2025 12:55:34 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FBAE551450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/becbfaa20efca4c838f610cfb9070179
+03/26/2025 12:55:36 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026AC1E91450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9c6b104043709eab73e562012597c769
+03/26/2025 12:55:38 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FBAE433360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/becbfaa20efca4c838f610cfb9070179
+03/26/2025 12:55:40 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026AC1D72B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9c6b104043709eab73e562012597c769
+03/26/2025 12:55:49 PM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+03/26/2025 12:55:50 PM: INFO: Clicking login button on the homepage
+03/26/2025 12:55:50 PM: INFO: Entering username
+03/26/2025 12:55:50 PM: INFO: Entering password
+03/26/2025 12:55:50 PM: INFO: Clicking login button
+03/26/2025 12:55:51 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 12:55:51 PM: INFO: Logging out of the application
+03/26/2025 01:01:23 PM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+03/26/2025 01:01:23 PM: INFO: ********** Test_001_Login: Login Test Started **********
+03/26/2025 01:01:25 PM: INFO: Clicking login button on the homepage
+03/26/2025 01:01:27 PM: INFO: HomePage Title Verification Passed
+03/26/2025 01:01:27 PM: INFO: Entering username
+03/26/2025 01:01:27 PM: INFO: Entering password
+03/26/2025 01:01:28 PM: INFO: Clicking login button
+03/26/2025 01:01:29 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 01:01:33 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017F7E7D1090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/713691ba32d92239636a034b70e925b4
+03/26/2025 01:01:35 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C185811D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e652321dde8d1bf56329086b22e95a56
+03/26/2025 01:01:37 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017F7E7D1450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/713691ba32d92239636a034b70e925b4
+03/26/2025 01:01:39 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C18581450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e652321dde8d1bf56329086b22e95a56
+03/26/2025 01:01:41 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017F7E6B3360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/713691ba32d92239636a034b70e925b4
+03/26/2025 01:01:43 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C18462B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e652321dde8d1bf56329086b22e95a56
+03/26/2025 01:01:52 PM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+03/26/2025 01:01:53 PM: INFO: Clicking login button on the homepage
+03/26/2025 01:01:53 PM: INFO: Entering username
+03/26/2025 01:01:53 PM: INFO: Entering password
+03/26/2025 01:01:53 PM: INFO: Clicking login button
+03/26/2025 01:01:55 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 01:01:55 PM: INFO: Logging out of the application
+03/26/2025 01:12:23 PM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+03/26/2025 01:12:23 PM: INFO: ********** Test_001_Login: Login Test Started **********
+03/26/2025 01:12:23 PM: INFO: Clicking login button on the homepage
+03/26/2025 01:12:25 PM: INFO: HomePage Title Verification Passed
+03/26/2025 01:12:26 PM: INFO: Entering username
+03/26/2025 01:12:26 PM: INFO: Entering password
+03/26/2025 01:12:26 PM: INFO: Clicking login button
+03/26/2025 01:12:28 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 01:12:33 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000158DBCC1090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f982c51ff32f5e833129e683b480ac17
+03/26/2025 01:12:34 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FCF43011D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/822ec642669916a0335b782e0127477f
+03/26/2025 01:12:37 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000158DBCC1450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f982c51ff32f5e833129e683b480ac17
+03/26/2025 01:12:38 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FCF4301450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/822ec642669916a0335b782e0127477f
+03/26/2025 01:12:42 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000158DBBA3360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f982c51ff32f5e833129e683b480ac17
+03/26/2025 01:12:42 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FCF41E2B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/822ec642669916a0335b782e0127477f
+03/26/2025 01:12:51 PM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+03/26/2025 01:12:53 PM: INFO: Clicking login button on the homepage
+03/26/2025 01:12:53 PM: INFO: Entering username
+03/26/2025 01:12:53 PM: INFO: Entering password
+03/26/2025 01:12:53 PM: INFO: Clicking login button
+03/26/2025 01:12:54 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 01:12:54 PM: INFO: Logging out of the application
+03/26/2025 01:14:18 PM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+03/26/2025 01:14:18 PM: INFO: ********** Test_001_Login: Login Test Started **********
+03/26/2025 01:14:19 PM: INFO: Clicking login button on the homepage
+03/26/2025 01:14:19 PM: INFO: HomePage Title Verification Passed
+03/26/2025 01:14:20 PM: INFO: Entering username
+03/26/2025 01:14:20 PM: INFO: Entering password
+03/26/2025 01:14:20 PM: INFO: Clicking login button
+03/26/2025 01:14:22 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 01:14:26 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000154416A1090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/984f9bc96561b1d4f18c58f214b7ac79
+03/26/2025 01:14:28 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013EF7D311D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e9d49521c1ea66866571b4175e78d07f
+03/26/2025 01:14:30 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000154416A1450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/984f9bc96561b1d4f18c58f214b7ac79
+03/26/2025 01:14:32 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013EF7D31450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e9d49521c1ea66866571b4175e78d07f
+03/26/2025 01:14:34 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015441583360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/984f9bc96561b1d4f18c58f214b7ac79
+03/26/2025 01:14:36 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013EF7C12B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e9d49521c1ea66866571b4175e78d07f
+03/26/2025 01:14:43 PM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+03/26/2025 01:14:45 PM: INFO: Clicking login button on the homepage
+03/26/2025 01:14:45 PM: INFO: Entering username
+03/26/2025 01:14:45 PM: INFO: Entering password
+03/26/2025 01:14:45 PM: INFO: Clicking login button
+03/26/2025 01:14:46 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 01:14:46 PM: INFO: Logging out of the application
+03/26/2025 01:14:47 PM: INFO: Logout successful
+03/26/2025 01:14:53 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000154416C85A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/883c1feb3607f0dfe012e96aadef9f5b
+03/26/2025 01:14:57 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000154416C8F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/883c1feb3607f0dfe012e96aadef9f5b
+03/26/2025 01:15:01 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000154416C9370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/883c1feb3607f0dfe012e96aadef9f5b
+03/26/2025 02:18:28 PM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+03/26/2025 02:18:30 PM: INFO: Clicking login button on the homepage
+03/26/2025 02:18:31 PM: INFO: Entering username
+03/26/2025 02:18:32 PM: INFO: Entering password
+03/26/2025 02:18:32 PM: INFO: Clicking login button
+03/26/2025 02:18:34 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 02:18:34 PM: INFO: Logging out of the application
+03/26/2025 02:18:35 PM: INFO: Logout successful
+03/26/2025 02:18:41 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D8C9768F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/def9d0a8a1074d1a6fb6627bcc36d498
+03/26/2025 02:18:45 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D8C9769090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/def9d0a8a1074d1a6fb6627bcc36d498
+03/26/2025 02:18:49 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002D8C96436F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/def9d0a8a1074d1a6fb6627bcc36d498
+03/26/2025 02:20:52 PM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+03/26/2025 02:20:53 PM: INFO: Clicking login button on the homepage
+03/26/2025 02:20:56 PM: INFO: Entering username
+03/26/2025 02:20:56 PM: INFO: Entering password
+03/26/2025 02:20:56 PM: INFO: Clicking login button
+03/26/2025 02:20:58 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 02:20:58 PM: INFO: Logging out of the application
+03/26/2025 02:20:58 PM: INFO: Logout successful
+03/26/2025 02:20:59 PM: INFO: HomePage Title Verification Passed
+03/26/2025 02:21:05 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001964B43CF50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3a4598dd26ed433ab63a359a63e5c8da
+03/26/2025 02:21:09 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001964B43D090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3a4598dd26ed433ab63a359a63e5c8da
+03/26/2025 02:21:13 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001964B2E36F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3a4598dd26ed433ab63a359a63e5c8da
+03/26/2025 02:30:21 PM: INFO: ********** Test_001_Login: Login Test Started **********
+03/26/2025 02:30:21 PM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+03/26/2025 02:30:23 PM: INFO: Clicking login button on the homepage
+03/26/2025 02:30:24 PM: INFO: HomePage Title Verification Passed
+03/26/2025 02:30:24 PM: INFO: Entering username
+03/26/2025 02:30:25 PM: INFO: Entering password
+03/26/2025 02:30:26 PM: INFO: Clicking login button
+03/26/2025 02:30:27 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 02:30:33 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A6F4F4D090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53c7e3de0c503724e292ac8c5169d2b2
+03/26/2025 02:30:34 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002075E3111D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/782b791f9d6033ed828930d2fc79910b
+03/26/2025 02:30:37 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A6F4F4D450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53c7e3de0c503724e292ac8c5169d2b2
+03/26/2025 02:30:38 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002075E311450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/782b791f9d6033ed828930d2fc79910b
+03/26/2025 02:30:41 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A6F4E03490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53c7e3de0c503724e292ac8c5169d2b2
+03/26/2025 02:30:42 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002075E1F2B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/782b791f9d6033ed828930d2fc79910b
+03/26/2025 02:30:52 PM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+03/26/2025 02:30:53 PM: INFO: Clicking login button on the homepage
+03/26/2025 02:30:53 PM: INFO: Entering username
+03/26/2025 02:30:54 PM: INFO: Entering password
+03/26/2025 02:30:54 PM: INFO: Clicking login button
+03/26/2025 02:30:55 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+03/26/2025 02:30:55 PM: INFO: Logging out of the application
+03/26/2025 02:30:56 PM: INFO: Logout successful
+03/26/2025 02:30:56 PM: INFO: HomePage Title Verification Passed
+03/26/2025 02:31:02 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A6F4F706B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2f1693978d6ff001664dcf9c0ee5d4be
+03/26/2025 02:31:06 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A6F4F71150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2f1693978d6ff001664dcf9c0ee5d4be
+03/26/2025 02:31:10 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A6F4F71590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2f1693978d6ff001664dcf9c0ee5d4be
+03/27/2025 09:10:15 AM: INFO: **************************Test_002_login_ddt test**********************
+03/27/2025 09:10:20 AM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'email']"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77D424C25+3179557]
+	(No symbol) [0x00007FF77D0888A0]
+	(No symbol) [0x00007FF77CF191CA]
+	(No symbol) [0x00007FF77CF6FA67]
+	(No symbol) [0x00007FF77CF6FC9C]
+	(No symbol) [0x00007FF77CFC3627]
+	(No symbol) [0x00007FF77CF97C6F]
+	(No symbol) [0x00007FF77CFC02F3]
+	(No symbol) [0x00007FF77CF97A03]
+	(No symbol) [0x00007FF77CF606D0]
+	(No symbol) [0x00007FF77CF61983]
+	GetHandleVerifier [0x00007FF77D4867CD+3579853]
+	GetHandleVerifier [0x00007FF77D49D1D2+3672530]
+	GetHandleVerifier [0x00007FF77D492153+3627347]
+	GetHandleVerifier [0x00007FF77D1F092A+868650]
+	(No symbol) [0x00007FF77D092FFF]
+	(No symbol) [0x00007FF77D08F4A4]
+	(No symbol) [0x00007FF77D08F646]
+	(No symbol) [0x00007FF77D07EAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/27/2025 09:10:20 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:10:20 AM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'email']"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77D424C25+3179557]
+	(No symbol) [0x00007FF77D0888A0]
+	(No symbol) [0x00007FF77CF191CA]
+	(No symbol) [0x00007FF77CF6FA67]
+	(No symbol) [0x00007FF77CF6FC9C]
+	(No symbol) [0x00007FF77CFC3627]
+	(No symbol) [0x00007FF77CF97C6F]
+	(No symbol) [0x00007FF77CFC02F3]
+	(No symbol) [0x00007FF77CF97A03]
+	(No symbol) [0x00007FF77CF606D0]
+	(No symbol) [0x00007FF77CF61983]
+	GetHandleVerifier [0x00007FF77D4867CD+3579853]
+	GetHandleVerifier [0x00007FF77D49D1D2+3672530]
+	GetHandleVerifier [0x00007FF77D492153+3627347]
+	GetHandleVerifier [0x00007FF77D1F092A+868650]
+	(No symbol) [0x00007FF77D092FFF]
+	(No symbol) [0x00007FF77D08F4A4]
+	(No symbol) [0x00007FF77D08F646]
+	(No symbol) [0x00007FF77D07EAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/27/2025 09:10:20 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:10:20 AM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'email']"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77D424C25+3179557]
+	(No symbol) [0x00007FF77D0888A0]
+	(No symbol) [0x00007FF77CF191CA]
+	(No symbol) [0x00007FF77CF6FA67]
+	(No symbol) [0x00007FF77CF6FC9C]
+	(No symbol) [0x00007FF77CFC3627]
+	(No symbol) [0x00007FF77CF97C6F]
+	(No symbol) [0x00007FF77CFC02F3]
+	(No symbol) [0x00007FF77CF97A03]
+	(No symbol) [0x00007FF77CF606D0]
+	(No symbol) [0x00007FF77CF61983]
+	GetHandleVerifier [0x00007FF77D4867CD+3579853]
+	GetHandleVerifier [0x00007FF77D49D1D2+3672530]
+	GetHandleVerifier [0x00007FF77D492153+3627347]
+	GetHandleVerifier [0x00007FF77D1F092A+868650]
+	(No symbol) [0x00007FF77D092FFF]
+	(No symbol) [0x00007FF77D08F4A4]
+	(No symbol) [0x00007FF77D08F646]
+	(No symbol) [0x00007FF77D07EAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/27/2025 09:10:21 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:10:21 AM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'email']"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF77D424C25+3179557]
+	(No symbol) [0x00007FF77D0888A0]
+	(No symbol) [0x00007FF77CF191CA]
+	(No symbol) [0x00007FF77CF6FA67]
+	(No symbol) [0x00007FF77CF6FC9C]
+	(No symbol) [0x00007FF77CFC3627]
+	(No symbol) [0x00007FF77CF97C6F]
+	(No symbol) [0x00007FF77CFC02F3]
+	(No symbol) [0x00007FF77CF97A03]
+	(No symbol) [0x00007FF77CF606D0]
+	(No symbol) [0x00007FF77CF61983]
+	GetHandleVerifier [0x00007FF77D4867CD+3579853]
+	GetHandleVerifier [0x00007FF77D49D1D2+3672530]
+	GetHandleVerifier [0x00007FF77D492153+3627347]
+	GetHandleVerifier [0x00007FF77D1F092A+868650]
+	(No symbol) [0x00007FF77D092FFF]
+	(No symbol) [0x00007FF77D08F4A4]
+	(No symbol) [0x00007FF77D08F646]
+	(No symbol) [0x00007FF77D07EAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/27/2025 09:10:21 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:10:21 AM: INFO: ******** Login DDT test failed *********
+03/27/2025 09:18:38 AM: INFO: **************************Test_002_login_ddt test**********************
+03/27/2025 09:24:01 AM: INFO: **************************Test_002_login_ddt test**********************
+03/27/2025 09:24:09 AM: INFO: *** Test Passed ***
+03/27/2025 09:24:10 AM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'email']"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66B014C25+3179557]
+	(No symbol) [0x00007FF66AC788A0]
+	(No symbol) [0x00007FF66AB091CA]
+	(No symbol) [0x00007FF66AB5FA67]
+	(No symbol) [0x00007FF66AB5FC9C]
+	(No symbol) [0x00007FF66ABB3627]
+	(No symbol) [0x00007FF66AB87C6F]
+	(No symbol) [0x00007FF66ABB02F3]
+	(No symbol) [0x00007FF66AB87A03]
+	(No symbol) [0x00007FF66AB506D0]
+	(No symbol) [0x00007FF66AB51983]
+	GetHandleVerifier [0x00007FF66B0767CD+3579853]
+	GetHandleVerifier [0x00007FF66B08D1D2+3672530]
+	GetHandleVerifier [0x00007FF66B082153+3627347]
+	GetHandleVerifier [0x00007FF66ADE092A+868650]
+	(No symbol) [0x00007FF66AC82FFF]
+	(No symbol) [0x00007FF66AC7F4A4]
+	(No symbol) [0x00007FF66AC7F646]
+	(No symbol) [0x00007FF66AC6EAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/27/2025 09:24:10 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:24:10 AM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'email']"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66B014C25+3179557]
+	(No symbol) [0x00007FF66AC788A0]
+	(No symbol) [0x00007FF66AB091CA]
+	(No symbol) [0x00007FF66AB5FA67]
+	(No symbol) [0x00007FF66AB5FC9C]
+	(No symbol) [0x00007FF66ABB3627]
+	(No symbol) [0x00007FF66AB87C6F]
+	(No symbol) [0x00007FF66ABB02F3]
+	(No symbol) [0x00007FF66AB87A03]
+	(No symbol) [0x00007FF66AB506D0]
+	(No symbol) [0x00007FF66AB51983]
+	GetHandleVerifier [0x00007FF66B0767CD+3579853]
+	GetHandleVerifier [0x00007FF66B08D1D2+3672530]
+	GetHandleVerifier [0x00007FF66B082153+3627347]
+	GetHandleVerifier [0x00007FF66ADE092A+868650]
+	(No symbol) [0x00007FF66AC82FFF]
+	(No symbol) [0x00007FF66AC7F4A4]
+	(No symbol) [0x00007FF66AC7F646]
+	(No symbol) [0x00007FF66AC6EAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/27/2025 09:24:10 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:24:10 AM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'email']"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66B014C25+3179557]
+	(No symbol) [0x00007FF66AC788A0]
+	(No symbol) [0x00007FF66AB091CA]
+	(No symbol) [0x00007FF66AB5FA67]
+	(No symbol) [0x00007FF66AB5FC9C]
+	(No symbol) [0x00007FF66ABB3627]
+	(No symbol) [0x00007FF66AB87C6F]
+	(No symbol) [0x00007FF66ABB02F3]
+	(No symbol) [0x00007FF66AB87A03]
+	(No symbol) [0x00007FF66AB506D0]
+	(No symbol) [0x00007FF66AB51983]
+	GetHandleVerifier [0x00007FF66B0767CD+3579853]
+	GetHandleVerifier [0x00007FF66B08D1D2+3672530]
+	GetHandleVerifier [0x00007FF66B082153+3627347]
+	GetHandleVerifier [0x00007FF66ADE092A+868650]
+	(No symbol) [0x00007FF66AC82FFF]
+	(No symbol) [0x00007FF66AC7F4A4]
+	(No symbol) [0x00007FF66AC7F646]
+	(No symbol) [0x00007FF66AC6EAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/27/2025 09:24:10 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:24:10 AM: INFO: ******** Login DDT test failed *********
+03/27/2025 09:34:13 AM: INFO: **************************Test_002_login_ddt test**********************
+03/27/2025 09:34:22 AM: INFO: *** Test Passed ***
+03/27/2025 09:34:29 AM: INFO: *** Test Failed ***
+03/27/2025 09:34:29 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:34:29 AM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='Log In']"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66B014C25+3179557]
+	(No symbol) [0x00007FF66AC788A0]
+	(No symbol) [0x00007FF66AB091CA]
+	(No symbol) [0x00007FF66AB5FA67]
+	(No symbol) [0x00007FF66AB5FC9C]
+	(No symbol) [0x00007FF66ABB3627]
+	(No symbol) [0x00007FF66AB87C6F]
+	(No symbol) [0x00007FF66ABB02F3]
+	(No symbol) [0x00007FF66AB87A03]
+	(No symbol) [0x00007FF66AB506D0]
+	(No symbol) [0x00007FF66AB51983]
+	GetHandleVerifier [0x00007FF66B0767CD+3579853]
+	GetHandleVerifier [0x00007FF66B08D1D2+3672530]
+	GetHandleVerifier [0x00007FF66B082153+3627347]
+	GetHandleVerifier [0x00007FF66ADE092A+868650]
+	(No symbol) [0x00007FF66AC82FFF]
+	(No symbol) [0x00007FF66AC7F4A4]
+	(No symbol) [0x00007FF66AC7F646]
+	(No symbol) [0x00007FF66AC6EAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/27/2025 09:34:29 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:34:29 AM: ERROR: Exception occurred during test execution: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()='Log In']"}
+  (Session info: chrome=134.0.6998.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF66B014C25+3179557]
+	(No symbol) [0x00007FF66AC788A0]
+	(No symbol) [0x00007FF66AB091CA]
+	(No symbol) [0x00007FF66AB5FA67]
+	(No symbol) [0x00007FF66AB5FC9C]
+	(No symbol) [0x00007FF66ABB3627]
+	(No symbol) [0x00007FF66AB87C6F]
+	(No symbol) [0x00007FF66ABB02F3]
+	(No symbol) [0x00007FF66AB87A03]
+	(No symbol) [0x00007FF66AB506D0]
+	(No symbol) [0x00007FF66AB51983]
+	GetHandleVerifier [0x00007FF66B0767CD+3579853]
+	GetHandleVerifier [0x00007FF66B08D1D2+3672530]
+	GetHandleVerifier [0x00007FF66B082153+3627347]
+	GetHandleVerifier [0x00007FF66ADE092A+868650]
+	(No symbol) [0x00007FF66AC82FFF]
+	(No symbol) [0x00007FF66AC7F4A4]
+	(No symbol) [0x00007FF66AC7F646]
+	(No symbol) [0x00007FF66AC6EAA9]
+	BaseThreadInitThunk [0x00007FFEA0C2E8D7+23]
+	RtlUserThreadStart [0x00007FFEA2A5BF6C+44]
+
+03/27/2025 09:34:29 AM: WARNING: Logout failed, possibly due to an invalid login attempt.
+03/27/2025 09:34:29 AM: INFO: ******** Login DDT test failed *********
+03/27/2025 09:37:48 AM: INFO: **************************Test_002_login_ddt test**********************
+03/27/2025 09:37:58 AM: INFO: *** Test Passed ***
+03/27/2025 09:38:04 AM: INFO: *** Test Failed ***
+03/27/2025 09:38:04 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:38:04 AM: ERROR: Login button not found on homepage, skipping iteration.
+03/27/2025 09:38:04 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:38:04 AM: ERROR: Login button not found on homepage, skipping iteration.
+03/27/2025 09:38:04 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:38:04 AM: INFO: ******** Login DDT test failed *********
+03/27/2025 09:40:02 AM: INFO: **************************Test_002_login_ddt test**********************
+03/27/2025 09:40:09 AM: INFO: *** Test Passed ***
+03/27/2025 09:40:16 AM: INFO: *** Test Failed ***
+03/27/2025 09:40:16 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:40:16 AM: ERROR: Login button not found on homepage, skipping iteration.
+03/27/2025 09:40:16 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:40:16 AM: ERROR: Login button not found on homepage, skipping iteration.
+03/27/2025 09:40:16 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:40:16 AM: INFO: ******** Login DDT test failed *********
+03/27/2025 09:44:32 AM: INFO: **************************Test_002_login_ddt test**********************
+03/27/2025 09:44:41 AM: INFO: *** Test Passed ***
+03/27/2025 09:44:48 AM: INFO: *** Test Failed ***
+03/27/2025 09:44:48 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:44:48 AM: ERROR: Login button not found on homepage, skipping iteration.
+03/27/2025 09:44:48 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:44:48 AM: ERROR: Login button not found on homepage, skipping iteration.
+03/27/2025 09:44:48 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:44:48 AM: INFO: ******* End of Login DDT Test **********
+03/27/2025 09:44:48 AM: INFO: **************** Completed TC_LoginDDT_002 *************
+03/27/2025 09:49:13 AM: INFO: **************************Test_002_login_ddt test**********************
+03/27/2025 09:49:20 AM: INFO: *** Test Passed ***
+03/27/2025 09:49:26 AM: INFO: *** Test Failed ***
+03/27/2025 09:49:26 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:49:26 AM: ERROR: Login button not found on homepage, skipping this test case.
+03/27/2025 09:49:26 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:49:26 AM: ERROR: Login button not found on homepage, skipping this test case.
+03/27/2025 09:49:26 AM: WARNING: Logout elements not found, possibly due to an invalid login attempt.
+03/27/2025 09:49:26 AM: INFO: ******* End of Login DDT Test **********
+03/27/2025 09:49:26 AM: INFO: **************** Completed TC_LoginDDT_002 *************
+04/02/2025 09:43:29 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+04/02/2025 09:43:31 AM: INFO: HomePage Title Verification Passed
+04/02/2025 09:43:37 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024928DCBED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f7d24b7b65b14b6d02f8352186071e6b
+04/02/2025 09:43:41 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024928E642D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f7d24b7b65b14b6d02f8352186071e6b
+04/02/2025 09:43:45 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024928CB7360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f7d24b7b65b14b6d02f8352186071e6b
+04/02/2025 09:43:55 AM: INFO: ********** Test_001_Login: Login Test Started **********
+04/02/2025 09:43:57 AM: INFO: Clicking login button on the homepage
+04/02/2025 09:43:57 AM: INFO: Entering username
+04/02/2025 09:43:57 AM: INFO: Entering password
+04/02/2025 09:43:58 AM: INFO: Clicking login button
+04/02/2025 09:43:59 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+04/02/2025 09:44:05 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024928E708D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d4c3e2a01e7e305bf474b287ffb4830a
+04/02/2025 09:44:09 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024928E70C00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d4c3e2a01e7e305bf474b287ffb4830a
+04/02/2025 09:44:13 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024928E71040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d4c3e2a01e7e305bf474b287ffb4830a
+04/02/2025 09:44:23 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+04/02/2025 09:44:24 AM: INFO: Clicking login button on the homepage
+04/02/2025 09:44:25 AM: INFO: Entering username
+04/02/2025 09:44:25 AM: INFO: Entering password
+04/02/2025 09:44:25 AM: INFO: Clicking login button
+04/02/2025 09:44:26 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+04/02/2025 09:44:26 AM: INFO: Logging out of the application
+04/02/2025 09:44:27 AM: INFO: Logout successful
+04/02/2025 09:44:27 AM: INFO: HomePage Title Verification Passed
+04/02/2025 09:44:33 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024928E705A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/614ecad1a2b78f9791ecad5109cc113b
+04/02/2025 09:44:37 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024928E72140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/614ecad1a2b78f9791ecad5109cc113b
+04/02/2025 09:44:41 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024928E72470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/614ecad1a2b78f9791ecad5109cc113b
+04/03/2025 09:56:49 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 09:56:51 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 09:56:51 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:02:04 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:02:04 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:02:04 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:03:44 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:03:45 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:03:45 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:15:56 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:16:36 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:16:36 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:16:37 AM: INFO: Fetched latest opinion text: 
+04/03/2025 10:16:37 AM: ERROR: Home Page Title Verification Failed
+04/03/2025 10:16:37 AM: INFO: Screenshot captured: ./Screenshots/test_homepage_title.png
+04/03/2025 10:22:25 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:22:26 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:22:26 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:22:35 AM: INFO: Fetched latest opinion text: Latest Opinion
+04/03/2025 10:22:35 AM: INFO: Home Page Title Verification Passed
+04/03/2025 10:22:35 AM: INFO: ========== TestHomePage: Home Page Title Verification Completed ==========
+04/03/2025 10:24:31 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:24:33 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:24:33 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:24:42 AM: INFO: Fetched latest opinion text: Latest Opinion
+04/03/2025 10:24:42 AM: INFO: Home Page Title Verification Passed
+04/03/2025 10:24:42 AM: INFO: ========== TestHomePage: Home Page Title Verification Completed ==========
+04/03/2025 10:26:47 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:26:48 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:26:48 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:34:42 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:34:43 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:34:44 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:34:53 AM: INFO: Fetched latest opinion text: Latest Opinion
+04/03/2025 10:34:53 AM: INFO: Home Page Title Verification Passed
+04/03/2025 10:34:53 AM: INFO: ========== TestHomePage: Home Page Title Verification Completed ==========
+04/03/2025 10:37:03 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:37:05 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:37:05 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:37:14 AM: INFO: Fetched latest opinion text: Latest Opinion
+04/03/2025 10:37:14 AM: INFO: Home Page Title Verification Passed
+04/03/2025 10:37:14 AM: INFO: ========== TestHomePage: Home Page Title Verification Completed ==========
+04/03/2025 10:37:17 AM: INFO: ========== TestHomePage: Login Button Presence Verification Started ==========
+04/03/2025 10:37:19 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:37:19 AM: INFO: Login Button Presence Verification Passed
+04/03/2025 10:37:19 AM: INFO: ========== TestHomePage: Login Button Presence Verification Completed ==========
+04/03/2025 10:39:01 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:39:02 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:39:02 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:41:54 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:41:57 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:41:57 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:42:34 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:42:34 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:42:39 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:45:11 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:45:37 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:45:37 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:46:01 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:46:07 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:46:07 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:50:28 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:50:30 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:50:30 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 10:53:09 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 10:53:12 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 10:53:12 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 11:08:34 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 11:08:36 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 11:08:36 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 11:08:37 AM: INFO: Fetched latest opinion text: Latest Opinion
+04/03/2025 11:08:37 AM: INFO: Home Page Title Verification Passed
+04/03/2025 11:08:37 AM: INFO: ========== TestHomePage: Home Page Title Verification Completed ==========
+04/03/2025 11:12:46 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 11:12:47 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 11:12:47 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 11:12:48 AM: INFO: Fetched latest opinion text: Latest Opinion
+04/03/2025 11:12:48 AM: INFO: Home Page Title Verification Passed
+04/03/2025 11:12:48 AM: INFO: ========== TestHomePage: Home Page Title Verification Completed ==========
+04/03/2025 11:51:49 AM: INFO: ========== TestHomePage: Home Page Title Verification Started ==========
+04/03/2025 11:51:50 AM: INFO: Navigated to https://para.unada.in/
+04/03/2025 11:51:50 AM: INFO: Scrolling to 'Latest Opinion' section.
+04/03/2025 11:51:51 AM: INFO: Fetched latest opinion text: Latest Opinion
+04/03/2025 11:51:51 AM: INFO: Home Page Title Verification Passed
+04/03/2025 11:51:51 AM: INFO: ========== TestHomePage: Home Page Title Verification Completed ==========
+04/11/2025 11:01:08 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+04/11/2025 11:01:10 AM: INFO: HomePage Title Verification Passed
+04/11/2025 11:01:16 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015EA7B20050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b2d58af21714ceb41609e909edc02cb3
+04/11/2025 11:01:21 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015EA7B20410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b2d58af21714ceb41609e909edc02cb3
+04/11/2025 11:01:25 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015EA79FB230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b2d58af21714ceb41609e909edc02cb3
+04/11/2025 11:01:34 AM: INFO: ********** Test_001_Login: Login Test Started **********
+04/11/2025 11:01:36 AM: INFO: Clicking login button on the homepage
+04/11/2025 11:01:36 AM: INFO: Entering username
+04/11/2025 11:01:36 AM: INFO: Entering password
+04/11/2025 11:01:36 AM: INFO: Clicking login button
+04/11/2025 11:01:37 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+04/11/2025 11:01:44 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015EA7B30AF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/91ecf968a848390194c2a6d1107b854a
+04/11/2025 11:01:48 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015EA7B30E20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/91ecf968a848390194c2a6d1107b854a
+04/11/2025 11:01:52 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015EA7B31260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/91ecf968a848390194c2a6d1107b854a
+04/11/2025 11:02:02 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+04/11/2025 11:02:02 AM: INFO: Clicking login button on the homepage
+04/11/2025 11:02:04 AM: INFO: Entering username
+04/11/2025 11:02:04 AM: INFO: Entering password
+04/11/2025 11:02:04 AM: INFO: Clicking login button
+04/11/2025 11:02:05 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+04/11/2025 11:02:05 AM: INFO: Logging out of the application
+04/11/2025 11:02:06 AM: INFO: Logout successful
+04/11/2025 11:02:06 AM: INFO: HomePage Title Verification Passed
+04/11/2025 11:02:12 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015EA7B307C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/47a11814e77a7c1457fe36a1bf2f65a9
+04/11/2025 11:02:17 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015EA7B32360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/47a11814e77a7c1457fe36a1bf2f65a9
+04/11/2025 11:02:21 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015EA7B32690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/47a11814e77a7c1457fe36a1bf2f65a9

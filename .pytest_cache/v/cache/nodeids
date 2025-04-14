@@ -1,0 +1,9 @@
+[
+  "TestCases/test_Login.py::Test001Login::test_homepage_title",
+  "TestCases/test_Login.py::Test001Login::test_login",
+  "TestCases/test_Login.py::Test001Login::test_login_to_logout_flow",
+  "TestCases/test_Login.py::test_homepage_title",
+  "TestCases/test_Login.py::test_login",
+  "TestCases/test_home_page.py::TestHomePage::test_home_page_title",
+  "TestCases/test_home_page.py::TestHomePage::test_login_button_presence"
+]
