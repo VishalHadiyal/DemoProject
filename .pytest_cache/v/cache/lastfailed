@@ -1,5 +1,21 @@
 {
   "TestCases/test_Login.py::test_login": true,
   "TestCases/test_Login.py::test_homepage_title": true,
-  "TestCases/test_home_page.py::TestHomePage::test_home_page_social_media_icons": true
+  "TestCases/test_home_page.py::TestHomePage::test_home_page_social_media_icons": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_services_logo_displayed[Parasors-get_services_parasors_logo]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_services_logo_displayed[Paradraft-get_services_paradraft_logo]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_services_logo_displayed[Parasearch-get_services_parasearch_logo]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_services_logo_displayed[Paradoc-get_services_paradoc_logo]": true,
+  "TestCases/test_services_page.py::test_service_logo_and_content[Paradoc-get_services_paradoc_logo-services_paradoc_logo_xpath-get_services_content_of_paradoc-services_content_of_parasearch_css_selector-Paradoc specializes in the analysis and management of legal documents within the ParaSearch ecosystem.]": true,
+  "TestCases/test_services_page.py::test_service_logo_and_content[Parasors-get_services_parasors_logo-None-get_services_content_of_parasors-None-ParaSors leverages AI to provide e-journal updates and generate original headnotes for Indian court judgments.]": true,
+  "TestCases/test_services_page.py::test_service_logo_and_content[Parasearch-get_services_parasearch_logo-services_parasearch_logo_xpath-get_services_content_of_parasearch-services_content_of_parasearch_css_selector-ParaSearch's flagship product is a cutting-edge legal research assistant built upon an advanced Language Learning Model (LLM).]": true,
+  "TestCases/test_services_page.py::test_service_logo_and_content[Paradoc-get_services_paradoc_logo-services_paradoc_logo_xpath-get_services_content_of_paradoc-services_content_of_paradoc_css_selector-Paradoc specializes in the analysis and management of legal documents within the ParaSearch ecosystem.]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_service_logo_and_content[Parasors-get_services_parasors_logo-None-get_services_content_of_parasors-None-ParaSors leverages AI to provide e-journal updates and generate original headnotes for Indian court judgments.]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_service_logo_and_content[Parasearch-get_services_parasearch_logo-services_parasearch_logo_xpath-get_services_content_of_parasearch-services_content_of_parasearch_css_selector-ParaSearch's flagship product is a cutting-edge legal research assistant built upon an advanced Language Learning Model (LLM).]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_service_logo_and_content[Paradoc-get_services_paradoc_logo-services_paradoc_logo_xpath-get_services_content_of_paradoc-services_content_of_paradoc_css_selector-Paradoc specializes in the analysis and management of legal documents within the ParaSearch ecosystem.]": true,
+  "TestCases/test_services_page.py::test_services_all_logos_and_content": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_responsive_view[375-667-Mobile]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_responsive_view[768-1024-Tablet]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_responsive_view[1920-1080-TV]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_services_responsive_views[Mobile-375-667]": true
 }

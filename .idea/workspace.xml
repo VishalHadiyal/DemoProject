@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef0c45c-83ad-4e85-a793-3ed1b5724681" name="Changes" comment="Add files via upload">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/test_services_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageObject/servicespage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_home_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageObject/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/homepage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +29,12 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VishalHadiyal/DemoProject.git",
-    "accountId": "330acbf3-8c0a-4302-8f9e-2f3fdf20f6e0"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VishalHadiyal/DemoProject.git&quot;,
+    &quot;accountId&quot;: &quot;330acbf3-8c0a-4302-8f9e-2f3fdf20f6e0&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/TestCases/test_Login.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -48,25 +47,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_Login.Test001Login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_Login.Test001Login.test_homepage_title.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loginPageTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/PycharmProjects/DemoProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_Login.Test001Login.executor": "Run",
+    "Python tests.Python tests for test_Login.Test001Login.test_homepage_title.executor": "Run",
+    "Python tests.Python tests for test_services_page.TestServicesPage.test_services_paradraft_logo_and_content.executor": "Run",
+    "Python.loginPageTest.executor": "Run",
+    "Python.practice.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/DELL/PycharmProjects/DemoProject",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\PycharmProjects\DemoProject\TestData" />
@@ -76,7 +76,7 @@
       <recent name="C:\Users\DELL\PycharmProjects\DemoProject\TestData" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Login.Test001Login">
+  <component name="RunManager" selected="Python tests.Python tests for test_services_page.TestServicesPage.test_services_paradraft_logo_and_content">
     <configuration name="loginPageTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DemoProject" />
       <option name="ENV_FILES" value="" />
@@ -151,8 +151,24 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_services_page.TestServicesPage.test_services_paradraft_logo_and_content" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DemoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_services_page.TestServicesPage.test_services_paradraft_logo_and_content&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_services_page.TestServicesPage.test_services_paradraft_logo_and_content" />
         <item itemvalue="Python tests.Python tests for test_Login.Test001Login.test_homepage_title" />
         <item itemvalue="Python tests.Python tests for test_Login.Test001Login" />
         <item itemvalue="Python.practice" />
