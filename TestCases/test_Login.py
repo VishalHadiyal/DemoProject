@@ -1,3 +1,5 @@
+import pytest
+
 from utilities.customlogger import LogGen
 from utilities.readProperties import ReadConfig
 from pageObject.loginPage import LoginPage
@@ -17,7 +19,7 @@ class Test001Login:
     password = ReadConfig.get_user_password()  # Admin password
     logger = LogGen.loggen()  # Logger instance for logging test execution details
 
-    # @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_homepage_title(self, setup):
         """
         Test case to verify the homepage title of the application.
@@ -39,7 +41,7 @@ class Test001Login:
 
         self.driver.quit()  # Ensure browser closure after test execution
 
-    # @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.functional
     def test_login(self, setup):
         """
         Test case to verify successful login functionality.
@@ -84,7 +86,7 @@ class Test001Login:
 
         self.driver.quit()  # Ensure browser closure after test execution
 
-    # @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.functional
     def test_login_to_logout_flow(self, setup):
         """
         Test case to verify successful login and logout functionality.

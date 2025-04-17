@@ -1,39 +1,56 @@
 from selenium import webdriver
 import pytest
+from selenium.webdriver.chrome.options import Options as ChromeOptions
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from selenium.webdriver.edge.options import Options as EdgeOptions
 
 
-# Pytest fixture to set up the WebDriver based on the selected browser
-@pytest.fixture()
-def setup(browser):
-    driver = None  # Initialize driver with None to avoid variable undefined error
+@pytest.fixture(params=["chrome", "firefox", "edge"])
+def setup(request, browser):
+    browser = request.param
+    headless = request.config.getoption("--headless")
+    driver = None
 
-    # Launch the appropriate browser based on the parameter received
     if browser == "chrome":
-        driver = webdriver.Chrome()
-        print("Launching Chrome browser")
+        options = ChromeOptions()
+        if headless:
+            options.add_argument("--headless=new")
+            print("Launching Chrome in headless mode")
+        else:
+            print("Launching Chrome")
+        driver = webdriver.Chrome(options=options)
+
     elif browser == "firefox":
-        driver = webdriver.Firefox()
-        print("Launching Firefox browser")
+        options = FirefoxOptions()
+        if headless:
+            options.add_argument("--headless")
+            print("Launching Firefox in headless mode")
+        else:
+            print("Launching Firefox")
+        driver = webdriver.Firefox(options=options)
+
     elif browser == "edge":
-        driver = webdriver.Edge()
-        print("Launching Edge browser")
+        options = EdgeOptions()
+        if headless:
+            options.add_argument("--headless")
+            print("Launching Edge in headless mode")
+        else:
+            print("Launching Edge")
+        driver = webdriver.Edge(options=options)
+
     else:
-        # Raise an exception if an unsupported browser is provided
         raise ValueError(f"Unsupported browser: {browser}")
 
-    yield driver  # Yield the driver instance for test execution
-
-    # Ensure the driver is quit after the test execution is complete
+    yield driver
     if driver:
         driver.quit()
 
 
 # Pytest hook to add a command-line option for selecting the browser
 # This allows specifying the browser via the CLI argument: --browser
-
 def pytest_addoption(parser):
-    parser.addoption("--browser", action="store", default="chrome",
-                     help="Browser to run tests on: chrome, firefox, edge")
+    parser.addoption("--browser", action="store", default="chrome", help="Browser to use: chrome, firefox, edge")
+    parser.addoption("--headless", action="store_true", help="Run tests in headless mode")
 
 
 # Pytest fixture to retrieve the browser value from command-line options

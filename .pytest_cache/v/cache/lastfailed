@@ -17,5 +17,9 @@
   "TestCases/test_services_page.py::TestServicesPage::test_responsive_view[375-667-Mobile]": true,
   "TestCases/test_services_page.py::TestServicesPage::test_responsive_view[768-1024-Tablet]": true,
   "TestCases/test_services_page.py::TestServicesPage::test_responsive_view[1920-1080-TV]": true,
-  "TestCases/test_services_page.py::TestServicesPage::test_services_responsive_views[Mobile-375-667]": true
+  "TestCases/test_services_page.py::TestServicesPage::test_services_responsive_views[Mobile-375-667]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_services_page_name": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_services_responsive_views[firefox-Mobile-375-667]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_services_responsive_views[chrome-Mobile-375-667]": true,
+  "TestCases/test_services_page.py::TestServicesPage::test_services_responsive_views[edge-Mobile-375-667]": true
 }

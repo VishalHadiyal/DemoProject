@@ -17,7 +17,7 @@ class TestHomePage:
     logger = LogGen.loggen()  # Initialize logger
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_home_page_title(self, setup):
         """
         Test case to verify the home page title.
@@ -57,7 +57,7 @@ class TestHomePage:
         self.logger.info("========== TestHomePage: Home Page Title Verification Completed ==========")
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.functional
     def test_latest_opinion_count(self, setup):
         """
         Test case to verify the count of latest opinions.
@@ -102,7 +102,7 @@ class TestHomePage:
         self.driver.quit()
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_home_page_logo(self, setup):
         """
         Test case to verify the home page logo.
@@ -125,7 +125,7 @@ class TestHomePage:
         self.driver.quit()
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.functional
     def test_home_page_menu_items(self, setup):
         """
         Test case to verify the home page menu items.
@@ -151,7 +151,7 @@ class TestHomePage:
         self.logger.info("========== TestHomePage: Home Page Menu Items Verification Completed ==========")
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_home_page_para_text(self, setup):
         """
         Test case to verify the PARA text on the home page.
@@ -178,7 +178,7 @@ class TestHomePage:
         self.driver.quit()
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_instagram_icon(self, setup):
         """
         Test case to verify the Instagram icon on the home page.
@@ -204,7 +204,7 @@ class TestHomePage:
         self.driver.quit()
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_linkedin_icon(self, setup):
         """
         Test case to verify the LinkedIn icon on the home page.
@@ -230,7 +230,7 @@ class TestHomePage:
         self.driver.quit()
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_whatapp_icon(self, setup):
         """
         Test case to verify the WhatsApp icon on the home page.
@@ -256,7 +256,7 @@ class TestHomePage:
         self.driver.quit()
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.functional
     def test_footer_links(self, setup):
         """
         Test case to verify the footer links on the home page.
@@ -290,7 +290,6 @@ class TestHomePage:
         self.driver.quit()
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
     @pytest.mark.responsive
     def test_responsive_small_screen(self, setup):
         """
@@ -320,7 +319,6 @@ class TestHomePage:
         self.driver.quit()
 
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
     @pytest.mark.responsive
     def test_responsive_medium_screen(self, setup):
         """

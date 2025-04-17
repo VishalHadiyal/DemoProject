@@ -18,12 +18,12 @@ class TestServicesPage:
     expected_title = "Para"
     logger = LogGen.loggen()
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.smoke
     def test_title_of_the_page(self, setup):
         """
         Verify that the Services page title matches the expected value.
         """
-        self.logger.info("========== Test: Verifying Services Page Title ==========")
+        self.logger.info("========== Test_001_Service: Verifying Services Page Title ==========")
         driver = setup
 
         try:
@@ -48,6 +48,8 @@ class TestServicesPage:
             self.logger.info("Services page title verified successfully.")
 
         except AssertionError as ae:
+            # Capture screenshot on assertion failure
+            driver.save_screenshot("./Screenshots/test_services_page_title.png")
             self.logger.error(f"Assertion failed: {ae}")
             raise
         except Exception as e:
@@ -57,12 +59,12 @@ class TestServicesPage:
             driver.quit()
             self.logger.info("Closed browser after test execution.")
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.smoke
     def test_url_of_the_page(self, setup):
         """
         Verify that the Services page URL matches the expected value.
         """
-        self.logger.info("========== Test: Verifying Services Page URL ==========")
+        self.logger.info("========== Test_002_Service: Verifying Services Page URL ==========")
         driver = setup
 
         try:
@@ -86,21 +88,25 @@ class TestServicesPage:
             self.logger.info("Services page URL verified successfully.")
 
         except AssertionError as ae:
+            # Take screenshot if assertion fails
+            driver.save_screenshot("./Screenshots/test_url_of_the_page.png")
             self.logger.error(f"Assertion failed: {ae}")
             raise
         except Exception as e:
+            # Take screenshot for any other unexpected exceptions
+            driver.save_screenshot("./Screenshots/test_url_of_the_page.png")
             self.logger.error(f"An unexpected error occurred: {e}")
             raise
         finally:
             driver.quit()
             self.logger.info("Closed browser after test execution.")
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.smoke
     def test_services_page_name(self, setup):
         """
         Verify that the Services page name matches the expected value.
         """
-        self.logger.info("========== Test: Verifying Services Page Name ==========")
+        self.logger.info("========== Test_003_Service: Verifying Services Page Name ==========")
         driver = setup
 
         driver.get(self.base_url)
@@ -123,18 +129,26 @@ class TestServicesPage:
 
         actual_page_name = services_page.get_services_page_name()
         expected_page_name = "Our Services"
-        assert actual_page_name == expected_page_name
 
-        self.logger.info("Services page name verified successfully.")
+        try:
+            assert actual_page_name == expected_page_name
+            self.logger.info("Services page name verified successfully.")
+        except AssertionError:
+            # Capture screenshot if test fails
+            screenshot_path = "./Screenshots/test_services_page_name.png"
+            driver.save_screenshot(screenshot_path)
+            self.logger.error(f"Test failed. Screenshot saved to {screenshot_path}")
+            raise  # Re-raise the assertion error for test framework to catch
+
         driver.quit()
         self.logger.info("Closed browser after test execution.")
 
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.smoke
     def test_services_page_text_quote(self, setup):
         """
         Verify that the Services page text quote matches the expected value.
         """
-        self.logger.info("========== Test: Verifying Services Page Text Quote ==========")
+        self.logger.info("========== Test_004_Service: Verifying Services Page Text Quote ==========")
         driver = setup
 
         driver.get(self.base_url)
@@ -157,19 +171,26 @@ class TestServicesPage:
 
         actual_text_quote = services_page.get_services_page_text_quote()
         expected_text_quote = "Transforming legal hurdles into smooth pathways"
-        assert actual_text_quote == expected_text_quote
 
-        self.logger.info("Services page text quote verified successfully.")
-        driver.quit()
+        try:
+            assert actual_text_quote == expected_text_quote
+            self.logger.info("Services page text quote verified successfully.")
+        except AssertionError as e:
+            # Take screenshot if assertion fails
+            screenshot_path = "./Screenshots/test_services_page_text_quote.png"
+            driver.save_screenshot(screenshot_path)
+            self.logger.error(f"Assertion failed. Screenshot saved to {screenshot_path}")
+            raise e
+        finally:
+            driver.quit()
 
-
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_services_parasors_logo_and_content(self, setup):
         driver = setup
         logger = self.logger  # Assuming you're using a logger attached to self
         base_url = self.base_url  # Set this via fixture or class attribute
 
-        logger.info("========== Test: Verifying Parasors Logo on Services Page ==========")
+        logger.info("========== Test_005_Service: Verifying Parasors Logo on Services Page ==========")
 
         try:
             driver.get(base_url)
@@ -185,6 +206,8 @@ class TestServicesPage:
             try:
                 assert services_page.get_services_parasors_logo, "Parasors logo is not displayed."
             except AssertionError as e:
+                # Capture screenshot on failure
+                driver.save_screenshot("./Screenshots/test_services_parasors_logo_and_content.png")
                 logger.error(f"Assertion failed: {e}")
 
             # Check content
@@ -193,19 +216,20 @@ class TestServicesPage:
                 actual_text = services_page.get_services_content_of_parasors()
                 assert expected_text in actual_text, f"Expected content not found. Got: {actual_text}"
             except AssertionError as e:
+                # Capture screenshot on failure
+                driver.save_screenshot("./Screenshots/test_services_parasors_logo_and_content.png")
                 logger.error(f"Assertion failed: {e}")
 
         finally:
             driver.quit()
             logger.info("Closed the browser.")
 
-
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_services_paradraft_logo_and_content(self, setup):
         """
         Verify that the Parasors logo and content on the Services page are displayed correctly.
         """
-        self.logger.info("========== Test: Verifying Parasors Logo on Services Page ==========")
+        self.logger.info("========== Test_006_Service: Verifying Parasors Logo on Services Page ==========")
         driver = setup
 
         driver.get(self.base_url)
@@ -222,129 +246,162 @@ class TestServicesPage:
         services_page.click_services_options_on_header()
 
         # Verify Parasors logo is displayed
-        is_logo_displayed = services_page.get_services_paradraft_logo()
-        assert is_logo_displayed, "Parasors logo is not displayed."
+        try:
+            is_logo_displayed = services_page.get_services_paradraft_logo()
+            assert is_logo_displayed, "Parasors logo is not displayed."
+        except AssertionError as e:
+            # Capture screenshot if logo assertion fails
+            driver.save_screenshot("./Screenshots/test_services_paradraft_logo_and_content_logo_fail.png")
+            self.logger.error("Assertion failed: Parasors logo not displayed. Screenshot taken.")
+            raise e
 
         # Verify Parasors content
         expected_content = "Paradraft focuses on enhancing legal drafting processes, offering tools and templates tailored for Indian legal practices."
-        actual_content = services_page.get_services_content_of_paradraft()
-        assert expected_content in actual_content, f"Expected content not found. Got: {actual_content}"
+        try:
+            actual_content = services_page.get_services_content_of_paradraft()
+            assert expected_content in actual_content, f"Expected content not found. Got: {actual_content}"
+        except AssertionError as e:
+            # Capture screenshot if content assertion fails
+            driver.save_screenshot("./Screenshots/test_services_paradraft_logo_and_content_content_fail.png")
+            self.logger.error("Assertion failed: Parasors content mismatch. Screenshot taken.")
+            raise e
 
         self.logger.info("Parasors logo and content on Services page verified successfully.")
         driver.quit()
 
-
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+    @pytest.mark.ui
     def test_services_parasearch_logo_and_content(self, setup):
         """
         Verify that the Parasearch logo and content on the Services page are displayed correctly.
         """
-        self.logger.info("========== Test: Verifying Parasearch Logo on Services Page ==========")
+        self.logger.info("========== Test_007_Service: Verifying Parasearch Logo on Services Page ==========")
         driver = setup
 
-        driver.get(self.base_url)
-        driver.maximize_window()
-        self.logger.info("Opened application URL and maximized window.")
+        try:
+            driver.get(self.base_url)
+            driver.maximize_window()
+            self.logger.info("Opened application URL and maximized window.")
 
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.TAG_NAME, "body"))
+            )
 
-        # Navigate to the Services page
-        services_page = Services(driver)
-        services_page.click_services_options_on_header()
+            # Navigate to the Services page
+            services_page = Services(driver)
+            services_page.click_services_options_on_header()
 
-        # Wait for and scroll to Parasearch logo
-        logo_locator = (By.XPATH, services_page.services_parasearch_logo_xpath)
-        parasearch_logo_element = WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located(logo_locator)
-        )
-        driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});",
-                              parasearch_logo_element)
-        self.logger.info("Scrolled to Parasearch logo.")
+            # Wait for and scroll to Parasearch logo
+            logo_locator = (By.XPATH, services_page.services_parasearch_logo_xpath)
+            parasearch_logo_element = WebDriverWait(driver, 10).until(
+                EC.visibility_of_element_located(logo_locator)
+            )
+            driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});",
+                                  parasearch_logo_element)
+            self.logger.info("Scrolled to Parasearch logo.")
 
-        is_logo_displayed = services_page.get_services_parasearch_logo()
-        assert is_logo_displayed, "Parasearch logo is not displayed."
-        self.logger.info("Parasearch logo is displayed correctly.")
+            is_logo_displayed = services_page.get_services_parasearch_logo()
+            assert is_logo_displayed, "Parasearch logo is not displayed."
+            self.logger.info("Parasearch logo is displayed correctly.")
 
-        # Wait for and scroll to Parasearch content
-        content_locator = (By.CSS_SELECTOR, services_page.services_content_of_parasearch_css_selector)
-        parasearch_content_element = WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located(content_locator)
-        )
-        driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});",
-                              parasearch_content_element)
-        self.logger.info("Scrolled to Parasearch content.")
+            # Wait for and scroll to Parasearch content
+            content_locator = (By.CSS_SELECTOR, services_page.services_content_of_parasearch_css_selector)
+            parasearch_content_element = WebDriverWait(driver, 10).until(
+                EC.visibility_of_element_located(content_locator)
+            )
+            driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});",
+                                  parasearch_content_element)
+            self.logger.info("Scrolled to Parasearch content.")
 
-        expected_content = (
-            "ParaSearch's flagship product is a cutting-edge legal research assistant built upon an advanced Language Learning Model (LLM)."
-        )
+            expected_content = (
+                "ParaSearch's flagship product is a cutting-edge legal research assistant built upon an advanced Language Learning Model (LLM)."
+            )
 
-        # Ensure this method returns the content text
-        actual_content = services_page.get_services_content_of_parasearch()
-        assert isinstance(actual_content, str), "Expected actual content to be string, got something else."
+            actual_content = services_page.get_services_content_of_parasearch()
+            assert isinstance(actual_content, str), "Expected actual content to be string, got something else."
 
-        assert expected_content in actual_content, f"Expected content not found. Got: {actual_content}"
-        self.logger.info("Parasearch content is displayed correctly.")
+            assert expected_content in actual_content, f"Expected content not found. Got: {actual_content}"
+            self.logger.info("Parasearch content is displayed correctly.")
 
-        self.logger.info("Parasearch logo and content on Services page verified successfully.")
-        driver.quit()
+            self.logger.info("Parasearch logo and content on Services page verified successfully.")
 
+        except AssertionError as ae:
+            # Capture screenshot on assertion failure
+            self.logger.error(f"Assertion failed: {ae}")
+            driver.save_screenshot("./Screenshots/test_services_parasearch_logo_and_content.png")
+            raise
 
-    @pytest.mark.skip(reason="Skipping these tests temporarily")
+        except Exception as e:
+            # Capture screenshot on any other exception
+            self.logger.error(f"An error occurred: {e}")
+            driver.save_screenshot("./Screenshots/test_services_parasearch_logo_and_content.png")
+            raise
+
+        finally:
+            driver.quit()
+
+    @pytest.mark.ui
     def test_services_paradoc_logo_and_content(self, setup):
         """
         Verify that the Paradoc logo and content on the Services page are displayed correctly.
         """
-        self.logger.info("========== Test: Verifying Paradoc Logo on Services Page ==========")
+        self.logger.info("========== Test_008_Service: Verifying Paradoc Logo on Services Page ==========")
         driver = setup
 
-        driver.get(self.base_url)
-        driver.maximize_window()
-        self.logger.info("Opened application URL and maximized window.")
+        try:
+            driver.get(self.base_url)
+            driver.maximize_window()
+            self.logger.info("Opened application URL and maximized window.")
 
-        # Wait for body element to ensure the page has loaded
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
+            # Wait for body element to ensure the page has loaded
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.TAG_NAME, "body"))
+            )
 
-        # Navigate to the Services page
-        services_page = Services(driver)
-        services_page.click_services_options_on_header()
+            # Navigate to the Services page
+            services_page = Services(driver)
+            services_page.click_services_options_on_header()
 
-        # Wait for and scroll to Paradoc logo
-        logo_locator = (By.XPATH, services_page.services_paradoc_logo_xpath)
-        paradoc_logo_element = WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located(logo_locator)
-        )
-        driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});",
-                              paradoc_logo_element)
-        self.logger.info("Scrolled to Paradoc logo.")
+            # Wait for and scroll to Paradoc logo
+            logo_locator = (By.XPATH, services_page.services_paradoc_logo_xpath)
+            paradoc_logo_element = WebDriverWait(driver, 10).until(
+                EC.visibility_of_element_located(logo_locator)
+            )
+            driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});",
+                                  paradoc_logo_element)
+            self.logger.info("Scrolled to Paradoc logo.")
 
-        is_logo_displayed = services_page.get_services_paradoc_logo()
-        assert is_logo_displayed, "Paradoc logo is not displayed."
-        self.logger.info("Paradoc logo is displayed correctly.")
+            is_logo_displayed = services_page.get_services_paradoc_logo()
+            assert is_logo_displayed, "Paradoc logo is not displayed."
+            self.logger.info("Paradoc logo is displayed correctly.")
 
-        # Wait for and scroll to Paradoc content
-        content_locator = (By.CSS_SELECTOR, services_page.services_content_of_parasearch_css_selector)
-        paradoc_content_element = WebDriverWait(driver, 10).until(
-            EC.visibility_of_element_located(content_locator)
-        )
-        driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});",
-                              paradoc_content_element)
-        self.logger.info("Scrolled to Paradoc content.")
+            # Wait for and scroll to Paradoc content
+            content_locator = (By.CSS_SELECTOR, services_page.services_content_of_parasearch_css_selector)
+            paradoc_content_element = WebDriverWait(driver, 10).until(
+                EC.visibility_of_element_located(content_locator)
+            )
+            driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});",
+                                  paradoc_content_element)
+            self.logger.info("Scrolled to Paradoc content.")
 
-        expected_content = (
-            "Paradoc specializes in the analysis and management of legal documents within the ParaSearch ecosystem."
-        )
+            expected_content = (
+                "Paradoc specializes in the analysis and management of legal documents within the ParaSearch ecosystem."
+            )
 
-        actual_content = services_page.get_services_content_of_paradoc()
-        assert isinstance(actual_content, str), "Expected actual content to be string, got something else."
-        assert expected_content in actual_content, f"Expected content not found. Got: {actual_content}"
-        self.logger.info("Paradoc content is displayed correctly.")
+            actual_content = services_page.get_services_content_of_paradoc()
+            assert isinstance(actual_content, str), "Expected actual content to be string, got something else."
+            assert expected_content in actual_content, f"Expected content not found. Got: {actual_content}"
+            self.logger.info("Paradoc content is displayed correctly.")
 
-        self.logger.info("Paradoc logo and content on Services page verified successfully.")
-        driver.quit()
+            self.logger.info("Paradoc logo and content on Services page verified successfully.")
+
+        except AssertionError as e:
+            # Take a screenshot on failure
+            self.logger.error(f"Test failed: {str(e)}")
+            driver.save_screenshot("./Screenshots/test_services_paradoc_logo_and_content.png")
+            raise
+
+        finally:
+            driver.quit()
 
     # ======================================= Parameterized Tests (Optimize Way) =========================================
 
@@ -354,12 +411,13 @@ class TestServicesPage:
         ("Parasearch", "get_services_parasearch_logo", "services_parasearch_logo_xpath"),
         ("Paradoc", "get_services_paradoc_logo", "services_paradoc_logo_xpath"),
     ])
-    @pytest.mark.skip(reason="Skipping this test temporarily")
+
+    @pytest.mark.regression
     def test_services_logo_displayed(self, setup, logo_name, logo_method_name, logo_xpath_attr):
         """
         Verify that specific logos on the Services page are displayed with proper wait.
         """
-        self.logger.info(f"========== Test: Verifying {logo_name} Logo on Services Page ==========")
+        self.logger.info(f"========== Test_009_Service: Verifying {logo_name} Logo on Services Page ==========")
         driver = setup
         driver.get(self.base_url)
         driver.maximize_window()
@@ -382,6 +440,9 @@ class TestServicesPage:
             )
             is_logo_displayed = getattr(services_page, logo_method_name)()
         except Exception as e:
+            # Capture screenshot on failure with dynamic filename
+            screenshot_name = f"./Screenshots/test_services_logo_displayed_{logo_name.lower()}.png"
+            driver.save_screenshot(screenshot_name)
             self.logger.error(f"{logo_name} logo not found or not visible: {e}")
             is_logo_displayed = False
 
@@ -395,12 +456,14 @@ class TestServicesPage:
         ("Tablet", 768, 1024),
         ("Mobile", 375, 667),
     ])
+
+    @pytest.mark.regression
     def test_services_responsive_views(self, setup, device_name, width, height):
         """
         Responsive test for Services Page on different device viewports.
         Includes connection failure handling.
         """
-        self.logger.info(f"========== Test: {device_name} view ==========")
+        self.logger.info(f"========== Test_010_Service: {device_name} view ==========")
 
         driver = None
         try:
@@ -430,12 +493,18 @@ class TestServicesPage:
             self.logger.info(f"{device_name} view: Quote verified.")
 
         except WebDriverException as we:
+            # Capture screenshot on WebDriver exception
+            if driver:
+                driver.save_screenshot(f"./Screenshots/test_services_responsive_views_{device_name}.png")
             self.logger.error(f" WebDriver Exception in {device_name} view: {we}")
             self.logger.error("Check if your browser and WebDriver versions are compatible.")
             self.logger.error("Make sure no firewall or antivirus is blocking the connection.")
             raise
 
         except Exception as e:
+            # Capture screenshot on any other exception
+            if driver:
+                driver.save_screenshot(f"./Screenshots/test_services_responsive_views_{device_name}.png")
             self.logger.error(f" Error in {device_name} view: {e}")
             raise
 

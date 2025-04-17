@@ -2012,3 +2012,960 @@ Stacktrace:
 04/16/2025 03:38:19 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B30B3020>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2f14f9f151a5aa03de7073f1c56e8b2
 04/16/2025 03:38:23 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B30B2AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2f14f9f151a5aa03de7073f1c56e8b2
 04/16/2025 03:38:27 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B30B29C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c2f14f9f151a5aa03de7073f1c56e8b2
+04/17/2025 08:56:28 AM: INFO: ========== Test: Verifying Services Page Title ==========
+04/17/2025 08:56:30 AM: INFO: Opened application URL and maximized window.
+04/17/2025 08:56:31 AM: INFO: Services page title verified successfully.
+04/17/2025 08:56:33 AM: INFO: Closed browser after test execution.
+04/17/2025 08:56:37 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016B25CE8690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a17dd2293b5ed69bc06022f777522d64
+04/17/2025 08:56:41 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016B25CE8910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a17dd2293b5ed69bc06022f777522d64
+04/17/2025 08:56:45 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016B25AA7BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a17dd2293b5ed69bc06022f777522d64
+04/17/2025 09:05:19 AM: INFO: ========== Test_002_Service: Verifying Services Page URL ==========
+04/17/2025 09:05:21 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:05:21 AM: INFO: Services page URL verified successfully.
+04/17/2025 09:05:23 AM: INFO: Closed browser after test execution.
+04/17/2025 09:05:27 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201D89142D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/718ea07d9bfb9d38f8b2a51b5d8443b9
+04/17/2025 09:05:31 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201D8914410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/718ea07d9bfb9d38f8b2a51b5d8443b9
+04/17/2025 09:05:35 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201D86F7820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/718ea07d9bfb9d38f8b2a51b5d8443b9
+04/17/2025 09:07:50 AM: INFO: ========== Test_003_Service: Verifying Services Page Name ==========
+04/17/2025 09:07:52 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:07:52 AM: INFO: Services page name verified successfully.
+04/17/2025 09:07:54 AM: INFO: Closed browser after test execution.
+04/17/2025 09:07:58 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022CF7424410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/36ef756f8a69a0d9b2bea270d3097223
+04/17/2025 09:08:03 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022CF7424690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/36ef756f8a69a0d9b2bea270d3097223
+04/17/2025 09:08:07 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022CF729A9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/36ef756f8a69a0d9b2bea270d3097223
+04/17/2025 09:10:34 AM: INFO: ========== Test_004_Service: Verifying Services Page Text Quote ==========
+04/17/2025 09:10:36 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:10:36 AM: INFO: Services page text quote verified successfully.
+04/17/2025 09:10:42 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000186FC5A0410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/202caa2eb17f669d591d5c2b2be4b667
+04/17/2025 09:10:46 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000186FC5A0A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/202caa2eb17f669d591d5c2b2be4b667
+04/17/2025 09:10:50 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000186FC477CE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/202caa2eb17f669d591d5c2b2be4b667
+04/17/2025 09:13:07 AM: INFO: ========== Test_005_Service: Verifying Parasors Logo on Services Page ==========
+04/17/2025 09:13:08 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:13:11 AM: INFO: Closed the browser.
+04/17/2025 09:13:15 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014AAC6D0550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/17f39c8ea8972b27309e72b9753de642
+04/17/2025 09:13:19 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014AAC6D0B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/17f39c8ea8972b27309e72b9753de642
+04/17/2025 09:13:23 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014AAC5A7A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/17f39c8ea8972b27309e72b9753de642
+04/17/2025 09:15:47 AM: INFO: ========== Test_006_Service: Verifying Parasors Logo on Services Page ==========
+04/17/2025 09:15:50 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:15:51 AM: ERROR: Assertion failed: Parasors logo not displayed. Screenshot taken.
+04/17/2025 09:19:34 AM: INFO: ========== Test_007_Service: Verifying Parasearch Logo on Services Page ==========
+04/17/2025 09:19:37 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:19:37 AM: INFO: Scrolled to Parasearch logo.
+04/17/2025 09:19:37 AM: INFO: Parasearch logo is displayed correctly.
+04/17/2025 09:19:37 AM: INFO: Scrolled to Parasearch content.
+04/17/2025 09:19:37 AM: INFO: Parasearch content is displayed correctly.
+04/17/2025 09:19:37 AM: INFO: Parasearch logo and content on Services page verified successfully.
+04/17/2025 09:19:43 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000225AE5607D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9a2f47cc323c64db6c39e9d1039baa98
+04/17/2025 09:19:47 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000225AE560E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9a2f47cc323c64db6c39e9d1039baa98
+04/17/2025 09:19:51 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000225AE437E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9a2f47cc323c64db6c39e9d1039baa98
+04/17/2025 09:22:37 AM: INFO: ========== Test_008_Service: Verifying Paradoc Logo on Services Page ==========
+04/17/2025 09:22:39 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:22:40 AM: INFO: Scrolled to Paradoc logo.
+04/17/2025 09:22:40 AM: INFO: Paradoc logo is displayed correctly.
+04/17/2025 09:22:40 AM: INFO: Scrolled to Paradoc content.
+04/17/2025 09:22:40 AM: INFO: Paradoc content is displayed correctly.
+04/17/2025 09:22:40 AM: INFO: Paradoc logo and content on Services page verified successfully.
+04/17/2025 09:22:46 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CECFDA4A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15c5cf5e44623a7eab29c363cbecd088
+04/17/2025 09:22:50 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CECFDA5090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15c5cf5e44623a7eab29c363cbecd088
+04/17/2025 09:22:54 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CECFC07E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15c5cf5e44623a7eab29c363cbecd088
+04/17/2025 09:25:41 AM: INFO: ========== Test_009_Service: Verifying Parasors Logo on Services Page ==========
+04/17/2025 09:25:44 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:25:44 AM: INFO: Parasors logo on Services page verified successfully.
+04/17/2025 09:25:50 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF9638CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/10c609d396d330bb9865dc3f248fd2e9
+04/17/2025 09:25:54 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF96391D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/10c609d396d330bb9865dc3f248fd2e9
+04/17/2025 09:25:58 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF9437E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/10c609d396d330bb9865dc3f248fd2e9
+04/17/2025 09:26:08 AM: INFO: ========== Test_009_Service: Verifying Paradraft Logo on Services Page ==========
+04/17/2025 09:26:10 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:26:10 AM: INFO: Paradraft logo on Services page verified successfully.
+04/17/2025 09:26:17 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF963F350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d1efe2ea623df65aa0ad37ca3773febf
+04/17/2025 09:26:21 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF963F9B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d1efe2ea623df65aa0ad37ca3773febf
+04/17/2025 09:26:25 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF963FDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d1efe2ea623df65aa0ad37ca3773febf
+04/17/2025 09:26:34 AM: INFO: ========== Test_009_Service: Verifying Parasearch Logo on Services Page ==========
+04/17/2025 09:26:36 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:26:37 AM: INFO: Parasearch logo on Services page verified successfully.
+04/17/2025 09:26:43 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF963FCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9ecee72a630f04d906f5a9791022b14
+04/17/2025 09:26:47 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF96A07C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9ecee72a630f04d906f5a9791022b14
+04/17/2025 09:26:51 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF96A0AF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9ecee72a630f04d906f5a9791022b14
+04/17/2025 09:27:13 AM: INFO: ========== Test_009_Service: Verifying Paradoc Logo on Services Page ==========
+04/17/2025 09:27:15 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:27:15 AM: INFO: Paradoc logo on Services page verified successfully.
+04/17/2025 09:27:22 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF963F460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fd4c7dea2e9d22daa5d924d4a5b24d21
+04/17/2025 09:27:26 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF963FDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fd4c7dea2e9d22daa5d924d4a5b24d21
+04/17/2025 09:27:30 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028AF963FAC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fd4c7dea2e9d22daa5d924d4a5b24d21
+04/17/2025 09:29:52 AM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 09:29:52 AM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 09:29:54 AM: INFO: Navigated to base URL.
+04/17/2025 09:29:55 AM: INFO: Television view: Verified logo presence.
+04/17/2025 09:29:55 AM: INFO: Television view: Quote verified.
+04/17/2025 09:29:57 AM: INFO: Television view: Driver session closed.
+04/17/2025 09:30:01 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A8027491D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0d90aa104197a682584929ed4c854e6
+04/17/2025 09:30:05 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A8027496D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0d90aa104197a682584929ed4c854e6
+04/17/2025 09:30:09 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A802627BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0d90aa104197a682584929ed4c854e6
+04/17/2025 09:30:19 AM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 09:30:19 AM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 09:30:21 AM: INFO: Navigated to base URL.
+04/17/2025 09:30:22 AM: INFO: Tablet view: Verified logo presence.
+04/17/2025 09:30:22 AM: INFO: Tablet view: Quote verified.
+04/17/2025 09:30:24 AM: INFO: Tablet view: Driver session closed.
+04/17/2025 09:30:28 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A8027F8490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/172ce189e7b46f8cf342fdf8d002d646
+04/17/2025 09:30:32 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A8027F9260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/172ce189e7b46f8cf342fdf8d002d646
+04/17/2025 09:30:36 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A8027F96A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/172ce189e7b46f8cf342fdf8d002d646
+04/17/2025 09:30:50 AM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 09:30:50 AM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 09:30:52 AM: INFO: Navigated to base URL.
+04/17/2025 09:30:52 AM: ERROR:  WebDriver Exception in Mobile view: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FBD45355+78597]
+	GetHandleVerifier [0x00007FF7FBD453B0+78688]
+	(No symbol) [0x00007FF7FBAF8FDC]
+	(No symbol) [0x00007FF7FBB5061D]
+	(No symbol) [0x00007FF7FBB42204]
+	(No symbol) [0x00007FF7FBB770EA]
+	(No symbol) [0x00007FF7FBB41AB6]
+	(No symbol) [0x00007FF7FBB77300]
+	(No symbol) [0x00007FF7FBB9F2BB]
+	(No symbol) [0x00007FF7FBB76EC3]
+	(No symbol) [0x00007FF7FBB403F8]
+	(No symbol) [0x00007FF7FBB41163]
+	GetHandleVerifier [0x00007FF7FBFEEF0D+2870973]
+	GetHandleVerifier [0x00007FF7FBFE96B8+2848360]
+	GetHandleVerifier [0x00007FF7FC006993+2967875]
+	GetHandleVerifier [0x00007FF7FBD6019A+188746]
+	GetHandleVerifier [0x00007FF7FBD6847F+222255]
+	GetHandleVerifier [0x00007FF7FBD4D2D4+111236]
+	GetHandleVerifier [0x00007FF7FBD4D482+111666]
+	GetHandleVerifier [0x00007FF7FBD335A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 09:30:52 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 09:30:52 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 09:30:54 AM: INFO: Mobile view: Driver session closed.
+04/17/2025 09:30:58 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A802752E00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3f4f9c7832e6968796403cd15ccef443
+04/17/2025 09:31:02 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A8027528B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3f4f9c7832e6968796403cd15ccef443
+04/17/2025 09:31:06 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A8027529C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3f4f9c7832e6968796403cd15ccef443
+04/17/2025 09:41:20 AM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 09:41:22 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:41:22 AM: INFO: Services page title verified successfully.
+04/17/2025 09:41:25 AM: INFO: Closed browser after test execution.
+04/17/2025 09:41:29 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92F4690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5830b13ca3184c2f7d2f37f360d4f74c
+04/17/2025 09:41:33 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92F4910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5830b13ca3184c2f7d2f37f360d4f74c
+04/17/2025 09:41:37 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B913BA80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5830b13ca3184c2f7d2f37f360d4f74c
+04/17/2025 09:41:47 AM: INFO: ========== Test_002_Service: Verifying Services Page URL ==========
+04/17/2025 09:41:48 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:41:48 AM: INFO: Services page URL verified successfully.
+04/17/2025 09:41:50 AM: INFO: Closed browser after test execution.
+04/17/2025 09:41:54 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9261370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/534ff28deb8d6e5a35f427437a4917de
+04/17/2025 09:41:59 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92616A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/534ff28deb8d6e5a35f427437a4917de
+04/17/2025 09:42:03 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9261AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/534ff28deb8d6e5a35f427437a4917de
+04/17/2025 09:42:12 AM: INFO: ========== Test_003_Service: Verifying Services Page Name ==========
+04/17/2025 09:42:14 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:42:14 AM: INFO: Services page name verified successfully.
+04/17/2025 09:42:16 AM: INFO: Closed browser after test execution.
+04/17/2025 09:42:20 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9261150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3cbf93400f7dfa764109579c70717344
+04/17/2025 09:42:25 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92627A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3cbf93400f7dfa764109579c70717344
+04/17/2025 09:42:29 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9262AD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3cbf93400f7dfa764109579c70717344
+04/17/2025 09:42:38 AM: INFO: ========== Test_004_Service: Verifying Services Page Text Quote ==========
+04/17/2025 09:42:40 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:42:40 AM: INFO: Services page text quote verified successfully.
+04/17/2025 09:42:47 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9263130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2de919f1eb52efd306f7180867f453ce
+04/17/2025 09:42:51 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92639B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2de919f1eb52efd306f7180867f453ce
+04/17/2025 09:42:55 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9263CE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2de919f1eb52efd306f7180867f453ce
+04/17/2025 09:43:04 AM: INFO: ========== Test_005_Service: Verifying Parasors Logo on Services Page ==========
+04/17/2025 09:43:06 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:43:08 AM: INFO: Closed the browser.
+04/17/2025 09:43:12 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9262CF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f88b1c0306a75da329a2fb5962a4aff5
+04/17/2025 09:43:16 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D05A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f88b1c0306a75da329a2fb5962a4aff5
+04/17/2025 09:43:20 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D09E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f88b1c0306a75da329a2fb5962a4aff5
+04/17/2025 09:43:30 AM: INFO: ========== Test_006_Service: Verifying Parasors Logo on Services Page ==========
+04/17/2025 09:43:31 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:43:32 AM: ERROR: Assertion failed: Parasors logo not displayed. Screenshot taken.
+04/17/2025 09:43:52 AM: INFO: ========== Test_007_Service: Verifying Parasearch Logo on Services Page ==========
+04/17/2025 09:43:54 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:43:54 AM: INFO: Scrolled to Parasearch logo.
+04/17/2025 09:43:54 AM: INFO: Parasearch logo is displayed correctly.
+04/17/2025 09:43:54 AM: INFO: Scrolled to Parasearch content.
+04/17/2025 09:43:54 AM: INFO: Parasearch content is displayed correctly.
+04/17/2025 09:43:54 AM: INFO: Parasearch logo and content on Services page verified successfully.
+04/17/2025 09:44:00 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9263240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6d08e9e8126443a6e60162ab37ac7b6f
+04/17/2025 09:44:04 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92627A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6d08e9e8126443a6e60162ab37ac7b6f
+04/17/2025 09:44:08 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9262580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6d08e9e8126443a6e60162ab37ac7b6f
+04/17/2025 09:44:18 AM: INFO: ========== Test_008_Service: Verifying Paradoc Logo on Services Page ==========
+04/17/2025 09:44:19 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:44:21 AM: INFO: Scrolled to Paradoc logo.
+04/17/2025 09:44:21 AM: INFO: Paradoc logo is displayed correctly.
+04/17/2025 09:44:21 AM: INFO: Scrolled to Paradoc content.
+04/17/2025 09:44:21 AM: INFO: Paradoc content is displayed correctly.
+04/17/2025 09:44:21 AM: INFO: Paradoc logo and content on Services page verified successfully.
+04/17/2025 09:44:27 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9261370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f2916682db991be510260c879414a69e
+04/17/2025 09:44:31 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92606B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f2916682db991be510260c879414a69e
+04/17/2025 09:44:35 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9260490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f2916682db991be510260c879414a69e
+04/17/2025 09:44:45 AM: INFO: ========== Test_009_Service: Verifying Parasors Logo on Services Page ==========
+04/17/2025 09:44:47 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:44:47 AM: INFO: Parasors logo on Services page verified successfully.
+04/17/2025 09:44:54 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9261590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cf7d2276645dfe7bf8532eb89ae3a0d1
+04/17/2025 09:44:58 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D0C00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cf7d2276645dfe7bf8532eb89ae3a0d1
+04/17/2025 09:45:02 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D0E20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cf7d2276645dfe7bf8532eb89ae3a0d1
+04/17/2025 09:45:11 AM: INFO: ========== Test_009_Service: Verifying Paradraft Logo on Services Page ==========
+04/17/2025 09:45:13 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:45:14 AM: INFO: Paradraft logo on Services page verified successfully.
+04/17/2025 09:45:20 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9260C00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/27408bf6cdb26ca6e1aaf3db6705cb14
+04/17/2025 09:45:24 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D16A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/27408bf6cdb26ca6e1aaf3db6705cb14
+04/17/2025 09:45:28 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D19D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/27408bf6cdb26ca6e1aaf3db6705cb14
+04/17/2025 09:45:38 AM: INFO: ========== Test_009_Service: Verifying Parasearch Logo on Services Page ==========
+04/17/2025 09:45:41 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:45:42 AM: INFO: Parasearch logo on Services page verified successfully.
+04/17/2025 09:45:48 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D1BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4e01c4d080cd80630748f7c01a4ba32c
+04/17/2025 09:45:52 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D2470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4e01c4d080cd80630748f7c01a4ba32c
+04/17/2025 09:45:56 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D27A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4e01c4d080cd80630748f7c01a4ba32c
+04/17/2025 09:46:06 AM: INFO: ========== Test_009_Service: Verifying Paradoc Logo on Services Page ==========
+04/17/2025 09:46:07 AM: INFO: Opened application URL and maximized window.
+04/17/2025 09:46:08 AM: INFO: Paradoc logo on Services page verified successfully.
+04/17/2025 09:46:14 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D29C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40f561be71d8e83790cc91ff532ab9af
+04/17/2025 09:46:18 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D3240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40f561be71d8e83790cc91ff532ab9af
+04/17/2025 09:46:22 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92D3570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40f561be71d8e83790cc91ff532ab9af
+04/17/2025 09:46:56 AM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 09:46:56 AM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 09:46:57 AM: INFO: Navigated to base URL.
+04/17/2025 09:46:58 AM: INFO: Television view: Verified logo presence.
+04/17/2025 09:46:58 AM: INFO: Television view: Quote verified.
+04/17/2025 09:47:00 AM: INFO: Television view: Driver session closed.
+04/17/2025 09:47:04 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9260270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5c9d7734412e15c8bf17d456cdab2d72
+04/17/2025 09:47:08 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9261150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5c9d7734412e15c8bf17d456cdab2d72
+04/17/2025 09:47:12 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9260380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5c9d7734412e15c8bf17d456cdab2d72
+04/17/2025 09:47:22 AM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 09:47:22 AM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 09:47:24 AM: INFO: Navigated to base URL.
+04/17/2025 09:47:24 AM: INFO: Tablet view: Verified logo presence.
+04/17/2025 09:47:24 AM: INFO: Tablet view: Quote verified.
+04/17/2025 09:47:26 AM: INFO: Tablet view: Driver session closed.
+04/17/2025 09:47:30 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92617B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/11debecee8ec60357eed58d431637979
+04/17/2025 09:47:34 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9261D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/11debecee8ec60357eed58d431637979
+04/17/2025 09:47:38 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92619D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/11debecee8ec60357eed58d431637979
+04/17/2025 09:47:48 AM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 09:47:48 AM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 09:47:50 AM: INFO: Navigated to base URL.
+04/17/2025 09:47:50 AM: ERROR:  WebDriver Exception in Mobile view: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FBD45355+78597]
+	GetHandleVerifier [0x00007FF7FBD453B0+78688]
+	(No symbol) [0x00007FF7FBAF8FDC]
+	(No symbol) [0x00007FF7FBB5061D]
+	(No symbol) [0x00007FF7FBB42204]
+	(No symbol) [0x00007FF7FBB770EA]
+	(No symbol) [0x00007FF7FBB41AB6]
+	(No symbol) [0x00007FF7FBB77300]
+	(No symbol) [0x00007FF7FBB9F2BB]
+	(No symbol) [0x00007FF7FBB76EC3]
+	(No symbol) [0x00007FF7FBB403F8]
+	(No symbol) [0x00007FF7FBB41163]
+	GetHandleVerifier [0x00007FF7FBFEEF0D+2870973]
+	GetHandleVerifier [0x00007FF7FBFE96B8+2848360]
+	GetHandleVerifier [0x00007FF7FC006993+2967875]
+	GetHandleVerifier [0x00007FF7FBD6019A+188746]
+	GetHandleVerifier [0x00007FF7FBD6847F+222255]
+	GetHandleVerifier [0x00007FF7FBD4D2D4+111236]
+	GetHandleVerifier [0x00007FF7FBD4D482+111666]
+	GetHandleVerifier [0x00007FF7FBD335A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 09:47:50 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 09:47:50 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 09:47:52 AM: INFO: Mobile view: Driver session closed.
+04/17/2025 09:48:12 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92627A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/057511c47167279c8546ba7bd565a018
+04/17/2025 09:48:16 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B92638A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/057511c47167279c8546ba7bd565a018
+04/17/2025 09:48:21 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000133B9263680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/057511c47167279c8546ba7bd565a018
+04/17/2025 10:24:10 AM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 10:24:11 AM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 10:24:12 AM: INFO: Navigated to base URL.
+04/17/2025 10:24:14 AM: INFO: Television view: Verified logo presence.
+04/17/2025 10:24:14 AM: INFO: Television view: Quote verified.
+04/17/2025 10:24:16 AM: INFO: Television view: Driver session closed.
+04/17/2025 10:24:20 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000264BAA40A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e5533eec466959b5a6f7c2aace806df
+04/17/2025 10:24:25 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000264BAA411D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e5533eec466959b5a6f7c2aace806df
+04/17/2025 10:24:29 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000264BA8CB820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2e5533eec466959b5a6f7c2aace806df
+04/17/2025 10:24:39 AM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 10:24:39 AM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 10:24:40 AM: INFO: Navigated to base URL.
+04/17/2025 10:24:41 AM: ERROR:  WebDriver Exception in Tablet view: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF73AF95355+78597]
+	GetHandleVerifier [0x00007FF73AF953B0+78688]
+	(No symbol) [0x00007FF73AD48FDC]
+	(No symbol) [0x00007FF73ADA061D]
+	(No symbol) [0x00007FF73AD92204]
+	(No symbol) [0x00007FF73ADC70EA]
+	(No symbol) [0x00007FF73AD91AB6]
+	(No symbol) [0x00007FF73ADC7300]
+	(No symbol) [0x00007FF73ADEF2BB]
+	(No symbol) [0x00007FF73ADC6EC3]
+	(No symbol) [0x00007FF73AD903F8]
+	(No symbol) [0x00007FF73AD91163]
+	GetHandleVerifier [0x00007FF73B23EF0D+2870973]
+	GetHandleVerifier [0x00007FF73B2396B8+2848360]
+	GetHandleVerifier [0x00007FF73B256993+2967875]
+	GetHandleVerifier [0x00007FF73AFB019A+188746]
+	GetHandleVerifier [0x00007FF73AFB847F+222255]
+	GetHandleVerifier [0x00007FF73AF9D2D4+111236]
+	GetHandleVerifier [0x00007FF73AF9D482+111666]
+	GetHandleVerifier [0x00007FF73AF835A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 10:24:41 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 10:24:41 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 10:24:43 AM: INFO: Tablet view: Driver session closed.
+04/17/2025 10:24:52 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000264BA9FFF00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f6955b581bf99f1b4a41355113703f8e
+04/17/2025 10:24:56 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000264BA9FF790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f6955b581bf99f1b4a41355113703f8e
+04/17/2025 10:25:00 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000264BA9FF680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f6955b581bf99f1b4a41355113703f8e
+04/17/2025 10:25:10 AM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 10:25:10 AM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 10:25:12 AM: INFO: Navigated to base URL.
+04/17/2025 10:25:12 AM: ERROR:  WebDriver Exception in Mobile view: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF73AF95355+78597]
+	GetHandleVerifier [0x00007FF73AF953B0+78688]
+	(No symbol) [0x00007FF73AD48FDC]
+	(No symbol) [0x00007FF73ADA061D]
+	(No symbol) [0x00007FF73AD92204]
+	(No symbol) [0x00007FF73ADC70EA]
+	(No symbol) [0x00007FF73AD91AB6]
+	(No symbol) [0x00007FF73ADC7300]
+	(No symbol) [0x00007FF73ADEF2BB]
+	(No symbol) [0x00007FF73ADC6EC3]
+	(No symbol) [0x00007FF73AD903F8]
+	(No symbol) [0x00007FF73AD91163]
+	GetHandleVerifier [0x00007FF73B23EF0D+2870973]
+	GetHandleVerifier [0x00007FF73B2396B8+2848360]
+	GetHandleVerifier [0x00007FF73B256993+2967875]
+	GetHandleVerifier [0x00007FF73AFB019A+188746]
+	GetHandleVerifier [0x00007FF73AFB847F+222255]
+	GetHandleVerifier [0x00007FF73AF9D2D4+111236]
+	GetHandleVerifier [0x00007FF73AF9D482+111666]
+	GetHandleVerifier [0x00007FF73AF835A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 10:25:12 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 10:25:12 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 10:25:14 AM: INFO: Mobile view: Driver session closed.
+04/17/2025 10:25:23 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000264BA9FF240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1e629c127328a34735bc242b8ea22bf8
+04/17/2025 10:25:27 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000264BA9FF9B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1e629c127328a34735bc242b8ea22bf8
+04/17/2025 10:25:31 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000264BA9FF570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1e629c127328a34735bc242b8ea22bf8
+04/17/2025 10:42:04 AM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 10:42:05 AM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 10:42:07 AM: INFO: Navigated to base URL.
+04/17/2025 10:42:08 AM: INFO: Television view: Verified logo presence.
+04/17/2025 10:42:08 AM: INFO: Television view: Quote verified.
+04/17/2025 10:42:10 AM: INFO: Television view: Driver session closed.
+04/17/2025 10:42:14 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016886C29450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/813461d3ce4c85e89b610d12bd04a456
+04/17/2025 10:42:18 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016886CA8A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/813461d3ce4c85e89b610d12bd04a456
+04/17/2025 10:42:22 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016886B7B360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/813461d3ce4c85e89b610d12bd04a456
+04/17/2025 10:42:33 AM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 10:42:33 AM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 10:42:35 AM: INFO: Navigated to base URL.
+04/17/2025 10:42:36 AM: INFO: Tablet view: Verified logo presence.
+04/17/2025 10:42:36 AM: INFO: Tablet view: Quote verified.
+04/17/2025 10:42:38 AM: INFO: Tablet view: Driver session closed.
+04/17/2025 10:42:42 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016886C93680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a0e27608aa69bde71028910072260bbb
+04/17/2025 10:42:47 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016886C927A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a0e27608aa69bde71028910072260bbb
+04/17/2025 10:42:51 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016886C92470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a0e27608aa69bde71028910072260bbb
+04/17/2025 10:43:01 AM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 10:43:01 AM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 10:43:03 AM: INFO: Navigated to base URL.
+04/17/2025 10:43:04 AM: ERROR:  WebDriver Exception in Mobile view: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF73AF95355+78597]
+	GetHandleVerifier [0x00007FF73AF953B0+78688]
+	(No symbol) [0x00007FF73AD48FDC]
+	(No symbol) [0x00007FF73ADA061D]
+	(No symbol) [0x00007FF73AD92204]
+	(No symbol) [0x00007FF73ADC70EA]
+	(No symbol) [0x00007FF73AD91AB6]
+	(No symbol) [0x00007FF73ADC7300]
+	(No symbol) [0x00007FF73ADEF2BB]
+	(No symbol) [0x00007FF73ADC6EC3]
+	(No symbol) [0x00007FF73AD903F8]
+	(No symbol) [0x00007FF73AD91163]
+	GetHandleVerifier [0x00007FF73B23EF0D+2870973]
+	GetHandleVerifier [0x00007FF73B2396B8+2848360]
+	GetHandleVerifier [0x00007FF73B256993+2967875]
+	GetHandleVerifier [0x00007FF73AFB019A+188746]
+	GetHandleVerifier [0x00007FF73AFB847F+222255]
+	GetHandleVerifier [0x00007FF73AF9D2D4+111236]
+	GetHandleVerifier [0x00007FF73AF9D482+111666]
+	GetHandleVerifier [0x00007FF73AF835A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 10:43:04 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 10:43:04 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 10:43:06 AM: INFO: Mobile view: Driver session closed.
+04/17/2025 10:43:14 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016886C93CE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/60fe580ac2d14166a7ef154b7733ce9d
+04/17/2025 10:43:18 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016886C92470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/60fe580ac2d14166a7ef154b7733ce9d
+04/17/2025 10:43:22 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016886C92030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/60fe580ac2d14166a7ef154b7733ce9d
+04/17/2025 10:58:22 AM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 10:58:23 AM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 10:58:50 AM: ERROR:  WebDriver Exception in Television view: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF69E0E5355+78597]
+	GetHandleVerifier [0x00007FF69E0E53B0+78688]
+	(No symbol) [0x00007FF69DE991AA]
+	(No symbol) [0x00007FF69DE95BA0]
+	(No symbol) [0x00007FF69DE86849]
+	(No symbol) [0x00007FF69DE885A8]
+	(No symbol) [0x00007FF69DE86B56]
+	(No symbol) [0x00007FF69DE865D6]
+	(No symbol) [0x00007FF69DE8629A]
+	(No symbol) [0x00007FF69DE83F4A]
+	(No symbol) [0x00007FF69DE8471C]
+	(No symbol) [0x00007FF69DE9D07A]
+	(No symbol) [0x00007FF69DF4002E]
+	(No symbol) [0x00007FF69DF170EA]
+	(No symbol) [0x00007FF69DF3F2BB]
+	(No symbol) [0x00007FF69DF16EC3]
+	(No symbol) [0x00007FF69DEE03F8]
+	(No symbol) [0x00007FF69DEE1163]
+	GetHandleVerifier [0x00007FF69E38EF0D+2870973]
+	GetHandleVerifier [0x00007FF69E3896B8+2848360]
+	GetHandleVerifier [0x00007FF69E3A6993+2967875]
+	GetHandleVerifier [0x00007FF69E10019A+188746]
+	GetHandleVerifier [0x00007FF69E10847F+222255]
+	GetHandleVerifier [0x00007FF69E0ED2D4+111236]
+	GetHandleVerifier [0x00007FF69E0ED482+111666]
+	GetHandleVerifier [0x00007FF69E0D35A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 10:58:50 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 10:58:50 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 10:58:52 AM: INFO: Television view: Driver session closed.
+04/17/2025 10:58:56 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CF03244910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/80b7a28a134bc1c6aa5a9495d87b7c19
+04/17/2025 10:59:00 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CF03244410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/80b7a28a134bc1c6aa5a9495d87b7c19
+04/17/2025 10:59:04 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CF0307FA80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/80b7a28a134bc1c6aa5a9495d87b7c19
+04/17/2025 10:59:15 AM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 10:59:15 AM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 10:59:39 AM: ERROR:  WebDriver Exception in Tablet view: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF69E0E5355+78597]
+	GetHandleVerifier [0x00007FF69E0E53B0+78688]
+	(No symbol) [0x00007FF69DE991AA]
+	(No symbol) [0x00007FF69DE95BA0]
+	(No symbol) [0x00007FF69DE86849]
+	(No symbol) [0x00007FF69DE885A8]
+	(No symbol) [0x00007FF69DE86B56]
+	(No symbol) [0x00007FF69DE865D6]
+	(No symbol) [0x00007FF69DE8629A]
+	(No symbol) [0x00007FF69DE83F4A]
+	(No symbol) [0x00007FF69DE8471C]
+	(No symbol) [0x00007FF69DE9D07A]
+	(No symbol) [0x00007FF69DF4002E]
+	(No symbol) [0x00007FF69DF170EA]
+	(No symbol) [0x00007FF69DF3F2BB]
+	(No symbol) [0x00007FF69DF16EC3]
+	(No symbol) [0x00007FF69DEE03F8]
+	(No symbol) [0x00007FF69DEE1163]
+	GetHandleVerifier [0x00007FF69E38EF0D+2870973]
+	GetHandleVerifier [0x00007FF69E3896B8+2848360]
+	GetHandleVerifier [0x00007FF69E3A6993+2967875]
+	GetHandleVerifier [0x00007FF69E10019A+188746]
+	GetHandleVerifier [0x00007FF69E10847F+222255]
+	GetHandleVerifier [0x00007FF69E0ED2D4+111236]
+	GetHandleVerifier [0x00007FF69E0ED482+111666]
+	GetHandleVerifier [0x00007FF69E0D35A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 10:59:39 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 10:59:39 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 10:59:41 AM: INFO: Tablet view: Driver session closed.
+04/17/2025 10:59:45 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CF0322AF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c86b3f2eb19f7aed70acd79eb6a029c9
+04/17/2025 10:59:49 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CF0322B680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c86b3f2eb19f7aed70acd79eb6a029c9
+04/17/2025 10:59:53 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CF0322A140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c86b3f2eb19f7aed70acd79eb6a029c9
+04/17/2025 11:00:03 AM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 11:00:03 AM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 11:00:34 AM: ERROR:  WebDriver Exception in Mobile view: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF69E0E5355+78597]
+	GetHandleVerifier [0x00007FF69E0E53B0+78688]
+	(No symbol) [0x00007FF69DE991AA]
+	(No symbol) [0x00007FF69DE95BA0]
+	(No symbol) [0x00007FF69DE86849]
+	(No symbol) [0x00007FF69DE885A8]
+	(No symbol) [0x00007FF69DE86B56]
+	(No symbol) [0x00007FF69DE865D6]
+	(No symbol) [0x00007FF69DE8629A]
+	(No symbol) [0x00007FF69DE83F4A]
+	(No symbol) [0x00007FF69DE8471C]
+	(No symbol) [0x00007FF69DE9D07A]
+	(No symbol) [0x00007FF69DF4002E]
+	(No symbol) [0x00007FF69DF170EA]
+	(No symbol) [0x00007FF69DF3F2BB]
+	(No symbol) [0x00007FF69DF16EC3]
+	(No symbol) [0x00007FF69DEE03F8]
+	(No symbol) [0x00007FF69DEE1163]
+	GetHandleVerifier [0x00007FF69E38EF0D+2870973]
+	GetHandleVerifier [0x00007FF69E3896B8+2848360]
+	GetHandleVerifier [0x00007FF69E3A6993+2967875]
+	GetHandleVerifier [0x00007FF69E10019A+188746]
+	GetHandleVerifier [0x00007FF69E10847F+222255]
+	GetHandleVerifier [0x00007FF69E0ED2D4+111236]
+	GetHandleVerifier [0x00007FF69E0ED482+111666]
+	GetHandleVerifier [0x00007FF69E0D35A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 11:00:34 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 11:00:34 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 11:00:36 AM: INFO: Mobile view: Driver session closed.
+04/17/2025 11:00:49 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CF032296A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d95c67b4b7068b84ccd61497b0bdde80
+04/17/2025 11:00:53 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CF0322A360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d95c67b4b7068b84ccd61497b0bdde80
+04/17/2025 11:00:57 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CF03229BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d95c67b4b7068b84ccd61497b0bdde80
+04/17/2025 11:02:01 AM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 11:02:02 AM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 11:02:02 AM: INFO: Navigated to base URL.
+04/17/2025 11:02:05 AM: INFO: Television view: Verified logo presence.
+04/17/2025 11:02:05 AM: INFO: Television view: Quote verified.
+04/17/2025 11:02:07 AM: INFO: Television view: Driver session closed.
+04/17/2025 11:02:11 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6276FFB10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b2697364230578346108420dc87eee0f
+04/17/2025 11:02:15 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E627780A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b2697364230578346108420dc87eee0f
+04/17/2025 11:02:19 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E62764BCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b2697364230578346108420dc87eee0f
+04/17/2025 11:02:29 AM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 11:02:30 AM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 11:02:32 AM: INFO: Navigated to base URL.
+04/17/2025 11:02:33 AM: INFO: Tablet view: Verified logo presence.
+04/17/2025 11:02:33 AM: INFO: Tablet view: Quote verified.
+04/17/2025 11:02:35 AM: INFO: Tablet view: Driver session closed.
+04/17/2025 11:02:39 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E62776B680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a78827b9d8d9a694b72369373e7bd511
+04/17/2025 11:02:43 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E62776A7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a78827b9d8d9a694b72369373e7bd511
+04/17/2025 11:02:47 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E62776A470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a78827b9d8d9a694b72369373e7bd511
+04/17/2025 11:02:57 AM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 11:02:58 AM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 11:02:59 AM: INFO: Navigated to base URL.
+04/17/2025 11:02:59 AM: ERROR:  WebDriver Exception in Mobile view: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF69E0E5355+78597]
+	GetHandleVerifier [0x00007FF69E0E53B0+78688]
+	(No symbol) [0x00007FF69DE98FDC]
+	(No symbol) [0x00007FF69DEF061D]
+	(No symbol) [0x00007FF69DEE2204]
+	(No symbol) [0x00007FF69DF170EA]
+	(No symbol) [0x00007FF69DEE1AB6]
+	(No symbol) [0x00007FF69DF17300]
+	(No symbol) [0x00007FF69DF3F2BB]
+	(No symbol) [0x00007FF69DF16EC3]
+	(No symbol) [0x00007FF69DEE03F8]
+	(No symbol) [0x00007FF69DEE1163]
+	GetHandleVerifier [0x00007FF69E38EF0D+2870973]
+	GetHandleVerifier [0x00007FF69E3896B8+2848360]
+	GetHandleVerifier [0x00007FF69E3A6993+2967875]
+	GetHandleVerifier [0x00007FF69E10019A+188746]
+	GetHandleVerifier [0x00007FF69E10847F+222255]
+	GetHandleVerifier [0x00007FF69E0ED2D4+111236]
+	GetHandleVerifier [0x00007FF69E0ED482+111666]
+	GetHandleVerifier [0x00007FF69E0D35A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 11:02:59 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 11:02:59 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 11:03:01 AM: INFO: Mobile view: Driver session closed.
+04/17/2025 11:03:10 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E62776BCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ede14c5fc6829182d4267520aa87babf
+04/17/2025 11:03:14 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E62776A470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ede14c5fc6829182d4267520aa87babf
+04/17/2025 11:03:18 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E62776A030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ede14c5fc6829182d4267520aa87babf
+04/17/2025 11:12:26 AM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 11:12:27 AM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 11:12:29 AM: INFO: Navigated to base URL.
+04/17/2025 11:12:30 AM: INFO: Television view: Verified logo presence.
+04/17/2025 11:12:30 AM: INFO: Television view: Quote verified.
+04/17/2025 11:12:32 AM: INFO: Television view: Driver session closed.
+04/17/2025 11:12:36 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019591E40690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7321f1a0f511af959a8e13dd68d80d97
+04/17/2025 11:12:40 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019591E40910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7321f1a0f511af959a8e13dd68d80d97
+04/17/2025 11:12:44 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019591CAF490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7321f1a0f511af959a8e13dd68d80d97
+04/17/2025 11:12:54 AM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 11:12:55 AM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 11:12:57 AM: INFO: Navigated to base URL.
+04/17/2025 11:12:57 AM: INFO: Tablet view: Verified logo presence.
+04/17/2025 11:12:57 AM: INFO: Tablet view: Quote verified.
+04/17/2025 11:13:00 AM: INFO: Tablet view: Driver session closed.
+04/17/2025 11:13:04 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019591DD89E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c229ee66940077bad13b24f5d4ef5544
+04/17/2025 11:13:08 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019591DD99D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c229ee66940077bad13b24f5d4ef5544
+04/17/2025 11:13:12 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019591DD9E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c229ee66940077bad13b24f5d4ef5544
+04/17/2025 11:13:22 AM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 11:13:22 AM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 11:13:24 AM: INFO: Navigated to base URL.
+04/17/2025 11:13:24 AM: ERROR:  WebDriver Exception in Mobile view: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF69E0E5355+78597]
+	GetHandleVerifier [0x00007FF69E0E53B0+78688]
+	(No symbol) [0x00007FF69DE98FDC]
+	(No symbol) [0x00007FF69DEF061D]
+	(No symbol) [0x00007FF69DEE2204]
+	(No symbol) [0x00007FF69DF170EA]
+	(No symbol) [0x00007FF69DEE1AB6]
+	(No symbol) [0x00007FF69DF17300]
+	(No symbol) [0x00007FF69DF3F2BB]
+	(No symbol) [0x00007FF69DF16EC3]
+	(No symbol) [0x00007FF69DEE03F8]
+	(No symbol) [0x00007FF69DEE1163]
+	GetHandleVerifier [0x00007FF69E38EF0D+2870973]
+	GetHandleVerifier [0x00007FF69E3896B8+2848360]
+	GetHandleVerifier [0x00007FF69E3A6993+2967875]
+	GetHandleVerifier [0x00007FF69E10019A+188746]
+	GetHandleVerifier [0x00007FF69E10847F+222255]
+	GetHandleVerifier [0x00007FF69E0ED2D4+111236]
+	GetHandleVerifier [0x00007FF69E0ED482+111666]
+	GetHandleVerifier [0x00007FF69E0D35A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 11:13:24 AM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 11:13:24 AM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 11:13:26 AM: INFO: Mobile view: Driver session closed.
+04/17/2025 11:13:34 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019591DD9BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/704feab79fea2e071586a2a84a172f4d
+04/17/2025 11:13:38 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019591DD85A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/704feab79fea2e071586a2a84a172f4d
+04/17/2025 11:13:43 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019591DD9F20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/704feab79fea2e071586a2a84a172f4d
+04/17/2025 11:28:48 AM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 11:28:50 AM: INFO: Opened application URL and maximized window.
+04/17/2025 11:28:50 AM: INFO: Services page title verified successfully.
+04/17/2025 11:28:53 AM: INFO: Closed browser after test execution.
+04/17/2025 11:28:57 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023458014CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b96b7f1f21ab34378fe9c0aea235f6cf
+04/17/2025 11:29:01 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023458014F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b96b7f1f21ab34378fe9c0aea235f6cf
+04/17/2025 11:29:05 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023457DFBCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b96b7f1f21ab34378fe9c0aea235f6cf
+04/17/2025 11:29:15 AM: INFO: ========== Test_002_Service: Verifying Services Page URL ==========
+04/17/2025 11:29:17 AM: INFO: Opened application URL and maximized window.
+04/17/2025 11:29:17 AM: INFO: Services page URL verified successfully.
+04/17/2025 11:29:19 AM: INFO: Closed browser after test execution.
+04/17/2025 11:29:23 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023457FF59D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d281ee2ad422baf25b3048b973762b92
+04/17/2025 11:29:27 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023457FF5D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d281ee2ad422baf25b3048b973762b92
+04/17/2025 11:29:31 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023457FF6140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d281ee2ad422baf25b3048b973762b92
+04/17/2025 11:29:41 AM: INFO: ========== Test_003_Service: Verifying Services Page Name ==========
+04/17/2025 11:29:43 AM: INFO: Opened application URL and maximized window.
+04/17/2025 11:29:43 AM: ERROR: Test failed. Screenshot saved to ./Screenshots/test_services_page_name.png
+04/17/2025 11:29:52 AM: INFO: ========== Test_004_Service: Verifying Services Page Text Quote ==========
+04/17/2025 11:29:53 AM: INFO: Opened application URL and maximized window.
+04/17/2025 11:29:54 AM: ERROR: Assertion failed. Screenshot saved to ./Screenshots/test_services_page_text_quote.png
+04/17/2025 11:30:00 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023457FF5040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0e50d25f67b7feb86d33af637465199a
+04/17/2025 11:30:04 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023457FF5370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0e50d25f67b7feb86d33af637465199a
+04/17/2025 11:30:08 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023457FF4C00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0e50d25f67b7feb86d33af637465199a
+04/17/2025 11:54:33 AM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 11:54:36 AM: INFO: Opened application URL and maximized window.
+04/17/2025 11:54:37 AM: INFO: Services page title verified successfully.
+04/17/2025 11:54:39 AM: INFO: Closed browser after test execution.
+04/17/2025 11:54:43 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B549D6CCD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/123d0d91f5d051393c58df732a947bbc
+04/17/2025 11:54:47 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B549D6CF50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/123d0d91f5d051393c58df732a947bbc
+04/17/2025 11:54:51 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B549C2BCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/123d0d91f5d051393c58df732a947bbc
+04/17/2025 11:55:01 AM: INFO: ========== Test_002_Service: Verifying Services Page URL ==========
+04/17/2025 11:55:03 AM: INFO: Opened application URL and maximized window.
+04/17/2025 11:55:03 AM: INFO: Services page URL verified successfully.
+04/17/2025 11:55:05 AM: INFO: Closed browser after test execution.
+04/17/2025 11:55:09 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B549D159D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3e94777b13513f2f757a361c5c22ca61
+04/17/2025 11:55:14 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B549D15D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3e94777b13513f2f757a361c5c22ca61
+04/17/2025 11:55:18 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B549D16140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3e94777b13513f2f757a361c5c22ca61
+04/17/2025 11:55:28 AM: INFO: ========== Test_003_Service: Verifying Services Page Name ==========
+04/17/2025 11:55:30 AM: INFO: Opened application URL and maximized window.
+04/17/2025 11:55:31 AM: ERROR: Test failed. Screenshot saved to ./Screenshots/test_services_page_name.png
+04/17/2025 11:55:39 AM: INFO: ========== Test_004_Service: Verifying Services Page Text Quote ==========
+04/17/2025 11:55:41 AM: INFO: Opened application URL and maximized window.
+04/17/2025 11:55:41 AM: INFO: Services page text quote verified successfully.
+04/17/2025 11:55:47 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B549D16690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c475be3979308eef1e928dbb470501c
+04/17/2025 11:55:51 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B549D15D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c475be3979308eef1e928dbb470501c
+04/17/2025 11:55:56 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B549D15AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3c475be3979308eef1e928dbb470501c
+04/17/2025 02:09:50 PM: INFO: ========== Test_009_Service: Verifying Parasors Logo on Services Page ==========
+04/17/2025 02:09:50 PM: INFO: ========== Test_009_Service: Verifying Parasearch Logo on Services Page ==========
+04/17/2025 02:09:52 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:09:52 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:09:53 PM: INFO: Parasearch logo on Services page verified successfully.
+04/17/2025 02:09:53 PM: INFO: Parasors logo on Services page verified successfully.
+04/17/2025 02:09:55 PM: INFO: ========== Test_009_Service: Verifying Parasors Logo on Services Page ==========
+04/17/2025 02:09:58 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:09:58 PM: INFO: Parasors logo on Services page verified successfully.
+04/17/2025 02:10:00 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF55810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c918554184c93d85a6411fe25b2374b3
+04/17/2025 02:10:00 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC35810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dfd9ef4f8a2b7ea6d5ed644157c8d49a
+04/17/2025 02:10:04 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF55A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c918554184c93d85a6411fe25b2374b3
+04/17/2025 02:10:04 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC35A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dfd9ef4f8a2b7ea6d5ed644157c8d49a
+04/17/2025 02:10:05 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC48475810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/067c625c-08a8-488d-8490-5745bc10aa49
+04/17/2025 02:10:08 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC903E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dfd9ef4f8a2b7ea6d5ed644157c8d49a
+04/17/2025 02:10:08 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4808203E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c918554184c93d85a6411fe25b2374b3
+04/17/2025 02:10:09 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC48475A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/067c625c-08a8-488d-8490-5745bc10aa49
+04/17/2025 02:10:13 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC484CC510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/067c625c-08a8-488d-8490-5745bc10aa49
+04/17/2025 02:10:18 PM: INFO: ========== Test_009_Service: Verifying Paradraft Logo on Services Page ==========
+04/17/2025 02:10:18 PM: INFO: ========== Test_009_Service: Verifying Paradoc Logo on Services Page ==========
+04/17/2025 02:10:24 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:10:25 PM: INFO: Paradraft logo on Services page verified successfully.
+04/17/2025 02:10:25 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:10:26 PM: INFO: Paradoc logo on Services page verified successfully.
+04/17/2025 02:10:28 PM: INFO: ========== Test_009_Service: Verifying Paradraft Logo on Services Page ==========
+04/17/2025 02:10:31 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:10:31 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF596A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/661d14093e2b8ecd92277e399b7bb75a
+04/17/2025 02:10:31 PM: INFO: Paradraft logo on Services page verified successfully.
+04/17/2025 02:10:32 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC396A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c068b2c1d444ea422d27d0904687030f
+04/17/2025 02:10:35 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF59260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/661d14093e2b8ecd92277e399b7bb75a
+04/17/2025 02:10:36 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC39260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c068b2c1d444ea422d27d0904687030f
+04/17/2025 02:10:38 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC484796A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/62cf6662-c598-42c3-83fa-d75c80e92883
+04/17/2025 02:10:39 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF58F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/661d14093e2b8ecd92277e399b7bb75a
+04/17/2025 02:10:40 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC38F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c068b2c1d444ea422d27d0904687030f
+04/17/2025 02:10:46 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC48479BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/62cf6662-c598-42c3-83fa-d75c80e92883
+04/17/2025 02:10:50 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC48479370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/62cf6662-c598-42c3-83fa-d75c80e92883
+04/17/2025 02:10:52 PM: INFO: ========== Test_009_Service: Verifying Paradoc Logo on Services Page ==========
+04/17/2025 02:10:54 PM: INFO: ========== Test_009_Service: Verifying Parasearch Logo on Services Page ==========
+04/17/2025 02:10:56 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:10:56 PM: INFO: Paradoc logo on Services page verified successfully.
+04/17/2025 02:10:58 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:10:59 PM: INFO: Parasearch logo on Services page verified successfully.
+04/17/2025 02:11:03 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF59370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1f016ad2-1633-4d86-98d1-ae63bd958329
+04/17/2025 02:11:06 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC39370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/09feb9d2-30c7-4975-ac0c-498f9c40a31b
+04/17/2025 02:11:07 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF5A360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1f016ad2-1633-4d86-98d1-ae63bd958329
+04/17/2025 02:11:10 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC3A360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/09feb9d2-30c7-4975-ac0c-498f9c40a31b
+04/17/2025 02:11:11 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF5A690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1f016ad2-1633-4d86-98d1-ae63bd958329
+04/17/2025 02:11:14 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC3A690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/09feb9d2-30c7-4975-ac0c-498f9c40a31b
+04/17/2025 02:15:59 PM: WARNING: There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_135_WINDOWS)); using driver found in the cache
+04/17/2025 02:16:01 PM: INFO: ========== Test_009_Service: Verifying Parasors Logo on Services Page ==========
+04/17/2025 02:16:03 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:16:04 PM: INFO: Parasors logo on Services page verified successfully.
+04/17/2025 02:16:10 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC48478F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7673ca398cc60e520f2806b5d4c01b28
+04/17/2025 02:16:14 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4847A470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7673ca398cc60e520f2806b5d4c01b28
+04/17/2025 02:16:18 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4847A7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7673ca398cc60e520f2806b5d4c01b28
+04/17/2025 02:16:20 PM: WARNING: There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_135_WINDOWS)); using driver found in the cache
+04/17/2025 02:16:21 PM: INFO: ========== Test_009_Service: Verifying Paradraft Logo on Services Page ==========
+04/17/2025 02:16:23 PM: WARNING: There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_135_WINDOWS)); using driver found in the cache
+04/17/2025 02:16:23 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:16:24 PM: INFO: Paradraft logo on Services page verified successfully.
+04/17/2025 02:16:25 PM: INFO: ========== Test_009_Service: Verifying Parasearch Logo on Services Page ==========
+04/17/2025 02:16:28 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:16:29 PM: INFO: Parasearch logo on Services page verified successfully.
+04/17/2025 02:16:30 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF5AE00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/14eed0c09b7e15a0c43bc819149b351e
+04/17/2025 02:16:34 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF5B570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/14eed0c09b7e15a0c43bc819149b351e
+04/17/2025 02:16:35 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC3AE00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6f785a79da7b3743fae8831042ca9ccb
+04/17/2025 02:16:38 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF5B8A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/14eed0c09b7e15a0c43bc819149b351e
+04/17/2025 02:16:39 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC3B570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6f785a79da7b3743fae8831042ca9ccb
+04/17/2025 02:16:43 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC3B8A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6f785a79da7b3743fae8831042ca9ccb
+04/17/2025 02:16:48 PM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 02:16:48 PM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 02:16:52 PM: INFO: Navigated to base URL.
+04/17/2025 02:16:53 PM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 02:16:53 PM: INFO: Television view: Verified logo presence.
+04/17/2025 02:16:53 PM: INFO: Television view: Quote verified.
+04/17/2025 02:16:53 PM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 02:16:55 PM: INFO: Television view: Driver session closed.
+04/17/2025 02:16:55 PM: INFO: Navigated to base URL.
+04/17/2025 02:16:56 PM: INFO: Tablet view: Verified logo presence.
+04/17/2025 02:16:56 PM: INFO: Tablet view: Quote verified.
+04/17/2025 02:16:58 PM: INFO: Tablet view: Driver session closed.
+04/17/2025 02:16:59 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F480860270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c29bdd2a3b91f31f6767f618c84ea642
+04/17/2025 02:17:02 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330ECD4270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68a676a48f5eb816871d8381bd30cb0d
+04/17/2025 02:17:03 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4808605A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c29bdd2a3b91f31f6767f618c84ea642
+04/17/2025 02:17:06 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330ECD45A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68a676a48f5eb816871d8381bd30cb0d
+04/17/2025 02:17:07 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4808608D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c29bdd2a3b91f31f6767f618c84ea642
+04/17/2025 02:17:10 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330ECD48D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68a676a48f5eb816871d8381bd30cb0d
+04/17/2025 02:17:21 PM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 02:17:21 PM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 02:17:23 PM: INFO: Navigated to base URL.
+04/17/2025 02:17:24 PM: INFO: Television view: Verified logo presence.
+04/17/2025 02:17:24 PM: INFO: Television view: Quote verified.
+04/17/2025 02:17:25 PM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 02:17:25 PM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 02:17:27 PM: INFO: Navigated to base URL.
+04/17/2025 02:17:28 PM: INFO: Tablet view: Verified logo presence.
+04/17/2025 02:17:28 PM: INFO: Television view: Driver session closed.
+04/17/2025 02:17:28 PM: INFO: Tablet view: Quote verified.
+04/17/2025 02:17:30 PM: INFO: Tablet view: Driver session closed.
+04/17/2025 02:17:32 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F480860490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dc3d079e-56e8-432d-9fb4-a89c6909cd94
+04/17/2025 02:17:34 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330ECD4490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/445ad332-4c6c-4d25-9f28-995703a89bbc
+04/17/2025 02:17:36 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F480861480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dc3d079e-56e8-432d-9fb4-a89c6909cd94
+04/17/2025 02:17:39 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330ECD5480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/445ad332-4c6c-4d25-9f28-995703a89bbc
+04/17/2025 02:17:40 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4808617B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dc3d079e-56e8-432d-9fb4-a89c6909cd94
+04/17/2025 02:17:43 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330ECD57B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/445ad332-4c6c-4d25-9f28-995703a89bbc
+04/17/2025 02:17:53 PM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 02:17:54 PM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 02:17:56 PM: INFO: Navigated to base URL.
+04/17/2025 02:17:56 PM: ERROR:  WebDriver Exception in Mobile view: Message: Element <div class="MuiBox-root css-iyqsmx"> could not be scrolled into view
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:368:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:167:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:136:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:354:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:230:31
+
+04/17/2025 02:17:56 PM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 02:17:56 PM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 02:17:59 PM: INFO: Mobile view: Driver session closed.
+04/17/2025 02:18:19 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF5B240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/937db4b6-db35-4366-b420-871e94291330
+04/17/2025 02:18:23 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF5BF00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/937db4b6-db35-4366-b420-871e94291330
+04/17/2025 02:18:28 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF5A030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/937db4b6-db35-4366-b420-871e94291330
+04/17/2025 02:19:52 PM: WARNING: There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_135_WINDOWS)); using driver found in the cache
+04/17/2025 02:19:52 PM: WARNING: There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_135_WINDOWS)); using driver found in the cache
+04/17/2025 02:19:52 PM: WARNING: There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_135_WINDOWS)); using driver found in the cache
+04/17/2025 02:19:53 PM: INFO: ========== Test_009_Service: Verifying Paradoc Logo on Services Page ==========
+04/17/2025 02:19:55 PM: INFO: ========== Test_010_Service: Television view ==========
+04/17/2025 02:19:55 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:19:56 PM: INFO: ========== Test_010_Service: Tablet view ==========
+04/17/2025 02:19:56 PM: INFO: Set window size: 1920x1080 for Television
+04/17/2025 02:19:56 PM: INFO: Set window size: 768x1024 for Tablet
+04/17/2025 02:19:56 PM: INFO: Navigated to base URL.
+04/17/2025 02:19:57 PM: INFO: Paradoc logo on Services page verified successfully.
+04/17/2025 02:19:58 PM: INFO: Navigated to base URL.
+04/17/2025 02:19:59 PM: INFO: Television view: Verified logo presence.
+04/17/2025 02:19:59 PM: INFO: Television view: Quote verified.
+04/17/2025 02:20:00 PM: INFO: Tablet view: Verified logo presence.
+04/17/2025 02:20:00 PM: INFO: Tablet view: Quote verified.
+04/17/2025 02:20:02 PM: INFO: Television view: Driver session closed.
+04/17/2025 02:20:02 PM: INFO: Tablet view: Driver session closed.
+04/17/2025 02:20:06 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4847AE00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/12b76db976b06ad13bdd62ab7f78de42
+04/17/2025 02:20:06 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330ECD67A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/60691e0ac9a85300637a9e457ac82d18
+04/17/2025 02:20:06 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF5AAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/35720e785a651edb36f7a406460eb7f4
+04/17/2025 02:20:10 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4847B570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/12b76db976b06ad13bdd62ab7f78de42
+04/17/2025 02:20:10 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330ECD6CF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/60691e0ac9a85300637a9e457ac82d18
+04/17/2025 02:20:10 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF59370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/35720e785a651edb36f7a406460eb7f4
+04/17/2025 02:20:14 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4847B8A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/12b76db976b06ad13bdd62ab7f78de42
+04/17/2025 02:20:14 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330ECD7020>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/60691e0ac9a85300637a9e457ac82d18
+04/17/2025 02:20:14 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F4FFF59F20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/35720e785a651edb36f7a406460eb7f4
+04/17/2025 02:20:24 PM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 02:20:24 PM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 02:20:26 PM: INFO: Navigated to base URL.
+04/17/2025 02:20:26 PM: ERROR:  WebDriver Exception in Mobile view: Message: element not interactable
+  (Session info: chrome=135.0.7049.85)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7954D5355+78597]
+	GetHandleVerifier [0x00007FF7954D53B0+78688]
+	(No symbol) [0x00007FF795288FDC]
+	(No symbol) [0x00007FF7952E061D]
+	(No symbol) [0x00007FF7952D2204]
+	(No symbol) [0x00007FF7953070EA]
+	(No symbol) [0x00007FF7952D1AB6]
+	(No symbol) [0x00007FF795307300]
+	(No symbol) [0x00007FF79532F2BB]
+	(No symbol) [0x00007FF795306EC3]
+	(No symbol) [0x00007FF7952D03F8]
+	(No symbol) [0x00007FF7952D1163]
+	GetHandleVerifier [0x00007FF79577EF0D+2870973]
+	GetHandleVerifier [0x00007FF7957796B8+2848360]
+	GetHandleVerifier [0x00007FF795796993+2967875]
+	GetHandleVerifier [0x00007FF7954F019A+188746]
+	GetHandleVerifier [0x00007FF7954F847F+222255]
+	GetHandleVerifier [0x00007FF7954DD2D4+111236]
+	GetHandleVerifier [0x00007FF7954DD482+111666]
+	GetHandleVerifier [0x00007FF7954C35A9+5465]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 02:20:26 PM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 02:20:26 PM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 02:20:28 PM: INFO: Mobile view: Driver session closed.
+04/17/2025 02:20:40 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4847A9C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/001c034060b9bc810e788fc341109034
+04/17/2025 02:20:45 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4847B570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/001c034060b9bc810e788fc341109034
+04/17/2025 02:20:46 PM: INFO: ========== Test_010_Service: Mobile view ==========
+04/17/2025 02:20:47 PM: INFO: Set window size: 375x667 for Mobile
+04/17/2025 02:20:48 PM: INFO: Navigated to base URL.
+04/17/2025 02:20:49 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CC4847B680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/001c034060b9bc810e788fc341109034
+04/17/2025 02:20:49 PM: ERROR:  WebDriver Exception in Mobile view: Message: element not interactable
+  (Session info: MicrosoftEdge=135.0.3179.73)
+Stacktrace:
+	GetHandleVerifier [0x00007FF78414EE65+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7840AF130+402672]
+	(No symbol) [0x00007FF783E9BAB0]
+	(No symbol) [0x00007FF783EE8FF6]
+	(No symbol) [0x00007FF783EDE5FE]
+	(No symbol) [0x00007FF783F08ECA]
+	(No symbol) [0x00007FF783EDDF8D]
+	(No symbol) [0x00007FF783EDDE4D]
+	(No symbol) [0x00007FF783F09190]
+	(No symbol) [0x00007FF783EDDF8D]
+	(No symbol) [0x00007FF783F26658]
+	(No symbol) [0x00007FF783F08C33]
+	(No symbol) [0x00007FF783EDD4D6]
+	(No symbol) [0x00007FF783EDCA82]
+	(No symbol) [0x00007FF783EDD303]
+	(No symbol) [0x00007FF783FD060D]
+	(No symbol) [0x00007FF783FDD642]
+	(No symbol) [0x00007FF783FD5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF784229BAA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7840BC581+457025]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7840B5834+429044]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7840B5983+429379]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7840A7486+370758]
+	BaseThreadInitThunk [0x00007FF801C2E8D7+23]
+	RtlUserThreadStart [0x00007FF8032B14FC+44]
+
+04/17/2025 02:20:49 PM: ERROR: Check if your browser and WebDriver versions are compatible.
+04/17/2025 02:20:49 PM: ERROR: Make sure no firewall or antivirus is blocking the connection.
+04/17/2025 02:20:51 PM: INFO: Mobile view: Driver session closed.
+04/17/2025 02:20:55 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC3B680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d84727d46780d36b3a68ef18d2a62020
+04/17/2025 02:20:59 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC3ABE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d84727d46780d36b3a68ef18d2a62020
+04/17/2025 02:21:03 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001330EC3B020>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d84727d46780d36b3a68ef18d2a62020
+04/17/2025 02:23:30 PM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 02:23:30 PM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 02:23:33 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:23:34 PM: INFO: Services page title verified successfully.
+04/17/2025 02:23:34 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:23:35 PM: INFO: Services page title verified successfully.
+04/17/2025 02:23:38 PM: INFO: Closed browser after test execution.
+04/17/2025 02:23:38 PM: INFO: Closed browser after test execution.
+04/17/2025 02:23:38 PM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 02:23:41 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:23:41 PM: INFO: Services page title verified successfully.
+04/17/2025 02:23:42 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C76335950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a791d6db82a0be769f87eb2575038897
+04/17/2025 02:23:42 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F16CF65950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fec7edfa4d5404ca1244881815dbe946
+04/17/2025 02:23:45 PM: INFO: Closed browser after test execution.
+04/17/2025 02:23:46 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C76335BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a791d6db82a0be769f87eb2575038897
+04/17/2025 02:23:46 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F16CF65BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fec7edfa4d5404ca1244881815dbe946
+04/17/2025 02:23:49 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000220988D5950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9aa60819-d6ab-4f95-b2bd-1abf528054ac
+04/17/2025 02:23:50 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019C763D8510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a791d6db82a0be769f87eb2575038897
+04/17/2025 02:23:50 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F16CFC0510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fec7edfa4d5404ca1244881815dbe946
+04/17/2025 02:23:53 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000220988D5BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9aa60819-d6ab-4f95-b2bd-1abf528054ac
+04/17/2025 02:23:57 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002209892C640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9aa60819-d6ab-4f95-b2bd-1abf528054ac
+04/17/2025 02:31:06 PM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 02:31:07 PM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 02:31:09 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:31:11 PM: INFO: Services page title verified successfully.
+04/17/2025 02:31:11 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:31:12 PM: INFO: Services page title verified successfully.
+04/17/2025 02:31:14 PM: INFO: Closed browser after test execution.
+04/17/2025 02:31:14 PM: INFO: Closed browser after test execution.
+04/17/2025 02:31:17 PM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 02:31:18 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020221B35950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ca143e82cecece95615df704160b2fb1
+04/17/2025 02:31:18 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C48455D950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3226a9725a20fbe731f4399358b51266
+04/17/2025 02:31:22 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:31:22 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020221B35BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ca143e82cecece95615df704160b2fb1
+04/17/2025 02:31:22 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C48455DBD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3226a9725a20fbe731f4399358b51266
+04/17/2025 02:31:25 PM: INFO: Services page title verified successfully.
+04/17/2025 02:31:27 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020221B90510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ca143e82cecece95615df704160b2fb1
+04/17/2025 02:31:27 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C4845D8510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3226a9725a20fbe731f4399358b51266
+04/17/2025 02:31:29 PM: INFO: Closed browser after test execution.
+04/17/2025 02:31:33 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C07FEE5950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/849c60c7-22f2-4059-97ab-8453cc371a3c
+04/17/2025 02:31:37 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C07FEE5BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/849c60c7-22f2-4059-97ab-8453cc371a3c
+04/17/2025 02:31:41 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C00001C640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/849c60c7-22f2-4059-97ab-8453cc371a3c
+04/17/2025 02:38:05 PM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 02:38:07 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:38:07 PM: INFO: Services page title verified successfully.
+04/17/2025 02:38:09 PM: INFO: Closed browser after test execution.
+04/17/2025 02:38:13 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A9818E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/447db12c06f14bcb9258270f8ec3575a
+04/17/2025 02:38:17 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A9819090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/447db12c06f14bcb9258270f8ec3575a
+04/17/2025 02:38:22 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A96ABCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/447db12c06f14bcb9258270f8ec3575a
+04/17/2025 02:38:35 PM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 02:38:37 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:38:38 PM: INFO: Services page title verified successfully.
+04/17/2025 02:38:41 PM: INFO: Closed browser after test execution.
+04/17/2025 02:38:45 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A97CD9D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ed20e126-5dc8-41e7-b5e2-473e340ad8b6
+04/17/2025 02:38:49 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A97CDE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ed20e126-5dc8-41e7-b5e2-473e340ad8b6
+04/17/2025 02:38:53 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A97CE250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ed20e126-5dc8-41e7-b5e2-473e340ad8b6
+04/17/2025 02:39:04 PM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/17/2025 02:39:05 PM: INFO: Opened application URL and maximized window.
+04/17/2025 02:39:05 PM: INFO: Services page title verified successfully.
+04/17/2025 02:39:08 PM: INFO: Closed browser after test execution.
+04/17/2025 02:39:12 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A97CD8C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/98b1f4e2941f54ff3845594a69f85df6
+04/17/2025 02:39:16 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A97CEF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/98b1f4e2941f54ff3845594a69f85df6
+04/17/2025 02:39:20 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A97CF240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/98b1f4e2941f54ff3845594a69f85df6
