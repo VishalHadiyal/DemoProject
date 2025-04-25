@@ -21,6 +21,8 @@ class HomePage:
     whatsapp_icon_xpath  = "(//*[@class='MuiBox-root css-ytumd6'])[3]"
     footer_all_links_xpath = "/html/body/div[1]/div[2]/div[5]/div[1]/div[1]/div[3]//a"
 
+    home_page_header_option_pricing_xpath = "//div[text()='Pricing']"
+
     def __init__(self, driver):
         """
         Constructor to initialize the WebDriver instance.
@@ -121,3 +123,9 @@ class HomePage:
         link_texts = [link.text.strip() for link in all_links]
         return len(all_links), link_texts
 
+    def navigate_to_pricing_page(self):
+        """
+        Returns the header option text from the home page.
+        :return: Text of the header option
+        """
+        return self.driver.find_element(By.XPATH, self.home_page_header_option_pricing_xpath).click()

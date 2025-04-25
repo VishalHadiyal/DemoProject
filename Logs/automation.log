@@ -2969,3 +2969,905 @@ Stacktrace:
 04/17/2025 02:39:12 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A97CD8C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/98b1f4e2941f54ff3845594a69f85df6
 04/17/2025 02:39:16 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A97CEF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/98b1f4e2941f54ff3845594a69f85df6
 04/17/2025 02:39:20 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D9A97CF240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/98b1f4e2941f54ff3845594a69f85df6
+04/21/2025 10:55:36 AM: INFO: ========== Test_001_Service: Verifying Services Page Title ==========
+04/21/2025 10:55:42 AM: ERROR: An unexpected error occurred: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+04/21/2025 11:06:09 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:06:15 AM: INFO: Expected URL: None
+04/21/2025 11:06:15 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:06:15 AM: ERROR: Assertion failed: URL mismatch: expected None, got https://para.unada.in/plan
+assert 'https://para.unada.in/plan' == None
+04/21/2025 11:06:15 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_title_failure.png
+04/21/2025 11:06:21 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028220DB0A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6ffdc2821f632e02fba467bcf028d69b
+04/21/2025 11:06:25 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028220DB0CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6ffdc2821f632e02fba467bcf028d69b
+04/21/2025 11:06:30 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028220C6AEA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6ffdc2821f632e02fba467bcf028d69b
+04/21/2025 11:06:45 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:06:50 AM: INFO: Expected URL: None
+04/21/2025 11:06:50 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:06:50 AM: ERROR: Assertion failed: URL mismatch: expected None, got https://para.unada.in/plan
+assert 'https://para.unada.in/plan' == None
+04/21/2025 11:06:50 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_title_failure.png
+04/21/2025 11:06:57 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028221125AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f1968c61-97ea-4df8-9a1a-032e5e3f43f3
+04/21/2025 11:07:01 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028221125E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f1968c61-97ea-4df8-9a1a-032e5e3f43f3
+04/21/2025 11:07:05 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028221126250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f1968c61-97ea-4df8-9a1a-032e5e3f43f3
+04/21/2025 11:11:25 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:11:28 AM: INFO: Expected URL: None
+04/21/2025 11:11:28 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:11:28 AM: ERROR: Assertion failed: URL mismatch: expected None, got https://para.unada.in/plan
+assert 'https://para.unada.in/plan' == None
+04/21/2025 11:11:28 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_title_failure.png
+04/21/2025 11:11:34 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B28CC38A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/346cd623240bc239b944a3bd184af709
+04/21/2025 11:11:38 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B28CC38CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/346cd623240bc239b944a3bd184af709
+04/21/2025 11:11:42 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B28CA7AEA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/346cd623240bc239b944a3bd184af709
+04/21/2025 11:11:58 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:12:02 AM: INFO: Expected URL: None
+04/21/2025 11:12:02 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:12:02 AM: ERROR: Assertion failed: URL mismatch: expected None, got https://para.unada.in/plan
+assert 'https://para.unada.in/plan' == None
+04/21/2025 11:12:02 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_title_failure.png
+04/21/2025 11:12:09 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B28CFADAE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40e900ce-aa1f-4e17-b665-691885e5c409
+04/21/2025 11:12:14 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B28CFADE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40e900ce-aa1f-4e17-b665-691885e5c409
+04/21/2025 11:12:18 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B28CFAE250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40e900ce-aa1f-4e17-b665-691885e5c409
+04/21/2025 11:18:52 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:18:54 AM: INFO: Expected URL: None
+04/21/2025 11:18:54 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:18:54 AM: ERROR: Assertion failed: URL mismatch: expected None, got https://para.unada.in/plan
+assert 'https://para.unada.in/plan' == None
+04/21/2025 11:18:54 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_title_failure.png
+04/21/2025 11:19:00 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000149B9724910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/198baeb21d750ef98ccecc37f027960e
+04/21/2025 11:19:04 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000149B9724B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/198baeb21d750ef98ccecc37f027960e
+04/21/2025 11:19:09 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000149B95FAEA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/198baeb21d750ef98ccecc37f027960e
+04/21/2025 11:19:24 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:19:29 AM: INFO: Expected URL: None
+04/21/2025 11:19:29 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:19:29 AM: ERROR: Assertion failed: URL mismatch: expected None, got https://para.unada.in/plan
+assert 'https://para.unada.in/plan' == None
+04/21/2025 11:19:29 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_title_failure.png
+04/21/2025 11:19:36 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000149B9A99AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e9d59251-ac1a-48da-9c36-b9821c5b8743
+04/21/2025 11:19:40 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000149B9A99E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e9d59251-ac1a-48da-9c36-b9821c5b8743
+04/21/2025 11:19:44 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000149B9A9A250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e9d59251-ac1a-48da-9c36-b9821c5b8743
+04/21/2025 11:19:59 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:20:01 AM: INFO: Expected URL: None
+04/21/2025 11:20:01 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:20:01 AM: ERROR: Assertion failed: URL mismatch: expected None, got https://para.unada.in/plan
+assert 'https://para.unada.in/plan' == None
+04/21/2025 11:20:01 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_title_failure.png
+04/21/2025 11:20:07 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000149B9A9B240>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e82a184ca40ecd25384236a6db5796a8
+04/21/2025 11:20:11 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000149B9A9B570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e82a184ca40ecd25384236a6db5796a8
+04/21/2025 11:20:16 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000149B9A9B8A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e82a184ca40ecd25384236a6db5796a8
+04/21/2025 11:32:39 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:32:42 AM: INFO: Expected URL: https://para.unada.in/plan
+04/21/2025 11:32:42 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:32:48 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236F24107D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e651769ed2e9c502a497a8784d69f8d1
+04/21/2025 11:32:52 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236F2410A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e651769ed2e9c502a497a8784d69f8d1
+04/21/2025 11:32:56 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236F22EAD70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e651769ed2e9c502a497a8784d69f8d1
+04/21/2025 11:33:12 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:33:16 AM: INFO: Expected URL: https://para.unada.in/plan
+04/21/2025 11:33:16 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:33:24 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236F2420C00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f5abae71-8c5f-46e5-ac1c-13dfa262cdb8
+04/21/2025 11:33:28 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236F2420E20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f5abae71-8c5f-46e5-ac1c-13dfa262cdb8
+04/21/2025 11:33:32 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236F2421260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f5abae71-8c5f-46e5-ac1c-13dfa262cdb8
+04/21/2025 11:33:42 AM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 11:33:45 AM: INFO: Expected URL: https://para.unada.in/plan
+04/21/2025 11:33:45 AM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 11:33:51 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236F24209E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/49217db9a86ddd0c9c4ee0a6a06bf347
+04/21/2025 11:33:55 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236F2421F20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/49217db9a86ddd0c9c4ee0a6a06bf347
+04/21/2025 11:33:59 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000236F2422250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/49217db9a86ddd0c9c4ee0a6a06bf347
+04/21/2025 12:10:42 PM: INFO: ========== Test_009_Service: Verifying Parasors Logo on Services Page ==========
+04/21/2025 12:10:43 PM: INFO: ========== Test_009_Service: Verifying Parasearch Logo on Services Page ==========
+04/21/2025 12:10:48 PM: INFO: ========== Test_009_Service: Verifying Parasors Logo on Services Page ==========
+04/21/2025 12:10:48 PM: INFO: Opened application URL and maximized window.
+04/21/2025 12:10:48 PM: INFO: Opened application URL and maximized window.
+04/21/2025 12:10:50 PM: INFO: Parasearch logo on Services page verified successfully.
+04/21/2025 12:10:50 PM: INFO: Parasors logo on Services page verified successfully.
+04/21/2025 12:10:54 PM: INFO: Opened application URL and maximized window.
+04/21/2025 12:10:55 PM: INFO: Parasors logo on Services page verified successfully.
+04/21/2025 12:10:57 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D56AEC9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f147c8cb94489bbe1504aef206005b16
+04/21/2025 12:11:01 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D56AEC9D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f147c8cb94489bbe1504aef206005b16
+04/21/2025 12:11:01 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2D1D6DD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/024d2ddf27117748a293d3a9ea58b68a
+04/21/2025 12:11:02 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C91DC9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0fc9380-8b38-4586-9174-9ce54f556366
+04/21/2025 12:11:05 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D56AF203E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f147c8cb94489bbe1504aef206005b16
+04/21/2025 12:11:05 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2D1E003E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/024d2ddf27117748a293d3a9ea58b68a
+04/21/2025 12:11:06 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C91DC9D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0fc9380-8b38-4586-9174-9ce54f556366
+04/21/2025 12:11:10 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C91E1C770>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0fc9380-8b38-4586-9174-9ce54f556366
+04/21/2025 12:11:15 PM: INFO: ========== Test_009_Service: Verifying Paradraft Logo on Services Page ==========
+04/21/2025 12:11:19 PM: INFO: Opened application URL and maximized window.
+04/21/2025 12:11:19 PM: INFO: ========== Test_009_Service: Verifying Paradoc Logo on Services Page ==========
+04/21/2025 12:11:20 PM: INFO: Paradraft logo on Services page verified successfully.
+04/21/2025 12:11:26 PM: INFO: ========== Test_009_Service: Verifying Paradraft Logo on Services Page ==========
+04/21/2025 12:11:26 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2D1D757B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/deaaf5d447e24651ecb70ed710708f47
+04/21/2025 12:11:28 PM: INFO: Opened application URL and maximized window.
+04/21/2025 12:11:29 PM: INFO: Paradoc logo on Services page verified successfully.
+04/21/2025 12:11:31 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F2D1D75E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/deaaf5d447e24651ecb70ed710708f47
+04/21/2025 01:04:04 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:04:04 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:04:12 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:04:12 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021AD8C2E0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6d1c01ef4cb42c39f6ec8364b62f55d1
+04/21/2025 01:04:13 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1266EE0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/449d3ce6de44ca23dc344da7f5e8d8e8
+04/21/2025 01:04:16 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021AD8C2E490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6d1c01ef4cb42c39f6ec8364b62f55d1
+04/21/2025 01:04:17 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1266EE490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/449d3ce6de44ca23dc344da7f5e8d8e8
+04/21/2025 01:04:20 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012FA65FE0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ce161c5c-709d-41ea-9e09-953d4da21316
+04/21/2025 01:04:20 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021AD8B0B490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6d1c01ef4cb42c39f6ec8364b62f55d1
+04/21/2025 01:04:21 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F1265C7490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/449d3ce6de44ca23dc344da7f5e8d8e8
+04/21/2025 01:04:24 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012FA65FE490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ce161c5c-709d-41ea-9e09-953d4da21316
+04/21/2025 01:04:28 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000012FA64DBA80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ce161c5c-709d-41ea-9e09-953d4da21316
+04/21/2025 01:38:11 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:38:17 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:38:18 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021AAE81E0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/20fb477854782e8c5734fed0478935c5
+04/21/2025 01:38:22 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021AAE81E490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/20fb477854782e8c5734fed0478935c5
+04/21/2025 01:38:25 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021B1918E0D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/22b8e119-6cb9-401c-8599-3d172610c764
+04/21/2025 01:38:26 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021AAE6FB490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/20fb477854782e8c5734fed0478935c5
+04/21/2025 01:38:29 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021B1918E490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/22b8e119-6cb9-401c-8599-3d172610c764
+04/21/2025 01:38:33 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021B19067A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/22b8e119-6cb9-401c-8599-3d172610c764
+04/21/2025 01:39:15 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:39:20 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:39:31 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026FF234DF90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f2ea25537834b276f89aa14c5faeac10
+04/21/2025 01:39:35 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026FF234E350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f2ea25537834b276f89aa14c5faeac10
+04/21/2025 01:39:37 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022263FCDF90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c109d822-f08f-488a-9536-39b65002a92c
+04/21/2025 01:39:39 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026FF222B490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f2ea25537834b276f89aa14c5faeac10
+04/21/2025 01:39:41 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022263FCE350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c109d822-f08f-488a-9536-39b65002a92c
+04/21/2025 01:39:45 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022263E87A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c109d822-f08f-488a-9536-39b65002a92c
+04/21/2025 01:42:52 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:42:53 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:43:01 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:43:12 PM: INFO: Expected URL: https://para.unada.in/plan
+04/21/2025 01:43:12 PM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 01:43:14 PM: INFO: Expected URL: https://para.unada.in/plan
+04/21/2025 01:43:14 PM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 01:43:18 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAE91BD6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f0e50a6aa0effa70470992ef4351575e
+04/21/2025 01:43:20 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE1864D6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3224571a782df528abbf1a42792b5c55
+04/21/2025 01:43:22 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAE91BD950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f0e50a6aa0effa70470992ef4351575e
+04/21/2025 01:43:24 PM: INFO: Expected URL: https://para.unada.in/plan
+04/21/2025 01:43:24 PM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 01:43:25 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE1864D950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3224571a782df528abbf1a42792b5c55
+04/21/2025 01:43:26 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EAE90975C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f0e50a6aa0effa70470992ef4351575e
+04/21/2025 01:43:29 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CE184875C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3224571a782df528abbf1a42792b5c55
+04/21/2025 01:43:31 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E2197BD6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b811f357-b7cc-4deb-a009-003dd496d881
+04/21/2025 01:43:35 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E2197BD950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b811f357-b7cc-4deb-a009-003dd496d881
+04/21/2025 01:43:39 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E219637A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b811f357-b7cc-4deb-a009-003dd496d881
+04/21/2025 01:45:36 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:45:36 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:45:42 PM: INFO: Expected URL: https://para.unada.in/plan
+04/21/2025 01:45:42 PM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 01:45:43 PM: INFO: Expected URL: https://para.unada.in/plan
+04/21/2025 01:45:43 PM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 01:45:47 PM: INFO: ********** Test_001_PricingPage **********
+04/21/2025 01:45:49 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B8FD30D6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/020d5ee2b17a1052458c595f399cc781
+04/21/2025 01:45:50 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C80D6D6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1652945bec796cf2ecccfe17f22a1def
+04/21/2025 01:45:52 PM: INFO: Expected URL: https://para.unada.in/plan
+04/21/2025 01:45:52 PM: INFO: Actual URL: https://para.unada.in/plan
+04/21/2025 01:45:53 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B8FD30D950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/020d5ee2b17a1052458c595f399cc781
+04/21/2025 01:45:54 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C80D6D950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1652945bec796cf2ecccfe17f22a1def
+04/21/2025 01:45:58 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002B8FD1E75C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/020d5ee2b17a1052458c595f399cc781
+04/21/2025 01:45:58 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C80C075C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1652945bec796cf2ecccfe17f22a1def
+04/21/2025 01:46:00 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000170D86CD6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/528b4017-fc99-445b-a759-f2ee996e15e9
+04/21/2025 01:46:04 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000170D86CD950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/528b4017-fc99-445b-a759-f2ee996e15e9
+04/21/2025 01:46:08 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000170D85A7A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/528b4017-fc99-445b-a759-f2ee996e15e9
+04/21/2025 02:14:28 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:14:35 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:14:39 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013666DA9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b91c1edbdae18413d1b582c6974c435
+04/21/2025 02:14:43 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013666DA9E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b91c1edbdae18413d1b582c6974c435
+04/21/2025 02:14:47 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013666C87A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b91c1edbdae18413d1b582c6974c435
+04/21/2025 02:14:49 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021ABDCF9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4aec7757-1283-4206-bc73-08590c6a4f5b
+04/21/2025 02:14:54 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021ABDCF9E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4aec7757-1283-4206-bc73-08590c6a4f5b
+04/21/2025 02:14:58 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021ABDBDB820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4aec7757-1283-4206-bc73-08590c6a4f5b
+04/21/2025 02:15:09 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:15:19 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021ABDD05BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/545a1643fbfa15d424e3f3f27490fce6
+04/21/2025 02:15:23 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021ABDD05E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/545a1643fbfa15d424e3f3f27490fce6
+04/21/2025 02:15:27 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021ABDD06250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/545a1643fbfa15d424e3f3f27490fce6
+04/21/2025 02:18:49 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:18:53 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:18:59 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223943C9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/83c2a820a79d1344cf8b3d6b006ad837
+04/21/2025 02:19:03 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223943C9E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/83c2a820a79d1344cf8b3d6b006ad837
+04/21/2025 02:19:05 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025BF3459A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9a8d300c-8d14-4b47-9cca-4cbf8b6f63fa
+04/21/2025 02:19:08 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000223942A7A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/83c2a820a79d1344cf8b3d6b006ad837
+04/21/2025 02:19:09 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025BF3459E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9a8d300c-8d14-4b47-9cca-4cbf8b6f63fa
+04/21/2025 02:19:13 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025BF3327820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9a8d300c-8d14-4b47-9cca-4cbf8b6f63fa
+04/21/2025 02:19:23 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:19:32 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025BF3461BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/50915fd0165de133593f1f4cec0b784d
+04/21/2025 02:19:36 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025BF3461E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/50915fd0165de133593f1f4cec0b784d
+04/21/2025 02:19:40 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025BF3462250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/50915fd0165de133593f1f4cec0b784d
+04/21/2025 02:20:55 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:21:00 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:21:05 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021438349A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d86b20ef57d3d1c277340aa952031402
+04/21/2025 02:21:09 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021438349E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d86b20ef57d3d1c277340aa952031402
+04/21/2025 02:21:12 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020E8E2E9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68756e2d-5260-47bc-8518-fb91cfedaf61
+04/21/2025 02:21:13 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021438227A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d86b20ef57d3d1c277340aa952031402
+04/21/2025 02:21:16 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020E8E2E9E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68756e2d-5260-47bc-8518-fb91cfedaf61
+04/21/2025 02:21:21 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020E8E1C7820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/68756e2d-5260-47bc-8518-fb91cfedaf61
+04/21/2025 02:21:31 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:21:41 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020E8E2F5BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/459483083cf8cd0cc6940b025d5e46a0
+04/21/2025 02:21:45 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020E8E2F5E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/459483083cf8cd0cc6940b025d5e46a0
+04/21/2025 02:21:49 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020E8E2F6250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/459483083cf8cd0cc6940b025d5e46a0
+04/21/2025 02:22:42 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:22:46 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:22:53 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A2AC989A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ced41633aa0faf3c9bf49f0cab16b328
+04/21/2025 02:22:57 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A2AC989E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ced41633aa0faf3c9bf49f0cab16b328
+04/21/2025 02:22:58 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019132F59A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f1cba9de-ed32-4064-9707-8a9303fac819
+04/21/2025 02:23:01 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A2AC86BA80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ced41633aa0faf3c9bf49f0cab16b328
+04/21/2025 02:23:02 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019132F59E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f1cba9de-ed32-4064-9707-8a9303fac819
+04/21/2025 02:23:06 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019132E17820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f1cba9de-ed32-4064-9707-8a9303fac819
+04/21/2025 02:23:16 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:23:25 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019132F65BF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b3356ffc3b89c33c59eeb311fd7729c7
+04/21/2025 02:23:29 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019132F65E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b3356ffc3b89c33c59eeb311fd7729c7
+04/21/2025 02:23:34 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019132F66250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b3356ffc3b89c33c59eeb311fd7729c7
+04/21/2025 02:24:49 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:24:53 PM: INFO: Expected URL: None
+04/21/2025 02:24:53 PM: INFO: Actual URL: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:24:53 PM: ERROR: Assertion failed: Content mismatch: expected None, got 14 days unlimited free trial. No contract or credit card required.
+assert '14 days unlimited free trial. No contract or credit card required.' == None
+04/21/2025 02:24:53 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:24:54 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:24:58 PM: INFO: Expected URL: None
+04/21/2025 02:24:58 PM: INFO: Actual URL: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:24:58 PM: ERROR: Assertion failed: Content mismatch: expected None, got 14 days unlimited free trial. No contract or credit card required.
+assert '14 days unlimited free trial. No contract or credit card required.' == None
+04/21/2025 02:24:58 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:25:00 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BCB69A5D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/988b5fe5a3c6d1a3f7dc638cca4ffd20
+04/21/2025 02:25:04 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BCB69A5F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/988b5fe5a3c6d1a3f7dc638cca4ffd20
+04/21/2025 02:25:06 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E57D085D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/459e6a80-7749-4093-a0fa-d85461148804
+04/21/2025 02:25:08 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BCB67F7E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/988b5fe5a3c6d1a3f7dc638cca4ffd20
+04/21/2025 02:25:10 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E57D085F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/459e6a80-7749-4093-a0fa-d85461148804
+04/21/2025 02:25:14 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E57CF77CE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/459e6a80-7749-4093-a0fa-d85461148804
+04/21/2025 02:25:24 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:25:26 PM: INFO: Expected URL: None
+04/21/2025 02:25:26 PM: INFO: Actual URL: 
+04/21/2025 02:25:27 PM: ERROR: Assertion failed: Content mismatch: expected None, got 
+assert '' == None
+04/21/2025 02:25:27 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:25:33 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E57D0AE250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/944bef1d4ccdfac675be4f77db3e2158
+04/21/2025 02:25:37 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E57D0AE580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/944bef1d4ccdfac675be4f77db3e2158
+04/21/2025 02:25:41 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E57D0AE9C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/944bef1d4ccdfac675be4f77db3e2158
+04/21/2025 02:29:58 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:30:01 PM: INFO: Expected URL: None
+04/21/2025 02:30:01 PM: INFO: Actual URL: 
+04/21/2025 02:30:02 PM: ERROR: Assertion failed: Content mismatch: expected None, got 
+assert '' == None
+04/21/2025 02:30:02 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:30:03 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:30:04 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:30:08 PM: INFO: Expected URL: None
+04/21/2025 02:30:08 PM: INFO: Actual URL: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:30:08 PM: ERROR: Assertion failed: Content mismatch: expected None, got 14 days unlimited free trial. No contract or credit card required.
+assert '14 days unlimited free trial. No contract or credit card required.' == None
+04/21/2025 02:30:08 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:30:08 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021E096DDD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7dca887f870ecae9ae80ce9d91d2cb64
+04/21/2025 02:30:11 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:30:12 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021E096DDF90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7dca887f870ecae9ae80ce9d91d2cb64
+04/21/2025 02:30:15 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013466D79D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0bd2ad1d-eaf5-466c-87ba-f64185d2cac9
+04/21/2025 02:30:16 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021E09567E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7dca887f870ecae9ae80ce9d91d2cb64
+04/21/2025 02:30:19 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013466D79F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0bd2ad1d-eaf5-466c-87ba-f64185d2cac9
+04/21/2025 02:30:23 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013466C6BCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0bd2ad1d-eaf5-466c-87ba-f64185d2cac9
+04/21/2025 02:30:34 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:30:36 PM: INFO: Expected URL: None
+04/21/2025 02:30:36 PM: INFO: Actual URL: 
+04/21/2025 02:30:36 PM: ERROR: Assertion failed: Content mismatch: expected None, got 
+assert '' == None
+04/21/2025 02:30:36 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:30:38 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:30:43 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013466D9E360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d3eb647ca398d3d150d078bf3aa13e47
+04/21/2025 02:30:47 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013466D9E690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d3eb647ca398d3d150d078bf3aa13e47
+04/21/2025 02:30:51 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013466D9EAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d3eb647ca398d3d150d078bf3aa13e47
+04/21/2025 02:45:38 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:45:47 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:45:52 PM: INFO: Expected Content: None
+04/21/2025 02:45:52 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:45:52 PM: ERROR: Assertion failed: Content mismatch: expected None, got 14 days unlimited free trial. No contract or credit card required.
+assert '14 days unlimited free trial. No contract or credit card required.' == None
+04/21/2025 02:45:52 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:45:54 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:45:59 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002473D1E9D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a9bcaa241c27241b27a582d0f8149413
+04/21/2025 02:46:02 PM: INFO: Expected Content: None
+04/21/2025 02:46:02 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:46:02 PM: ERROR: Assertion failed: Content mismatch: expected None, got 14 days unlimited free trial. No contract or credit card required.
+assert '14 days unlimited free trial. No contract or credit card required.' == None
+04/21/2025 02:46:02 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:46:03 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002473D1E9F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a9bcaa241c27241b27a582d0f8149413
+04/21/2025 02:46:05 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:46:07 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002473D057E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a9bcaa241c27241b27a582d0f8149413
+04/21/2025 02:46:10 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001614A7D9D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e1cf2670-0e4e-46b8-b742-4e4e86867538
+04/21/2025 02:46:14 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001614A7D9F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e1cf2670-0e4e-46b8-b742-4e4e86867538
+04/21/2025 02:46:18 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001614A6CBCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e1cf2670-0e4e-46b8-b742-4e4e86867538
+04/21/2025 02:46:30 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:46:43 PM: INFO: Expected Content: None
+04/21/2025 02:46:43 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:46:43 PM: ERROR: Assertion failed: Content mismatch: expected None, got 14 days unlimited free trial. No contract or credit card required.
+assert '14 days unlimited free trial. No contract or credit card required.' == None
+04/21/2025 02:46:43 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:46:45 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:46:49 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001614A7FE470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/75a22285a0f90244d96b388ac8de38ef
+04/21/2025 02:46:53 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001614A7FE7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/75a22285a0f90244d96b388ac8de38ef
+04/21/2025 02:46:57 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001614A7FEBE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/75a22285a0f90244d96b388ac8de38ef
+04/21/2025 02:49:56 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:50:05 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:50:10 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:50:14 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F0A19A9E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2f2d993934a05059715f355a6751ea73
+04/21/2025 02:50:18 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F0A19AA350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2f2d993934a05059715f355a6751ea73
+04/21/2025 02:50:21 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:50:22 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F0A1D802B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2f2d993934a05059715f355a6751ea73
+04/21/2025 02:50:25 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6122AE210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0749150-dbce-48db-a276-d1f145176971
+04/21/2025 02:50:29 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6122AE5D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0749150-dbce-48db-a276-d1f145176971
+04/21/2025 02:50:33 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6126A0180>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0749150-dbce-48db-a276-d1f145176971
+04/21/2025 02:50:44 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:50:55 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:50:59 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6122CCF30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/916f831c1b2e97b40346524aa7888f1a
+04/21/2025 02:51:03 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6122CCAF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/916f831c1b2e97b40346524aa7888f1a
+04/21/2025 02:51:07 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E6122CE030>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/916f831c1b2e97b40346524aa7888f1a
+04/21/2025 02:52:08 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:52:15 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:52:22 PM: INFO: Expected Content: None
+04/21/2025 02:52:22 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:52:22 PM: ERROR: Assertion failed: Content mismatch: expected None, got 14 days unlimited free trial. No contract or credit card required.
+assert '14 days unlimited free trial. No contract or credit card required.' == None
+04/21/2025 02:52:22 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:52:25 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:52:29 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C51AD9D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/668e23aee4a469e753de96e5935182d8
+04/21/2025 02:52:30 PM: INFO: Expected Content: None
+04/21/2025 02:52:30 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:52:31 PM: ERROR: Assertion failed: Content mismatch: expected None, got 14 days unlimited free trial. No contract or credit card required.
+assert '14 days unlimited free trial. No contract or credit card required.' == None
+04/21/2025 02:52:31 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:52:33 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C51AD9F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/668e23aee4a469e753de96e5935182d8
+04/21/2025 02:52:34 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:52:37 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026C519C7E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/668e23aee4a469e753de96e5935182d8
+04/21/2025 02:52:38 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E037C9D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5ac2c9fb-1e93-43c4-9df4-565220b3e4c3
+04/21/2025 02:52:42 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E037C9F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5ac2c9fb-1e93-43c4-9df4-565220b3e4c3
+04/21/2025 02:52:46 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E036BBCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5ac2c9fb-1e93-43c4-9df4-565220b3e4c3
+04/21/2025 02:52:56 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:53:11 PM: INFO: Expected Content: None
+04/21/2025 02:53:11 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:53:11 PM: ERROR: Assertion failed: Content mismatch: expected None, got 14 days unlimited free trial. No contract or credit card required.
+assert '14 days unlimited free trial. No contract or credit card required.' == None
+04/21/2025 02:53:11 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/21/2025 02:53:13 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:53:18 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E037EE470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ffd64f00d0be4e538058ea5821de2ea3
+04/21/2025 02:53:22 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E037EE7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ffd64f00d0be4e538058ea5821de2ea3
+04/21/2025 02:53:26 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027E037EEBE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ffd64f00d0be4e538058ea5821de2ea3
+04/21/2025 02:56:00 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:56:08 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:56:13 PM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:56:13 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:56:20 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:56:23 PM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:56:23 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:56:24 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C0E5C4D450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b6e833702f21b3c75680a408b729adf2
+04/21/2025 02:56:28 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C0E5C4DA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b6e833702f21b3c75680a408b729adf2
+04/21/2025 02:56:31 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:56:32 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C0E5B3B820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b6e833702f21b3c75680a408b729adf2
+04/21/2025 02:56:35 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194430A9810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/eab21447-e548-4475-97fa-1ca620084535
+04/21/2025 02:56:40 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194430A9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/eab21447-e548-4475-97fa-1ca620084535
+04/21/2025 02:56:44 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019442F97A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/eab21447-e548-4475-97fa-1ca620084535
+04/21/2025 02:56:55 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:57:10 PM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:57:10 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:57:17 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:57:21 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194430CD260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a67ecace10c0ff0974842ff80b392dad
+04/21/2025 02:57:25 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194430CD590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a67ecace10c0ff0974842ff80b392dad
+04/21/2025 02:57:30 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194430CD9D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a67ecace10c0ff0974842ff80b392dad
+04/21/2025 02:58:26 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:58:30 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:58:40 PM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:58:40 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:58:45 PM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:58:45 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:58:48 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:58:52 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021907A49450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/df0aa0372d4c62c86962147b257e2780
+04/21/2025 02:58:53 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:58:56 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021907A49A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/df0aa0372d4c62c86962147b257e2780
+04/21/2025 02:58:58 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022AC9C2D810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0f87e15e-3676-4e38-ad99-f3a16ef87440
+04/21/2025 02:59:00 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021907897820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/df0aa0372d4c62c86962147b257e2780
+04/21/2025 02:59:02 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022AC9C2DA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0f87e15e-3676-4e38-ad99-f3a16ef87440
+04/21/2025 02:59:06 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022AC9B1BA80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0f87e15e-3676-4e38-ad99-f3a16ef87440
+04/21/2025 02:59:16 PM: INFO: ********** Test_002_PricingPage **********
+04/21/2025 02:59:29 PM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:59:29 PM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/21/2025 02:59:37 PM: INFO: ********** Test_002_PricingPage Completed **********
+04/21/2025 02:59:41 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022AC9C4D260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9f6ea2ea7d722b36fa73cf01d97343e8
+04/21/2025 02:59:45 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022AC9C4D590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9f6ea2ea7d722b36fa73cf01d97343e8
+04/21/2025 02:59:49 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022AC9C4D9D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9f6ea2ea7d722b36fa73cf01d97343e8
+04/22/2025 09:11:34 AM: INFO: ********** Test_002_PricingPage **********
+04/22/2025 09:11:47 AM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/22/2025 09:11:47 AM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/22/2025 09:11:54 AM: INFO: ********** Test_002_PricingPage Completed **********
+04/22/2025 09:11:58 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028A0404C910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/07ec48c597ceed58058894006b41df81
+04/22/2025 09:12:03 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028A0404CA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/07ec48c597ceed58058894006b41df81
+04/22/2025 09:12:07 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028A03F1B230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/07ec48c597ceed58058894006b41df81
+04/22/2025 09:19:31 AM: INFO: ********** Test_003_PricingPage **********
+04/22/2025 09:19:33 AM: INFO: Expected Content: None
+04/22/2025 09:19:33 AM: INFO: Actual Content: General Plan
+04/22/2025 09:19:33 AM: ERROR: Assertion failed: Content mismatch: expected None, got General Plan
+assert 'General Plan' == None
+04/22/2025 09:19:33 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/22/2025 09:19:35 AM: INFO: ********** Test_003_PricingPage Completed **********
+04/22/2025 09:19:40 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000235D88F5590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b2bf3f8c0d695bb00cba4aa5522bda6
+04/22/2025 09:19:44 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000235D88F5810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b2bf3f8c0d695bb00cba4aa5522bda6
+04/22/2025 09:19:48 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000235D87D7360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b2bf3f8c0d695bb00cba4aa5522bda6
+04/22/2025 09:20:46 AM: INFO: ********** Test_003_PricingPage **********
+04/22/2025 09:20:48 AM: INFO: Expected Content: General Plan
+04/22/2025 09:20:48 AM: INFO: Actual Content: General Plan
+04/22/2025 09:20:50 AM: INFO: ********** Test_003_PricingPage Completed **********
+04/22/2025 09:20:54 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BC50FBCE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15b8585e068605243ce858b061a8cfdb
+04/22/2025 09:20:58 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BC50FBD450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15b8585e068605243ce858b061a8cfdb
+04/22/2025 09:21:02 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BC50EA6EA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/15b8585e068605243ce858b061a8cfdb
+04/22/2025 09:29:51 AM: INFO: ********** Test_001_PricingPage **********
+04/22/2025 09:29:53 AM: INFO: Expected URL: https://para.unada.in/plan
+04/22/2025 09:29:53 AM: INFO: Actual URL: https://para.unada.in/plan
+04/22/2025 09:29:56 AM: INFO: ********** Test_001_PricingPage Completed **********
+04/22/2025 09:30:00 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013A0B88C910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/131a08f2d95d44888c0dcb96025882f0
+04/22/2025 09:30:04 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013A0B88CB90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/131a08f2d95d44888c0dcb96025882f0
+04/22/2025 09:30:08 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013A0B6D76F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/131a08f2d95d44888c0dcb96025882f0
+04/22/2025 09:30:17 AM: INFO: ********** Test_002_PricingPage **********
+04/22/2025 09:30:20 AM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/22/2025 09:30:20 AM: INFO: Actual Content: 
+04/22/2025 09:30:20 AM: ERROR: Assertion failed: Content mismatch: expected 14 days unlimited free trial. No contract or credit card required., got 
+assert '' == '14 days unli...ard required.'
+  
+  - 14 days unlimited free trial. No contract or credit card required.
+04/22/2025 09:30:20 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/22/2025 09:30:22 AM: INFO: ********** Test_002_PricingPage Completed **********
+04/22/2025 09:30:26 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013A0B899590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7e66512e41a1a23c61de5c16f4eecbd0
+04/22/2025 09:30:30 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013A0B8998C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7e66512e41a1a23c61de5c16f4eecbd0
+04/22/2025 09:30:34 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013A0B899D00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7e66512e41a1a23c61de5c16f4eecbd0
+04/22/2025 09:30:44 AM: INFO: ********** Test_003_PricingPage **********
+04/22/2025 09:30:46 AM: INFO: Expected Content: General Plan
+04/22/2025 09:30:46 AM: INFO: Actual Content: General Plan
+04/22/2025 09:30:48 AM: INFO: ********** Test_003_PricingPage Completed **********
+04/22/2025 09:30:52 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013A0B8988D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd12063f5adda09a08884c34e36c84f9
+04/22/2025 09:30:56 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013A0B89A7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd12063f5adda09a08884c34e36c84f9
+04/22/2025 09:31:00 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013A0B89AAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd12063f5adda09a08884c34e36c84f9
+04/22/2025 09:38:29 AM: INFO: ********** Test_002_PricingPage **********
+04/22/2025 09:38:32 AM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/22/2025 09:38:32 AM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/22/2025 09:38:34 AM: INFO: ********** Test_002_PricingPage Completed **********
+04/22/2025 09:38:39 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002474FBC47D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/156cd827192e109afff5b5cc32bc7877
+04/22/2025 09:38:43 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002474FBC4910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/156cd827192e109afff5b5cc32bc7877
+04/22/2025 09:38:47 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002474FA57360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/156cd827192e109afff5b5cc32bc7877
+04/22/2025 09:49:00 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 09:49:02 AM: INFO: Expected Content: Student Plan
+04/22/2025 09:49:02 AM: INFO: Actual Content: Student Plan
+04/22/2025 09:52:48 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 09:52:50 AM: INFO: Expected Content: Student Plan
+04/22/2025 09:52:50 AM: INFO: Actual Content: Student Plan
+04/22/2025 10:08:14 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:08:16 AM: INFO: Expected Content: Student Plan
+04/22/2025 10:08:16 AM: INFO: Actual Content: <bound method PricingPage.get_all_the_plan_text_values_common_method of <pageObject.pricingpage.PricingPage object at 0x00000144AE09D400>>
+04/22/2025 10:08:16 AM: ERROR: Assertion failed: Content mismatch: expected Student Plan, got <bound method PricingPage.get_all_the_plan_text_values_common_method of <pageObject.pricingpage.PricingPage object at 0x00000144AE09D400>>
+assert get_all_the_plan_text_values_common_method == 'Student Plan'
+04/22/2025 10:08:16 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/22/2025 10:12:09 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:13:31 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:13:33 AM: INFO: Expected Content: Student Plan
+04/22/2025 10:13:33 AM: INFO: Actual Content: Student Plan
+04/22/2025 10:13:34 AM: ERROR: Assertion failed: Content mismatch: expected General Plan, got Student Plan
+assert 'Student Plan' == 'General Plan'
+  
+  - General Plan
+  + Student Plan
+04/22/2025 10:13:34 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/22/2025 10:15:20 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:15:22 AM: INFO: Expected Content: Student Plan
+04/22/2025 10:15:22 AM: INFO: Actual Content: Student Plan
+04/22/2025 10:15:32 AM: ERROR: Assertion failed: Content mismatch: expected General Plan, got Student Plan
+assert 'Student Plan' == 'General Plan'
+  
+  - General Plan
+  + Student Plan
+04/22/2025 10:15:32 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/22/2025 10:19:03 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:19:06 AM: INFO: Expected Content: Student Plan
+04/22/2025 10:19:06 AM: INFO: Actual Content: Student Plan
+04/22/2025 10:19:15 AM: ERROR: Assertion failed: Content mismatch: expected General Plan, got Student Plan
+assert 'Student Plan' == 'General Plan'
+  
+  - General Plan
+  + Student Plan
+04/22/2025 10:19:15 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/22/2025 10:21:55 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:21:57 AM: INFO: Expected Content: Student Plan
+04/22/2025 10:21:57 AM: INFO: Actual Content: Student Plan
+04/22/2025 10:22:06 AM: ERROR: Assertion failed: Content mismatch: expected General Plan, got Student Plan
+assert 'Student Plan' == 'General Plan'
+  
+  - General Plan
+  + Student Plan
+04/22/2025 10:22:06 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/22/2025 10:26:58 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:27:01 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 10:27:01 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 10:27:03 AM: INFO: Expected General Plan Content: General Plan
+04/22/2025 10:27:03 AM: INFO: Actual General Plan Content: Student Plan
+04/22/2025 10:27:03 AM: ERROR: Assertion failed: General Plan content mismatch: expected General Plan, got Student Plan
+assert 'Student Plan' == 'General Plan'
+  
+  - General Plan
+  + Student Plan
+04/22/2025 10:27:03 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/22/2025 10:30:41 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:30:43 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 10:30:43 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 10:31:36 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:31:38 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 10:31:38 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 10:32:08 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:32:12 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 10:32:12 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 10:39:39 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:39:42 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 10:39:42 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 10:39:44 AM: INFO: Expected General Plan Content: General Plan
+04/22/2025 10:39:44 AM: INFO: Actual General Plan Content: Student Plan
+04/22/2025 10:39:44 AM: ERROR: Assertion failed: General Plan content mismatch: expected General Plan, got Student Plan
+assert 'Student Plan' == 'General Plan'
+  
+  - General Plan
+  + Student Plan
+04/22/2025 10:39:44 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_content_failure.png
+04/22/2025 10:44:32 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 10:44:34 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 10:44:34 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 10:44:37 AM: INFO: Expected General Plan Content: General Plan
+04/22/2025 10:44:37 AM: INFO: Actual General Plan Content: General Plan
+04/22/2025 10:59:57 AM: INFO: ********** Test_001_PricingPage **********
+04/22/2025 11:00:00 AM: INFO: Expected URL: https://para.unada.in/plan
+04/22/2025 11:00:00 AM: INFO: Actual URL: https://para.unada.in/plan
+04/22/2025 11:00:02 AM: INFO: ********** Test_001_PricingPage Completed **********
+04/22/2025 11:00:06 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837C8A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/affd0efcfe664a1f41207a827d21aaaa
+04/22/2025 11:00:10 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837C8B90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/affd0efcfe664a1f41207a827d21aaaa
+04/22/2025 11:00:14 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002538368B360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/affd0efcfe664a1f41207a827d21aaaa
+04/22/2025 11:00:24 AM: INFO: ********** Test_002_PricingPage **********
+04/22/2025 11:00:25 AM: INFO: Expected Content: 14 days unlimited free trial. No contract or credit card required.
+04/22/2025 11:00:25 AM: INFO: Actual Content: 14 days unlimited free trial. No contract or credit card required.
+04/22/2025 11:00:27 AM: INFO: ********** Test_002_PricingPage Completed **********
+04/22/2025 11:00:32 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837D4D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ff95a2d8ff882433cfe3928a162427ca
+04/22/2025 11:00:36 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837D5040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ff95a2d8ff882433cfe3928a162427ca
+04/22/2025 11:00:40 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837D5480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ff95a2d8ff882433cfe3928a162427ca
+04/22/2025 11:00:49 AM: INFO: ********** Test_003_PricingPage **********
+04/22/2025 11:00:52 AM: INFO: Expected Content: General Plan
+04/22/2025 11:00:52 AM: INFO: Actual Content: General Plan
+04/22/2025 11:00:55 AM: INFO: ********** Test_003_PricingPage Completed **********
+04/22/2025 11:00:59 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837D4AF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/14da68692136ea1e8f03e149ea465a04
+04/22/2025 11:01:03 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837D6140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/14da68692136ea1e8f03e149ea465a04
+04/22/2025 11:01:07 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837D6470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/14da68692136ea1e8f03e149ea465a04
+04/22/2025 11:01:16 AM: INFO: ********** Test_004_PricingPage **********
+04/22/2025 11:01:19 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 11:01:19 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 11:01:21 AM: INFO: Expected General Plan Content: General Plan
+04/22/2025 11:01:21 AM: INFO: Actual General Plan Content: General Plan
+04/22/2025 11:01:24 AM: INFO: ********** Test_004_PricingPage Completed **********
+04/22/2025 11:01:28 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837D7130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4fcbd12da6b46c4e43a4b9757c0233f1
+04/22/2025 11:01:32 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837D7460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4fcbd12da6b46c4e43a4b9757c0233f1
+04/22/2025 11:01:36 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253837D7790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4fcbd12da6b46c4e43a4b9757c0233f1
+04/22/2025 11:07:32 AM: INFO: ********** Test_004_PricingPage - Student Plan **********
+04/22/2025 11:07:34 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 11:07:34 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 11:07:36 AM: INFO: ********** Test_004_PricingPage - Student Plan Completed **********
+04/22/2025 11:07:40 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C801724550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53b9bc874e6172cda116244a57a810e1
+04/22/2025 11:07:45 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C801724F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53b9bc874e6172cda116244a57a810e1
+04/22/2025 11:07:49 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C80160BBB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/53b9bc874e6172cda116244a57a810e1
+04/22/2025 11:07:58 AM: INFO: ********** Test_004_PricingPage - General Plan **********
+04/22/2025 11:08:00 AM: INFO: Expected General Plan Content: General Plan
+04/22/2025 11:08:00 AM: INFO: Actual General Plan Content: General Plan
+04/22/2025 11:08:02 AM: INFO: ********** Test_004_PricingPage - General Plan Completed **********
+04/22/2025 11:08:06 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C801754160>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/14f17448225514944feaf21d88e22f20
+04/22/2025 11:08:11 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C801755AE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/14f17448225514944feaf21d88e22f20
+04/22/2025 11:08:15 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C801755F20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/14f17448225514944feaf21d88e22f20
+04/22/2025 11:13:26 AM: INFO: ********** Test_004_PricingPage - Student Plan **********
+04/22/2025 11:13:28 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 11:13:28 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 11:13:30 AM: INFO: ********** Test_004_PricingPage - Student Plan Completed **********
+04/22/2025 11:13:34 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD554E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d4578e5994657b04735de5ed3a5c465b
+04/22/2025 11:13:38 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD555310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d4578e5994657b04735de5ed3a5c465b
+04/22/2025 11:13:42 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD3B7BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d4578e5994657b04735de5ed3a5c465b
+04/22/2025 11:13:52 AM: INFO: ********** Test_004_PricingPage - General Plan **********
+04/22/2025 11:13:54 AM: INFO: Expected General Plan Content: General Plan
+04/22/2025 11:13:54 AM: INFO: Actual General Plan Content: General Plan
+04/22/2025 11:13:56 AM: INFO: ********** Test_004_PricingPage - General Plan Completed **********
+04/22/2025 11:14:00 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD5858C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ea3f219fe6b538fc008574707a5ae0f5
+04/22/2025 11:14:04 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD586140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ea3f219fe6b538fc008574707a5ae0f5
+04/22/2025 11:14:08 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD586580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ea3f219fe6b538fc008574707a5ae0f5
+04/22/2025 11:14:18 AM: INFO: ********** Test_004_PricingPage - TopUp Plan **********
+04/22/2025 11:14:20 AM: INFO: Expected TopUp Plan Content: Top Up Plan
+04/22/2025 11:14:20 AM: INFO: Actual TopUp Plan Content: Top Up Plan
+04/22/2025 11:14:22 AM: INFO: ********** Test_004_PricingPage - TopUp Plan Completed **********
+04/22/2025 11:14:26 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD585F20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/49eb6c7f949df81e5d717be3a77f3e0b
+04/22/2025 11:14:30 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD587020>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/49eb6c7f949df81e5d717be3a77f3e0b
+04/22/2025 11:14:34 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD587350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/49eb6c7f949df81e5d717be3a77f3e0b
+04/22/2025 11:14:44 AM: INFO: ********** Test_004_PricingPage - GiftVoucher Plan **********
+04/22/2025 11:14:48 AM: INFO: ********** Test_004_PricingPage - GiftVoucher Plan Completed **********
+04/22/2025 11:15:04 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD587680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d6427f5c24f5796a4de40ffc7a7435b
+04/22/2025 11:15:08 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD587460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d6427f5c24f5796a4de40ffc7a7435b
+04/22/2025 11:15:13 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000017FAD585F20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7d6427f5c24f5796a4de40ffc7a7435b
+04/22/2025 11:22:04 AM: INFO: ********** Test_004_PricingPage - Student Plan **********
+04/22/2025 11:22:07 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 11:22:07 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 11:22:10 AM: INFO: ********** Test_004_PricingPage - Student Plan Completed **********
+04/22/2025 11:22:14 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D6984E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6b46f4b58d727ed3581f6da00e2ef5d5
+04/22/2025 11:22:18 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D6985310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6b46f4b58d727ed3581f6da00e2ef5d5
+04/22/2025 11:22:22 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D686BBB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6b46f4b58d727ed3581f6da00e2ef5d5
+04/22/2025 11:22:32 AM: INFO: ********** Test_004_PricingPage - General Plan **********
+04/22/2025 11:22:34 AM: INFO: Expected General Plan Content: General Plan
+04/22/2025 11:22:34 AM: INFO: Actual General Plan Content: General Plan
+04/22/2025 11:22:36 AM: INFO: ********** Test_004_PricingPage - General Plan Completed **********
+04/22/2025 11:22:40 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D69B18C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a81173748d4394232e083cd1f881adc2
+04/22/2025 11:22:44 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D69B2140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a81173748d4394232e083cd1f881adc2
+04/22/2025 11:22:48 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D69B2580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a81173748d4394232e083cd1f881adc2
+04/22/2025 11:22:58 AM: INFO: ********** Test_004_PricingPage - TopUp Plan **********
+04/22/2025 11:23:00 AM: INFO: Expected TopUp Plan Content: Top Up Plan
+04/22/2025 11:23:00 AM: INFO: Actual TopUp Plan Content: Top Up Plan
+04/22/2025 11:23:02 AM: INFO: ********** Test_004_PricingPage - TopUp Plan Completed **********
+04/22/2025 11:23:06 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D69B1F20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b62101f0be629ba70ccbf4aed5010dea
+04/22/2025 11:23:10 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D69B3020>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b62101f0be629ba70ccbf4aed5010dea
+04/22/2025 11:23:14 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D69B3350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b62101f0be629ba70ccbf4aed5010dea
+04/22/2025 11:23:24 AM: INFO: ********** Test_004_PricingPage - GiftVoucher Plan **********
+04/22/2025 11:23:26 AM: INFO: Expected GiftVoucher Plan Content: Gift Plan
+04/22/2025 11:23:26 AM: INFO: Actual GiftVoucher Plan Content: Gift Card
+04/22/2025 11:23:26 AM: ERROR: Assertion failed for GiftVoucher Plan: GiftVoucher Plan content mismatch: expected Gift Plan, got Gift Card
+assert 'Gift Card' == 'Gift Plan'
+  
+  - Gift Plan
+  + Gift Card
+04/22/2025 11:23:26 AM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_giftvoucher_failure.png
+04/22/2025 11:23:28 AM: INFO: ********** Test_004_PricingPage - GiftVoucher Plan Completed **********
+04/22/2025 11:23:45 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D69B3790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c6c454307db3c73502c850690a0481ec
+04/22/2025 11:23:49 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D69B3020>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c6c454307db3c73502c850690a0481ec
+04/22/2025 11:23:53 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000272D69B2CF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c6c454307db3c73502c850690a0481ec
+04/22/2025 11:25:10 AM: INFO: ********** Test_004_PricingPage - Student Plan **********
+04/22/2025 11:25:20 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 11:25:20 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 11:25:22 AM: INFO: ********** Test_004_PricingPage - Student Plan Completed **********
+04/22/2025 11:25:26 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18CD590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0c2fed361f133e798ca991e8dbb4279b
+04/22/2025 11:25:30 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18CDA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0c2fed361f133e798ca991e8dbb4279b
+04/22/2025 11:25:34 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F1767BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0c2fed361f133e798ca991e8dbb4279b
+04/22/2025 11:25:44 AM: INFO: ********** Test_004_PricingPage - General Plan **********
+04/22/2025 11:25:46 AM: INFO: Expected General Plan Content: General Plan
+04/22/2025 11:25:46 AM: INFO: Actual General Plan Content: General Plan
+04/22/2025 11:25:49 AM: INFO: ********** Test_004_PricingPage - General Plan Completed **********
+04/22/2025 11:25:53 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18EA470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cf29266b4afd4959edd114c88b0c1111
+04/22/2025 11:25:57 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18EACF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cf29266b4afd4959edd114c88b0c1111
+04/22/2025 11:26:01 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18EB130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cf29266b4afd4959edd114c88b0c1111
+04/22/2025 11:26:11 AM: INFO: ********** Test_004_PricingPage - TopUp Plan **********
+04/22/2025 11:26:12 AM: INFO: Expected TopUp Plan Content: Top Up Plan
+04/22/2025 11:26:12 AM: INFO: Actual TopUp Plan Content: Top Up Plan
+04/22/2025 11:26:15 AM: INFO: ********** Test_004_PricingPage - TopUp Plan Completed **********
+04/22/2025 11:26:19 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18EAAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d946132d15587404d22052e5b22ceafd
+04/22/2025 11:26:23 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18EBBD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d946132d15587404d22052e5b22ceafd
+04/22/2025 11:26:27 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18EBF00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d946132d15587404d22052e5b22ceafd
+04/22/2025 11:26:49 AM: INFO: ********** Test_004_PricingPage - GiftVoucher Plan **********
+04/22/2025 11:26:51 AM: INFO: Expected GiftVoucher Plan Content: Gift Card
+04/22/2025 11:26:51 AM: INFO: Actual GiftVoucher Plan Content: Gift Card
+04/22/2025 11:26:53 AM: INFO: ********** Test_004_PricingPage - GiftVoucher Plan Completed **********
+04/22/2025 11:26:57 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18EBF00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ca47b30c971dd484f05bf696c071b191
+04/22/2025 11:27:01 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18EAAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ca47b30c971dd484f05bf696c071b191
+04/22/2025 11:27:05 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000145F18EB9B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ca47b30c971dd484f05bf696c071b191
+04/22/2025 11:39:04 AM: INFO: ********** Test_004_PricingPage - Student Plan **********
+04/22/2025 11:39:07 AM: INFO: Expected Student Plan Content: Student Plan
+04/22/2025 11:39:07 AM: INFO: Actual Student Plan Content: Student Plan
+04/22/2025 11:39:09 AM: INFO: ********** Test_004_PricingPage - Student Plan Completed **********
+04/22/2025 11:39:14 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9150410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/075eb97c981a351dc2e9e2694b630021
+04/22/2025 11:39:18 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9150E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/075eb97c981a351dc2e9e2694b630021
+04/22/2025 11:39:22 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9007A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/075eb97c981a351dc2e9e2694b630021
+04/22/2025 11:39:31 AM: INFO: ********** Test_004_PricingPage - General Plan **********
+04/22/2025 11:39:33 AM: INFO: Expected General Plan Content: General Plan
+04/22/2025 11:39:33 AM: INFO: Actual General Plan Content: General Plan
+04/22/2025 11:39:36 AM: INFO: ********** Test_004_PricingPage - General Plan Completed **********
+04/22/2025 11:39:40 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9160380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3b2411727f97183c1dbe68d83ac4c3fa
+04/22/2025 11:39:44 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9161590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3b2411727f97183c1dbe68d83ac4c3fa
+04/22/2025 11:39:48 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C91619D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3b2411727f97183c1dbe68d83ac4c3fa
+04/22/2025 11:39:58 AM: INFO: ********** Test_004_PricingPage - TopUp Plan **********
+04/22/2025 11:39:59 AM: INFO: Expected TopUp Plan Content: Top Up Plan
+04/22/2025 11:39:59 AM: INFO: Actual TopUp Plan Content: Top Up Plan
+04/22/2025 11:40:02 AM: INFO: ********** Test_004_PricingPage - TopUp Plan Completed **********
+04/22/2025 11:40:06 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9161260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a496448f0dbe72d3016daf36aef4b841
+04/22/2025 11:40:10 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9162360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a496448f0dbe72d3016daf36aef4b841
+04/22/2025 11:40:14 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9162690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a496448f0dbe72d3016daf36aef4b841
+04/22/2025 11:40:24 AM: INFO: ********** Test_004_PricingPage - GiftVoucher Plan **********
+04/22/2025 11:40:25 AM: INFO: Expected GiftVoucher Plan Content: Gift Card
+04/22/2025 11:40:25 AM: INFO: Actual GiftVoucher Plan Content: Gift Card
+04/22/2025 11:40:27 AM: INFO: ********** Test_004_PricingPage - GiftVoucher Plan Completed **********
+04/22/2025 11:40:31 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9163020>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2b28931f43ab7167f8cab1d83c18456a
+04/22/2025 11:40:36 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9163350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2b28931f43ab7167f8cab1d83c18456a
+04/22/2025 11:40:40 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3C9163680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2b28931f43ab7167f8cab1d83c18456a
+04/22/2025 02:06:57 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:07:01 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:07:01 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:09:45 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:09:48 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:09:48 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:10:12 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:10:14 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:10:14 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:10:54 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:10:57 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:10:57 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:22:41 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:22:44 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:22:44 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:22:44 PM: INFO: Expected 29 Section Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:22:44 PM: INFO: Actual 29 Section Content: 
+04/22/2025 02:28:17 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:28:19 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:28:19 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:28:19 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:28:19 PM: INFO: Actual Section 29 Content: 
+04/22/2025 02:28:20 PM: ERROR: Assertion failed: Section 29 content mismatch: expected '29. PAYMENTS & NON-REFUNDABLE POLICY', got ''
+assert '' == '29. PAYMENTS...NDABLE POLICY'
+  
+  - 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:28:20 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_note_failure.png
+04/22/2025 02:28:22 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 02:28:26 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A77BAE9810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/aef6ec61f9dacd8f388d8308a47aa7c4
+04/22/2025 02:28:30 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A77BB59090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/aef6ec61f9dacd8f388d8308a47aa7c4
+04/22/2025 02:28:34 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A77BA575C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/aef6ec61f9dacd8f388d8308a47aa7c4
+04/22/2025 02:30:22 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:30:24 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:30:24 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:30:24 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:30:24 PM: INFO: Actual Section 29 Content: 
+04/22/2025 02:30:24 PM: ERROR: Assertion failed: Section 29 content mismatch: expected '29. PAYMENTS & NON-REFUNDABLE POLICY', got ''
+assert '' == '29. PAYMENTS...NDABLE POLICY'
+  
+  - 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:30:24 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_note_failure.png
+04/22/2025 02:30:26 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 02:30:30 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DDE0F49A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/188e54ce5fefc8f9103856ccfd749325
+04/22/2025 02:30:34 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DDE0F49450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/188e54ce5fefc8f9103856ccfd749325
+04/22/2025 02:30:38 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DDE0EB75C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/188e54ce5fefc8f9103856ccfd749325
+04/22/2025 02:34:34 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:34:37 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:34:37 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:34:37 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:34:37 PM: INFO: Actual Section 29 Content: 
+04/22/2025 02:34:37 PM: ERROR: Assertion failed: Section 29 content mismatch: expected '29. PAYMENTS & NON-REFUNDABLE POLICY', got ''
+assert '' == '29. PAYMENTS...NDABLE POLICY'
+  
+  - 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:34:37 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_note_failure.png
+04/22/2025 02:34:39 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 02:34:43 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A333119A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e3459ee5bc87a076fdcb8a76380001b9
+04/22/2025 02:34:48 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A333119450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e3459ee5bc87a076fdcb8a76380001b9
+04/22/2025 02:34:52 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A3330275C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e3459ee5bc87a076fdcb8a76380001b9
+04/22/2025 02:35:52 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:35:54 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:35:54 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:35:54 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:35:54 PM: INFO: Actual Section 29 Content: 
+04/22/2025 02:35:54 PM: ERROR: Assertion failed: Section 29 content mismatch: expected '29. PAYMENTS & NON-REFUNDABLE POLICY', got ''
+assert '' == '29. PAYMENTS...NDABLE POLICY'
+  
+  - 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:35:54 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_note_failure.png
+04/22/2025 02:35:56 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 02:36:01 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B3448A9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0d52efa1214423ea46d44fe53dc0f5de
+04/22/2025 02:36:05 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B3448A9450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0d52efa1214423ea46d44fe53dc0f5de
+04/22/2025 02:36:09 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B3448175C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0d52efa1214423ea46d44fe53dc0f5de
+04/22/2025 02:37:46 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:37:48 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:37:48 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:37:49 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:37:49 PM: INFO: Actual Section 29 Content: 
+04/22/2025 02:37:49 PM: ERROR: Assertion failed: Section 29 content mismatch: expected '29. PAYMENTS & NON-REFUNDABLE POLICY', got ''
+assert '' == '29. PAYMENTS...NDABLE POLICY'
+  
+  - 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:37:49 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_note_failure.png
+04/22/2025 02:37:51 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 02:37:55 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C7AC69A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/16b57fdd5173d2b646c1a067ed5cac3d
+04/22/2025 02:37:59 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C7AC69450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/16b57fdd5173d2b646c1a067ed5cac3d
+04/22/2025 02:38:03 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C7ABD75C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/16b57fdd5173d2b646c1a067ed5cac3d
+04/22/2025 02:48:34 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:48:37 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:48:37 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:48:39 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 02:48:43 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B567B85810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e5d58a9b2b25a66be2949d573beacd71
+04/22/2025 02:48:47 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B567B85A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e5d58a9b2b25a66be2949d573beacd71
+04/22/2025 02:48:51 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B567A675C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e5d58a9b2b25a66be2949d573beacd71
+04/22/2025 02:50:43 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:50:46 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:50:46 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:50:48 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 02:50:52 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B253249450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d406aef69fdb339b7e398e9eebda4e08
+04/22/2025 02:50:56 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B2532CCCD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d406aef69fdb339b7e398e9eebda4e08
+04/22/2025 02:51:01 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B2531075C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d406aef69fdb339b7e398e9eebda4e08
+04/22/2025 02:52:46 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:52:50 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 02:52:54 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000238B4219A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5275b24534efffbbdad30e1c3b5c65b6
+04/22/2025 02:52:58 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000238B429CA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5275b24534efffbbdad30e1c3b5c65b6
+04/22/2025 02:53:02 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000238B418B5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5275b24534efffbbdad30e1c3b5c65b6
+04/22/2025 02:55:29 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 02:55:31 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:55:31 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 02:55:31 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:55:31 PM: INFO: Actual Section 29 Content: 
+04/22/2025 02:55:31 PM: ERROR: Assertion failed: Section 29 content mismatch: expected '29. PAYMENTS & NON-REFUNDABLE POLICY', got ''
+assert '' == '29. PAYMENTS...NDABLE POLICY'
+  
+  - 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 02:55:31 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_note_failure.png
+04/22/2025 02:55:33 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 02:55:38 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CDCDE49A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b409f337e457089ca74eb45fa066a2a
+04/22/2025 02:55:42 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CDCDE49450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b409f337e457089ca74eb45fa066a2a
+04/22/2025 02:55:46 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002CDCDD1B5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b409f337e457089ca74eb45fa066a2a
+04/22/2025 03:00:04 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 03:00:06 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:00:06 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:00:08 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 03:00:13 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D6D801CE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/05dfe6c43934a37719db5f118cb8c590
+04/22/2025 03:00:17 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D6D801CB90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/05dfe6c43934a37719db5f118cb8c590
+04/22/2025 03:00:21 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D6D7F06D70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/05dfe6c43934a37719db5f118cb8c590
+04/22/2025 03:01:29 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 03:01:31 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:01:31 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:01:31 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 03:01:31 PM: INFO: Actual Section 29 Content: 
+04/22/2025 03:01:32 PM: ERROR: Assertion failed: Section 29 content mismatch: expected '29. PAYMENTS & NON-REFUNDABLE POLICY', got ''
+assert '' == '29. PAYMENTS...NDABLE POLICY'
+  
+  - 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 03:01:32 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_note_failure.png
+04/22/2025 03:01:34 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 03:01:38 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE456F9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f3d3b9425a8fbad066907391c91cc3f0
+04/22/2025 03:01:42 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE456F9450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f3d3b9425a8fbad066907391c91cc3f0
+04/22/2025 03:01:46 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EE4565B5C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f3d3b9425a8fbad066907391c91cc3f0
+04/22/2025 03:03:00 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 03:03:02 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:03:02 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:03:14 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 03:03:19 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002532B909310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d3bf412d2aa9d54a1f86bcc49af45f59
+04/22/2025 03:03:23 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002532B909950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d3bf412d2aa9d54a1f86bcc49af45f59
+04/22/2025 03:03:27 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002532B807A80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d3bf412d2aa9d54a1f86bcc49af45f59
+04/22/2025 03:05:07 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 03:05:09 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:05:09 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:05:21 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 03:05:26 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A588FCE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/61351b6685967ac866f08fca20c63c60
+04/22/2025 03:05:30 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A588FCB90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/61351b6685967ac866f08fca20c63c60
+04/22/2025 03:05:34 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029A587B6D70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/61351b6685967ac866f08fca20c63c60
+04/22/2025 03:13:03 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 03:13:07 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 03:13:11 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019F54C69A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4d48159c308f2312b119b2b281c9991d
+04/22/2025 03:13:15 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019F54CECA50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4d48159c308f2312b119b2b281c9991d
+04/22/2025 03:13:19 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019F54B775C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4d48159c308f2312b119b2b281c9991d
+04/22/2025 03:15:08 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 03:15:11 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:15:11 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:15:21 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 03:15:21 PM: INFO: Actual Section 29 Content: 
+04/22/2025 03:15:21 PM: ERROR: Assertion failed: Section 29 content mismatch: expected '29. PAYMENTS & NON-REFUNDABLE POLICY', got ''
+assert '' == '29. PAYMENTS...NDABLE POLICY'
+  
+  - 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 03:15:21 PM: ERROR: Screenshot saved at: ./Screenshots/test_pricing_page_note_failure.png
+04/22/2025 03:15:23 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 03:15:27 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AC289A9A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/22db59e8c9ddc39f3c6277cbe34db55a
+04/22/2025 03:15:31 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AC289A9450>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/22db59e8c9ddc39f3c6277cbe34db55a
+04/22/2025 03:15:36 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AC289175C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/22db59e8c9ddc39f3c6277cbe34db55a
+04/22/2025 03:19:18 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 03:19:20 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:19:20 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:19:21 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 03:19:21 PM: INFO: Actual Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 03:19:24 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 03:19:28 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C92BD19090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/88988cf41347257f11660c3295d94f60
+04/22/2025 03:19:32 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C92BD196D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/88988cf41347257f11660c3295d94f60
+04/22/2025 03:19:36 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C92BC17BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/88988cf41347257f11660c3295d94f60
+04/22/2025 03:21:45 PM: INFO: ********** Test_005_PricingPage **********
+04/22/2025 03:21:47 PM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:21:47 PM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/22/2025 03:21:48 PM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 03:21:48 PM: INFO: Actual Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/22/2025 03:21:50 PM: INFO: ********** Test_005_PricingPage Completed **********
+04/22/2025 03:21:54 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F5DD2ED810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7c2a513cf4dea5d5626fb8127378c417
+04/22/2025 03:21:58 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F5DD2EDE50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7c2a513cf4dea5d5626fb8127378c417
+04/22/2025 03:22:02 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F5DD19BBB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7c2a513cf4dea5d5626fb8127378c417
+04/25/2025 09:03:48 AM: INFO: ********** Test_005_PricingPage **********
+04/25/2025 09:03:50 AM: INFO: Expected Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/25/2025 09:03:50 AM: INFO: Actual Note Content: Note: Payments are non-refundable as per our Payment & Refund Policy as per Section 29. Terms & Conditions
+04/25/2025 09:03:52 AM: INFO: Expected Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/25/2025 09:03:52 AM: INFO: Actual Section 29 Content: 29. PAYMENTS & NON-REFUNDABLE POLICY
+04/25/2025 09:03:54 AM: INFO: ********** Test_005_PricingPage Completed **********
+04/25/2025 09:03:58 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AEE5B7D810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8093726b2768e411f4ffcb28098156fa
+04/25/2025 09:04:02 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AEE5B7DE50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8093726b2768e411f4ffcb28098156fa
+04/25/2025 09:04:06 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AEE5A0BBB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8093726b2768e411f4ffcb28098156fa
+04/25/2025 09:30:30 AM: INFO: ********** Test_006_PricingPage **********
+04/25/2025 09:45:20 AM: INFO: ********** Test_006_PricingPage **********
+04/25/2025 09:46:30 AM: INFO: ********** Test_006_PricingPage **********
+04/25/2025 09:48:38 AM: INFO: ********** Test_006_PricingPage **********
