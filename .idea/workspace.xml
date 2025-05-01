@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef0c45c-83ad-4e85-a793-3ed1b5724681" name="Changes" comment="Add files via upload">
-      <change afterPath="$PROJECT_DIR$/TestCases/test_pricing_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObject/pricingpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configuration/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageObject/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/readProperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/readProperties.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_home_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

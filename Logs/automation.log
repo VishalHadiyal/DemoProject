@@ -3871,3 +3871,407 @@ assert '' == '29. PAYMENTS...NDABLE POLICY'
 04/25/2025 09:45:20 AM: INFO: ********** Test_006_PricingPage **********
 04/25/2025 09:46:30 AM: INFO: ********** Test_006_PricingPage **********
 04/25/2025 09:48:38 AM: INFO: ********** Test_006_PricingPage **********
+05/01/2025 09:10:38 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 09:10:41 AM: INFO: HomePage Title Verification Passed
+05/01/2025 09:10:47 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D70010F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f3e88e6b89c31ce8ab6c5283b47362f6
+05/01/2025 09:10:51 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D70011310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f3e88e6b89c31ce8ab6c5283b47362f6
+05/01/2025 09:10:55 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D6FEFB6F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f3e88e6b89c31ce8ab6c5283b47362f6
+05/01/2025 09:11:05 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 09:11:07 AM: INFO: Clicking login button on the homepage
+05/01/2025 09:11:07 AM: INFO: Entering username
+05/01/2025 09:11:07 AM: INFO: Entering password
+05/01/2025 09:11:07 AM: INFO: Clicking login button
+05/01/2025 09:11:09 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 09:11:15 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D7003CC00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/57d36b1214eb84854d63131439027b38
+05/01/2025 09:11:19 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D7003CF30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/57d36b1214eb84854d63131439027b38
+05/01/2025 09:11:23 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D7003D370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/57d36b1214eb84854d63131439027b38
+05/01/2025 09:11:33 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 09:11:35 AM: INFO: Clicking login button on the homepage
+05/01/2025 09:11:35 AM: INFO: Entering username
+05/01/2025 09:11:35 AM: INFO: Entering password
+05/01/2025 09:11:35 AM: INFO: Clicking login button
+05/01/2025 09:11:37 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 09:11:37 AM: INFO: Logging out of the application
+05/01/2025 09:11:38 AM: INFO: Logout successful
+05/01/2025 09:11:38 AM: INFO: HomePage Title Verification Passed
+05/01/2025 09:11:44 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D7003C8D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/64c02f7c6bcbe1632d68064594968823
+05/01/2025 09:11:48 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D7003E470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/64c02f7c6bcbe1632d68064594968823
+05/01/2025 09:11:53 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015D7003E7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/64c02f7c6bcbe1632d68064594968823
+05/01/2025 09:19:06 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 09:19:09 AM: INFO: HomePage Title Verification Passed
+05/01/2025 09:19:15 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D662C38F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8d2af2e48dfbe7590b8e6a2bbc91cf66
+05/01/2025 09:19:19 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D662C39310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8d2af2e48dfbe7590b8e6a2bbc91cf66
+05/01/2025 09:19:23 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D662B275C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8d2af2e48dfbe7590b8e6a2bbc91cf66
+05/01/2025 09:19:33 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 09:19:35 AM: INFO: Clicking login button on the homepage
+05/01/2025 09:19:35 AM: INFO: Entering username
+05/01/2025 09:19:36 AM: INFO: Entering password
+05/01/2025 09:19:36 AM: INFO: Clicking login button
+05/01/2025 09:19:37 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 09:19:43 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D662C6CC00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/98bb11119513458d5f2e7a56fe3cfd0a
+05/01/2025 09:19:47 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D662C6CF30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/98bb11119513458d5f2e7a56fe3cfd0a
+05/01/2025 09:19:52 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D662C6D370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/98bb11119513458d5f2e7a56fe3cfd0a
+05/01/2025 09:20:02 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 09:20:02 AM: INFO: Clicking login button on the homepage
+05/01/2025 09:20:05 AM: INFO: Entering username
+05/01/2025 09:20:05 AM: INFO: Entering password
+05/01/2025 09:20:05 AM: INFO: Clicking login button
+05/01/2025 09:20:07 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 09:20:07 AM: INFO: Logging out of the application
+05/01/2025 09:20:08 AM: INFO: Logout successful
+05/01/2025 09:20:08 AM: INFO: HomePage Title Verification Passed
+05/01/2025 09:20:14 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D662C6C8D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efe62a4466b75d9af04f6477f639b1f7
+05/01/2025 09:20:18 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D662C6E470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efe62a4466b75d9af04f6477f639b1f7
+05/01/2025 09:20:22 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D662C6E7A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efe62a4466b75d9af04f6477f639b1f7
+05/01/2025 09:39:00 AM: INFO: ========== TestHomePage: Home Page Logo Verification Started ==========
+05/01/2025 09:39:02 AM: INFO: Navigated to https://para.unada.in/
+05/01/2025 09:39:02 AM: INFO: Home Page Logo Verification Passed
+05/01/2025 09:39:02 AM: INFO: ========== TestHomePage: Home Page Logo Verification Completed ==========
+05/01/2025 09:39:09 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002081364F110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b5c165ade2efd9dac9c4b4cbdee62af
+05/01/2025 09:39:13 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002081364F390>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b5c165ade2efd9dac9c4b4cbdee62af
+05/01/2025 09:39:17 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002081365E2C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b5c165ade2efd9dac9c4b4cbdee62af
+05/01/2025 09:39:27 AM: INFO: ========== TestHomePage: Home Page Menu Items Verification Started ==========
+05/01/2025 09:39:29 AM: INFO: Navigated to https://para.unada.in/
+05/01/2025 09:40:03 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 09:40:05 AM: INFO: HomePage Title Verification Passed
+05/01/2025 09:40:05 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/5194ca4f7b698a652a48dd7d4598fec5
+05/01/2025 09:51:04 AM: INFO: ========== TestHomePage: Home Page Logo Verification Started ==========
+05/01/2025 09:51:06 AM: INFO: Navigated to https://para.unada.in/
+05/01/2025 09:51:06 AM: INFO: Home Page Logo Verification Passed
+05/01/2025 09:51:06 AM: INFO: ========== TestHomePage: Home Page Logo Verification Completed ==========
+05/01/2025 09:51:12 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4AD43110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c19baa804f3a5f58c84647143daf8dd6
+05/01/2025 09:51:16 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4AD43390>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c19baa804f3a5f58c84647143daf8dd6
+05/01/2025 09:51:20 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4AD52190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c19baa804f3a5f58c84647143daf8dd6
+05/01/2025 09:51:30 AM: INFO: ========== TestHomePage: Home Page Menu Items Verification Started ==========
+05/01/2025 09:51:32 AM: INFO: Navigated to https://para.unada.in/
+05/01/2025 09:51:32 AM: INFO: Menu Items Count: 6
+05/01/2025 09:51:32 AM: INFO: Home Page Menu Items Count Verification Passed
+05/01/2025 09:51:32 AM: INFO: ========== TestHomePage: Home Page Menu Items Verification Completed ==========
+05/01/2025 09:51:36 AM: INFO: ========== TestHomePage: Footer Links Verification Started ==========
+05/01/2025 09:51:37 AM: INFO: Navigated to https://para.unada.in/
+05/01/2025 09:51:37 AM: INFO: Found 7 footer links
+05/01/2025 09:51:37 AM: INFO: Footer Links Texts: ['Content Coverage', 'Privacy Policy', 'FAQs', 'T&C', '', '', '']
+05/01/2025 09:51:37 AM: INFO: Footer Links Verification Passed
+05/01/2025 09:51:37 AM: INFO: ========== TestHomePage: Footer Links Verification Completed ==========
+05/01/2025 09:51:44 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4ADA6CF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/05bfcab8ecbb4f35952b5dca62e06ffb
+05/01/2025 09:51:48 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4ADA7460>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/05bfcab8ecbb4f35952b5dca62e06ffb
+05/01/2025 09:51:52 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4ADA78A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/05bfcab8ecbb4f35952b5dca62e06ffb
+05/01/2025 09:52:02 AM: INFO: ========== TestHomePage: Responsive Test for Small Screen Started ==========
+05/01/2025 09:52:04 AM: INFO: Navigated to https://para.unada.in/
+05/01/2025 09:52:04 AM: INFO: Browser resized to 375x667 (small screen).
+05/01/2025 09:52:08 AM: INFO: ========== TestHomePage: Responsive Test for Medium Screen Started ==========
+05/01/2025 09:52:10 AM: INFO: Navigated to https://para.unada.in/
+05/01/2025 09:52:10 AM: INFO: Browser resized to 768x1024 (medium screen).
+05/01/2025 09:52:10 AM: INFO: Logo is visible on medium screen.
+05/01/2025 09:52:10 AM: INFO: Navbar items are visible on medium screen: 6 items.
+05/01/2025 09:52:10 AM: INFO: ========== TestHomePage: Responsive Test for Medium Screen Completed ==========
+05/01/2025 09:52:17 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4ADA7130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b25c634a194c2da11923086bdacdc7f
+05/01/2025 09:52:21 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4ADA7570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b25c634a194c2da11923086bdacdc7f
+05/01/2025 09:52:25 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4AE70380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b25c634a194c2da11923086bdacdc7f
+05/01/2025 09:52:35 AM: INFO: ========== TestHomePage: Responsive Test for Large Screen Started ==========
+05/01/2025 09:52:36 AM: INFO: Navigated to https://para.unada.in/
+05/01/2025 09:52:37 AM: INFO: Browser resized to 1920x1080 (large screen).
+05/01/2025 09:52:37 AM: INFO: Logo is visible on large screen.
+05/01/2025 09:52:37 AM: INFO: Navbar items are visible on large screen: 6 items.
+05/01/2025 09:52:37 AM: INFO: ========== TestHomePage: Responsive Test for Large Screen Completed ==========
+05/01/2025 09:52:43 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4ADA7CE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0e6a8664cb336a3a6167a8434bf9fe49
+05/01/2025 09:52:47 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4AE70F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0e6a8664cb336a3a6167a8434bf9fe49
+05/01/2025 09:52:52 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EA4AE71260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0e6a8664cb336a3a6167a8434bf9fe49
+05/01/2025 10:24:50 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 10:24:52 AM: INFO: HomePage Title Verification Passed
+05/01/2025 10:24:56 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 10:24:56 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:24:57 AM: INFO: Entering username
+05/01/2025 10:24:57 AM: INFO: Entering password
+05/01/2025 10:24:57 AM: INFO: Clicking login button
+05/01/2025 10:24:59 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:25:02 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 10:25:04 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:25:04 AM: INFO: Entering username
+05/01/2025 10:25:05 AM: INFO: Entering password
+05/01/2025 10:25:05 AM: INFO: Clicking login button
+05/01/2025 10:25:06 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:25:06 AM: INFO: Logging out of the application
+05/01/2025 10:25:07 AM: INFO: Logout successful
+05/01/2025 10:25:07 AM: INFO: HomePage Title Verification Passed
+05/01/2025 10:31:18 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 10:31:21 AM: INFO: HomePage Title Verification Passed
+05/01/2025 10:31:31 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 10:31:33 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:31:34 AM: INFO: Entering username
+05/01/2025 10:31:34 AM: INFO: Entering password
+05/01/2025 10:31:34 AM: INFO: Clicking login button
+05/01/2025 10:31:35 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:31:45 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 10:31:46 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:31:47 AM: INFO: Entering username
+05/01/2025 10:31:47 AM: INFO: Entering password
+05/01/2025 10:31:47 AM: INFO: Clicking login button
+05/01/2025 10:31:49 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:31:49 AM: INFO: Logging out of the application
+05/01/2025 10:31:49 AM: INFO: Logout successful
+05/01/2025 10:31:50 AM: INFO: HomePage Title Verification Passed
+05/01/2025 10:41:39 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 10:41:39 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 10:41:40 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 10:41:40 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:41:40 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:41:42 AM: INFO: Entering username
+05/01/2025 10:41:43 AM: INFO: Entering username
+05/01/2025 10:41:43 AM: INFO: Entering password
+05/01/2025 10:41:43 AM: INFO: Entering password
+05/01/2025 10:41:43 AM: INFO: Clicking login button
+05/01/2025 10:41:43 AM: INFO: Clicking login button
+05/01/2025 10:41:43 AM: INFO: HomePage Title Verification Passed
+05/01/2025 10:41:45 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:41:45 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:41:45 AM: INFO: Logging out of the application
+05/01/2025 10:41:45 AM: INFO: Logout successful
+05/01/2025 10:41:45 AM: INFO: HomePage Title Verification Passed
+05/01/2025 10:42:30 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 10:42:30 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 10:42:32 AM: INFO: HomePage Title Verification Passed
+05/01/2025 10:42:32 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:42:33 AM: INFO: Entering username
+05/01/2025 10:42:33 AM: INFO: Entering password
+05/01/2025 10:42:33 AM: INFO: Clicking login button
+05/01/2025 10:42:34 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:42:36 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 10:42:37 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:42:37 AM: INFO: Entering username
+05/01/2025 10:42:37 AM: INFO: Entering password
+05/01/2025 10:42:38 AM: INFO: Clicking login button
+05/01/2025 10:42:39 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:42:39 AM: INFO: Logging out of the application
+05/01/2025 10:42:39 AM: INFO: Logout successful
+05/01/2025 10:42:39 AM: INFO: HomePage Title Verification Passed
+05/01/2025 10:47:04 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 10:47:04 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 10:47:04 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 10:47:05 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:47:07 AM: INFO: Clicking login button on the homepage
+05/01/2025 10:47:07 AM: INFO: HomePage Title Verification Passed
+05/01/2025 10:47:08 AM: INFO: Entering username
+05/01/2025 10:47:08 AM: INFO: Entering password
+05/01/2025 10:47:08 AM: INFO: Clicking login button
+05/01/2025 10:47:08 AM: INFO: Entering username
+05/01/2025 10:47:09 AM: INFO: Entering password
+05/01/2025 10:47:09 AM: INFO: Clicking login button
+05/01/2025 10:47:10 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:47:10 AM: INFO: Logging out of the application
+05/01/2025 10:47:10 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 10:47:11 AM: INFO: Logout successful
+05/01/2025 10:47:11 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:12:23 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 11:12:25 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:12:29 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 11:12:30 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:12:30 AM: INFO: Entering username
+05/01/2025 11:12:31 AM: INFO: Entering password
+05/01/2025 11:12:31 AM: INFO: Clicking login button
+05/01/2025 11:12:32 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:12:36 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 11:12:37 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:12:37 AM: INFO: Entering username
+05/01/2025 11:12:38 AM: INFO: Entering password
+05/01/2025 11:12:38 AM: INFO: Clicking login button
+05/01/2025 11:12:39 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:12:39 AM: INFO: Logging out of the application
+05/01/2025 11:12:40 AM: INFO: Logout successful
+05/01/2025 11:12:40 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:28:34 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 11:28:36 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:28:40 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 11:28:42 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:28:42 AM: INFO: Entering username
+05/01/2025 11:28:42 AM: INFO: Entering password
+05/01/2025 11:28:42 AM: INFO: Clicking login button
+05/01/2025 11:28:43 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:28:47 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 11:28:48 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:28:48 AM: INFO: Entering username
+05/01/2025 11:28:49 AM: INFO: Entering password
+05/01/2025 11:28:49 AM: INFO: Clicking login button
+05/01/2025 11:28:50 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:28:50 AM: INFO: Logging out of the application
+05/01/2025 11:28:51 AM: INFO: Logout successful
+05/01/2025 11:28:51 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:32:37 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 11:32:39 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:32:43 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 11:32:44 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:32:45 AM: INFO: Entering username
+05/01/2025 11:32:45 AM: INFO: Entering password
+05/01/2025 11:32:45 AM: INFO: Clicking login button
+05/01/2025 11:32:46 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:32:50 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 11:32:51 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:32:51 AM: INFO: Entering username
+05/01/2025 11:32:51 AM: INFO: Entering password
+05/01/2025 11:32:51 AM: INFO: Clicking login button
+05/01/2025 11:32:52 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:32:52 AM: INFO: Logging out of the application
+05/01/2025 11:32:53 AM: INFO: Logout successful
+05/01/2025 11:32:53 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:33:53 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 11:33:54 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:33:57 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 11:33:59 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:33:59 AM: INFO: Entering username
+05/01/2025 11:33:59 AM: INFO: Entering password
+05/01/2025 11:34:00 AM: INFO: Clicking login button
+05/01/2025 11:34:01 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:34:04 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 11:34:06 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:34:06 AM: INFO: Entering username
+05/01/2025 11:34:06 AM: INFO: Entering password
+05/01/2025 11:34:06 AM: INFO: Clicking login button
+05/01/2025 11:34:08 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:34:08 AM: INFO: Logging out of the application
+05/01/2025 11:34:08 AM: INFO: Logout successful
+05/01/2025 11:34:08 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:42:47 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 11:42:48 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:42:52 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 11:42:53 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:42:53 AM: INFO: Entering username
+05/01/2025 11:42:54 AM: INFO: Entering password
+05/01/2025 11:42:54 AM: INFO: Clicking login button
+05/01/2025 11:42:55 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:42:58 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 11:43:00 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:43:00 AM: INFO: Entering username
+05/01/2025 11:43:00 AM: INFO: Entering password
+05/01/2025 11:43:00 AM: INFO: Clicking login button
+05/01/2025 11:43:01 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:43:01 AM: INFO: Logging out of the application
+05/01/2025 11:43:02 AM: INFO: Logout successful
+05/01/2025 11:43:02 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:48:34 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 11:48:35 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:48:39 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 11:48:40 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:48:41 AM: INFO: Entering username
+05/01/2025 11:48:41 AM: INFO: Entering password
+05/01/2025 11:48:41 AM: INFO: Clicking login button
+05/01/2025 11:48:42 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:48:45 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 11:48:48 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:48:48 AM: INFO: Entering username
+05/01/2025 11:48:48 AM: INFO: Entering password
+05/01/2025 11:48:48 AM: INFO: Clicking login button
+05/01/2025 11:48:49 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:48:49 AM: INFO: Logging out of the application
+05/01/2025 11:48:50 AM: INFO: Logout successful
+05/01/2025 11:48:50 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:50:23 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 11:50:24 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:50:28 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 11:50:29 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:50:30 AM: INFO: Entering username
+05/01/2025 11:50:30 AM: INFO: Entering password
+05/01/2025 11:50:30 AM: INFO: Clicking login button
+05/01/2025 11:50:31 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:50:35 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 11:50:36 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:50:36 AM: INFO: Entering username
+05/01/2025 11:50:36 AM: INFO: Entering password
+05/01/2025 11:50:36 AM: INFO: Clicking login button
+05/01/2025 11:50:38 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:50:38 AM: INFO: Logging out of the application
+05/01/2025 11:50:46 AM: INFO: Logout successful
+05/01/2025 11:50:46 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:52:02 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 11:52:03 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:52:07 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 11:52:09 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:52:09 AM: INFO: Entering username
+05/01/2025 11:52:09 AM: INFO: Entering password
+05/01/2025 11:52:09 AM: INFO: Clicking login button
+05/01/2025 11:52:10 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:52:14 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 11:52:15 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:52:15 AM: INFO: Entering username
+05/01/2025 11:52:15 AM: INFO: Entering password
+05/01/2025 11:52:16 AM: INFO: Clicking login button
+05/01/2025 11:52:17 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:52:17 AM: INFO: Logging out of the application
+05/01/2025 11:52:17 AM: INFO: Logout successful
+05/01/2025 11:52:17 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:56:18 AM: INFO: ********** Test_001_Login: Verifying HomePage Title **********
+05/01/2025 11:56:19 AM: INFO: HomePage Title Verification Passed
+05/01/2025 11:56:23 AM: INFO: ********** Test_001_Login: Login Test Started **********
+05/01/2025 11:56:25 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:56:25 AM: INFO: Entering username
+05/01/2025 11:56:25 AM: INFO: Entering password
+05/01/2025 11:56:25 AM: INFO: Clicking login button
+05/01/2025 11:56:26 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:56:30 AM: INFO: ********** Test_001_Login: Login to Logout Flow Test Started **********
+05/01/2025 11:56:31 AM: INFO: Clicking login button on the homepage
+05/01/2025 11:56:31 AM: INFO: Entering username
+05/01/2025 11:56:32 AM: INFO: Entering password
+05/01/2025 11:56:32 AM: INFO: Clicking login button
+05/01/2025 11:56:33 AM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/01/2025 11:56:33 AM: INFO: Logging out of the application
+05/01/2025 11:56:33 AM: INFO: Logout successful
+05/01/2025 11:56:33 AM: INFO: HomePage Title Verification Passed
+05/01/2025 12:00:14 PM: INFO: ========== TestHomePage: Footer Links Verification Started ==========
+05/01/2025 12:00:14 PM: INFO: ========== TestHomePage: Responsive Test for Medium Screen Started ==========
+05/01/2025 12:00:14 PM: INFO: ========== TestHomePage: Home Page Logo Verification Started ==========
+05/01/2025 12:00:14 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:00:16 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:00:16 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:00:16 PM: INFO: Home Page Logo Verification Passed
+05/01/2025 12:00:16 PM: INFO: ========== TestHomePage: Home Page Logo Verification Completed ==========
+05/01/2025 12:00:16 PM: INFO: Found 7 footer links
+05/01/2025 12:00:16 PM: INFO: Footer Links Texts: ['Content Coverage', 'Privacy Policy', 'FAQs', 'T&C', '', '', '']
+05/01/2025 12:00:16 PM: INFO: Footer Links Verification Passed
+05/01/2025 12:00:16 PM: INFO: ========== TestHomePage: Footer Links Verification Completed ==========
+05/01/2025 12:00:16 PM: INFO: Browser resized to 768x1024 (medium screen).
+05/01/2025 12:00:17 PM: INFO: Logo is visible on medium screen.
+05/01/2025 12:00:17 PM: INFO: Navbar items are visible on medium screen: 6 items.
+05/01/2025 12:00:17 PM: INFO: ========== TestHomePage: Responsive Test for Medium Screen Completed ==========
+05/01/2025 12:00:20 PM: INFO: ========== TestHomePage: Responsive Test for Small Screen Started ==========
+05/01/2025 12:00:20 PM: INFO: ========== TestHomePage: Home Page Menu Items Verification Started ==========
+05/01/2025 12:00:20 PM: INFO: ========== TestHomePage: Responsive Test for Large Screen Started ==========
+05/01/2025 12:00:20 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:00:21 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:00:22 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:00:22 PM: INFO: Menu Items Count: 6
+05/01/2025 12:00:22 PM: INFO: Home Page Menu Items Count Verification Passed
+05/01/2025 12:00:22 PM: INFO: ========== TestHomePage: Home Page Menu Items Verification Completed ==========
+05/01/2025 12:00:22 PM: INFO: Browser resized to 375x667 (small screen).
+05/01/2025 12:00:23 PM: INFO: Browser resized to 1920x1080 (large screen).
+05/01/2025 12:00:23 PM: INFO: Logo is visible on large screen.
+05/01/2025 12:00:23 PM: INFO: Navbar items are visible on large screen: 6 items.
+05/01/2025 12:00:23 PM: INFO: ========== TestHomePage: Responsive Test for Large Screen Completed ==========
+05/01/2025 12:03:30 PM: INFO: ========== TestHomePage: Home Page Logo Verification Started ==========
+05/01/2025 12:03:30 PM: INFO: ========== TestHomePage: Responsive Test for Medium Screen Started ==========
+05/01/2025 12:03:30 PM: INFO: ========== TestHomePage: Footer Links Verification Started ==========
+05/01/2025 12:03:33 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:03:33 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:03:33 PM: INFO: Home Page Logo Verification Passed
+05/01/2025 12:03:33 PM: INFO: ========== TestHomePage: Home Page Logo Verification Completed ==========
+05/01/2025 12:03:33 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:03:33 PM: INFO: Found 7 footer links
+05/01/2025 12:03:33 PM: INFO: Footer Links Texts: ['Content Coverage', 'Privacy Policy', 'FAQs', 'T&C', '', '', '']
+05/01/2025 12:03:33 PM: INFO: Footer Links Verification Passed
+05/01/2025 12:03:33 PM: INFO: ========== TestHomePage: Footer Links Verification Completed ==========
+05/01/2025 12:03:34 PM: INFO: Browser resized to 768x1024 (medium screen).
+05/01/2025 12:03:34 PM: INFO: Logo is visible on medium screen.
+05/01/2025 12:03:34 PM: INFO: Navbar items are visible on medium screen: 6 items.
+05/01/2025 12:03:34 PM: INFO: ========== TestHomePage: Responsive Test for Medium Screen Completed ==========
+05/01/2025 12:03:37 PM: INFO: ========== TestHomePage: Responsive Test for Small Screen Started ==========
+05/01/2025 12:03:38 PM: INFO: ========== TestHomePage: Home Page Menu Items Verification Started ==========
+05/01/2025 12:03:38 PM: INFO: ========== TestHomePage: Responsive Test for Large Screen Started ==========
+05/01/2025 12:03:41 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:03:42 PM: INFO: Browser resized to 1920x1080 (large screen).
+05/01/2025 12:03:42 PM: INFO: Logo is visible on large screen.
+05/01/2025 12:03:42 PM: INFO: Navbar items are visible on large screen: 6 items.
+05/01/2025 12:03:42 PM: INFO: ========== TestHomePage: Responsive Test for Large Screen Completed ==========
+05/01/2025 12:03:42 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:03:42 PM: INFO: Browser resized to 375x667 (small screen).
+05/01/2025 12:03:43 PM: INFO: Navigated to https://para.unada.in/
+05/01/2025 12:03:43 PM: INFO: Menu Items Count: 6
+05/01/2025 12:03:43 PM: INFO: Home Page Menu Items Count Verification Passed
+05/01/2025 12:03:43 PM: INFO: ========== TestHomePage: Home Page Menu Items Verification Completed ==========

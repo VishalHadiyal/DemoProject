@@ -25,5 +25,6 @@
   "TestCases/test_pricing_page.py::test_pricing_page_title[chrome]": true,
   "TestCases/test_pricing_page.py::test_pricing_page_title[firefox]": true,
   "TestCases/test_pricing_page.py::test_pricing_page_title[edge]": true,
-  "TestCases/test_pricing_page.py::TestPricingPage::test_pricing_plan_text[GiftVoucher-Gift Plan-click_gift_voucher]": true
+  "TestCases/test_pricing_page.py::TestPricingPage::test_pricing_plan_text[GiftVoucher-Gift Plan-click_gift_voucher]": true,
+  "TestCases/test_home_page.py::TestHomePage::test_responsive_small_screen": true
 }
