@@ -4,7 +4,7 @@ import configparser
 config = configparser.ConfigParser()
 
 # Read the configuration file
-config.read(".\Configuration\config.ini")
+config.read("./Configuration/config.ini")
 
 
 class ReadConfig:
@@ -122,3 +122,125 @@ class ReadConfig:
             str: The Section 29 text.
         """
         return config.get('STATIC_DATA', 'section29', fallback=None)
+
+    @staticmethod
+    def set_full_name_text():
+        """
+        Retrieves the Full Name text from the configuration file.
+
+        Returns:
+            str: The Full Name text.
+        """
+        return config.get('SIGNUP_DATA', 'FULL_NAME', fallback=None)
+
+
+    @staticmethod
+    def set_password_text():
+        """
+        Retrieves the Password text from the configuration file.
+
+        Returns:
+            str: The Password text.
+        """
+        return config.get('SIGNUP_DATA', 'PASSWORD', fallback=None)
+
+    @staticmethod
+    def set_city_text():
+        """
+        Retrieves the City text from the configuration file.
+
+        Returns:
+            str: The City text.
+        """
+        return config.get('SIGNUP_DATA', 'CITY', fallback=None)
+
+    @staticmethod
+    def set_confirm_text():
+
+        """
+        Retrieves the Confirm text from the configuration file.
+
+        Returns:
+            str: The Confirm text.
+        """
+        return config.get('SIGNUP_DATA', 'REGISTER_CONFIRM_TEXT', fallback=None)
+
+    @staticmethod
+    def error_message_full_name():
+        """
+        Retrieves the error message for Full Name from the configuration file.
+
+        Returns:
+            str: The error message for Full Name.
+        """
+        return config.get('SIGNUP_DATA', 'FULLNAME_ERROR_TEXT', fallback=None)
+
+    @staticmethod
+    def error_message_email():
+        """
+        Retrieves the error message for Email from the configuration file.
+
+        Returns:
+            str: The error message for Email.
+        """
+        return config.get('SIGNUP_DATA', 'EMAIL_ERROR_TEXT', fallback=None)
+
+    @staticmethod
+    def error_message_mobile_number():
+        """
+        Retrieves the error message for Mobile Number from the configuration file.
+
+        Returns:
+            str: The error message for Mobile Number.
+        """
+        return config.get('SIGNUP_DATA', 'MOBILE_ERROR_TEXT', fallback=None)
+
+    @staticmethod
+    def error_message_password():
+        """
+        Retrieves the error message for Password from the configuration file.
+
+        Returns:
+            str: The error message for Password.
+        """
+        return config.get('SIGNUP_DATA', 'PASSWORD_ERROR_TEXT', fallback=None)
+
+    @staticmethod
+    def get_student_drop_down_text():
+        """
+        Retrieves the Student Dropdown text from the configuration file.
+
+        Returns:
+            str: The Student Dropdown text.
+        """
+        return config.get('SIGNUP_DATA', 'STUDENT_SELECT_LABEL', fallback=None)
+
+    @staticmethod
+    def get_signup_page_text():
+        """
+        Retrieves the Signup Page text from the configuration file.
+
+        Returns:
+            str: The Signup Page text.
+        """
+        return config.get('SIGNUP_DATA', 'SIGNUP_PAGE_TEXT', fallback=None)
+
+    @staticmethod
+    def get_university_name_text():
+        """
+        Retrieves the University text from the configuration file.
+
+        Returns:
+            str: The University text.
+        """
+        return config.get('SIGNUP_DATA', 'COLLAGE_NAME', fallback=None)
+
+    @staticmethod
+    def enter_para_search_text():
+        """
+        Retrieves the Para Search text from the configuration file.
+
+        Returns:
+            str: The Para Search text.
+        """
+        return config.get('PARA_SEARCH', 'QUESTION_ONE', fallback=None)

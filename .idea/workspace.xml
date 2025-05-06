@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef0c45c-83ad-4e85-a793-3ed1b5724681" name="Changes" comment="Add files via upload">
-      <change afterPath="$PROJECT_DIR$/TestCases/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/test_para_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/test_signup_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData/sample.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageObject/signuppage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/data_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/LoginReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObject/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObject/loginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/loginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageObject/parasearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/parasearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/readProperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/readProperties.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

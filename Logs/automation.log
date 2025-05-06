@@ -4275,3 +4275,2648 @@ assert '' == '29. PAYMENTS...NDABLE POLICY'
 05/01/2025 12:03:43 PM: INFO: Menu Items Count: 6
 05/01/2025 12:03:43 PM: INFO: Home Page Menu Items Count Verification Passed
 05/01/2025 12:03:43 PM: INFO: ========== TestHomePage: Home Page Menu Items Verification Completed ==========
+05/02/2025 09:02:25 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 09:02:28 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 09:13:04 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 09:14:12 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 09:14:16 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 09:14:51 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 09:15:03 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 09:24:06 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 09:24:19 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 09:29:59 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 09:30:10 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 09:31:47 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 09:31:55 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 09:34:43 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 09:34:51 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 09:52:53 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 09:53:01 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 10:01:03 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 10:01:11 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 10:04:05 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 10:04:14 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 10:32:11 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 10:32:19 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 10:53:33 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 10:54:37 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 10:54:46 AM: INFO: Text on Confirm Register Popup is correct
+05/02/2025 10:54:56 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed **********
+05/02/2025 11:26:21 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 11:26:23 AM: INFO: Navigated to https://para.unada.in/
+05/02/2025 11:26:23 AM: INFO: Generated test email: vishaltest_20250502112623@yopmail.com, mobile: 8710643074
+05/02/2025 11:26:23 AM: INFO: Clicked on 'Explore AI' button on homepage
+05/02/2025 11:26:24 AM: INFO: Clicked on 'Sign Up' button on login page
+05/02/2025 11:26:24 AM: INFO: Entered user details on signup form
+05/02/2025 11:26:24 AM: INFO: Clicked on 'Join Now' button
+05/02/2025 11:26:29 AM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/02/2025 11:26:29 AM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/02/2025 11:26:29 AM: INFO: Text on Confirm Register Popup is correct
+05/02/2025 11:26:29 AM: INFO: Clicked 'OK' on confirmation popup
+05/02/2025 11:26:29 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/02/2025 11:31:08 AM: INFO: ********** TestSignupPage: Verifying Signup Page **********
+05/02/2025 11:31:11 AM: INFO: Navigated to https://para.unada.in/
+05/02/2025 11:31:11 AM: INFO: Generated test email: vishaltest_20250502113111@yopmail.com, mobile: 8234565108
+05/02/2025 11:31:11 AM: INFO: Clicked on 'Explore AI' button on homepage
+05/02/2025 11:31:12 AM: INFO: Clicked on 'Sign Up' button on login page
+05/02/2025 11:31:13 AM: INFO: Entered user details on signup form
+05/02/2025 11:31:13 AM: INFO: Clicked on 'Join Now' button
+05/02/2025 11:31:14 AM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/02/2025 11:31:14 AM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/02/2025 11:31:14 AM: INFO: Text on Confirm Register Popup is correct
+05/02/2025 11:31:14 AM: INFO: Clicked 'OK' on confirmation popup
+05/02/2025 11:31:14 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/02/2025 12:04:34 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 12:04:36 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 12:04:36 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 12:04:37 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 12:04:37 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 12:04:37 PM: INFO: All error messages for mandatory fields are displayed correctly
+05/02/2025 12:09:18 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 12:09:20 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 12:09:20 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 12:09:20 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 12:09:21 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 12:09:31 PM: INFO: All error messages for mandatory fields are displayed correctly
+05/02/2025 12:15:36 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 12:15:38 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 12:15:38 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 12:15:38 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 12:15:38 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 12:15:38 PM: INFO: All error messages for mandatory fields are displayed correctly
+05/02/2025 12:28:09 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 12:28:19 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 12:28:19 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 12:28:19 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 12:28:20 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 12:28:20 PM: ERROR: ********** Signup Page Verification FAILED **********
+05/02/2025 12:28:20 PM: ERROR: Exception occurred: 'NoneType' object has no attribute 'is_enabled'
+05/02/2025 12:28:20 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/02/2025 12:34:13 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 12:34:21 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 12:34:21 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 12:34:21 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 12:34:22 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 12:34:27 PM: ERROR: ********** Signup Page Verification FAILED **********
+05/02/2025 12:34:27 PM: ERROR: Exception occurred: Student Plan button is not enabled.
+05/02/2025 12:34:27 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/02/2025 12:37:18 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 12:37:38 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 12:37:38 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 12:37:38 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 12:37:39 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 12:37:54 PM: ERROR: ********** Signup Page Verification FAILED **********
+05/02/2025 12:37:54 PM: ERROR: Exception occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 3 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF74A67EFA5+77893]
+	GetHandleVerifier [0x00007FF74A67F000+77984]
+	(No symbol) [0x00007FF74A4491BA]
+	(No symbol) [0x00007FF74A49F16D]
+	(No symbol) [0x00007FF74A49F41C]
+	(No symbol) [0x00007FF74A4F2237]
+	(No symbol) [0x00007FF74A4C716F]
+	(No symbol) [0x00007FF74A4EF07F]
+	(No symbol) [0x00007FF74A4C6F03]
+	(No symbol) [0x00007FF74A490328]
+	(No symbol) [0x00007FF74A491093]
+	GetHandleVerifier [0x00007FF74A937B6D+2931725]
+	GetHandleVerifier [0x00007FF74A932132+2908626]
+	GetHandleVerifier [0x00007FF74A9500F3+3031443]
+	GetHandleVerifier [0x00007FF74A6991EA+184970]
+	GetHandleVerifier [0x00007FF74A6A086F+215311]
+	GetHandleVerifier [0x00007FF74A686EC4+110436]
+	GetHandleVerifier [0x00007FF74A687072+110866]
+	GetHandleVerifier [0x00007FF74A66D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/02/2025 12:37:54 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/02/2025 12:39:57 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 12:40:30 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 12:40:30 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 12:40:30 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 12:40:31 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 12:40:31 PM: INFO: All error messages for mandatory fields are displayed correctly
+05/02/2025 12:47:02 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 12:47:21 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 12:47:21 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 12:47:21 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 12:47:22 PM: INFO: Clicked on 'Student Plan' button
+05/02/2025 12:47:22 PM: ERROR: ********** Signup Page Verification FAILED **********
+05/02/2025 12:47:22 PM: ERROR: Exception occurred: 'WebElement' object has no attribute 'equals'
+05/02/2025 12:47:22 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/02/2025 12:56:03 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 12:56:16 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 12:56:16 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 12:56:16 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 12:56:17 PM: INFO: Clicked on 'Student Plan' button
+05/02/2025 12:56:17 PM: INFO: Label text for 'Select College': Select Collage
+05/02/2025 12:56:17 PM: INFO: Label text for 'Select College' is correct
+05/02/2025 12:56:17 PM: INFO: Clicked on 'Professional Plan' button
+05/02/2025 12:56:17 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 12:56:17 PM: INFO: All error messages for mandatory fields are displayed correctly
+05/02/2025 02:11:33 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 02:12:16 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 02:12:17 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 02:12:17 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 02:12:17 PM: INFO: Clicked on 'Student Plan' button
+05/02/2025 02:12:17 PM: INFO: Label text for 'Select College': Select Collage
+05/02/2025 02:12:17 PM: INFO: Label text for 'Select College' is correct
+05/02/2025 02:12:17 PM: INFO: Clicked on 'Professional Plan' button
+05/02/2025 02:12:17 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 02:12:17 PM: INFO: All error messages for mandatory fields are displayed correctly
+05/02/2025 02:16:35 PM: INFO: ********** Test 001 : TestSignupPage: Verifying Signup Page **********
+05/02/2025 02:17:21 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 02:17:21 PM: INFO: Generated test email: vishaltest_20250502141721@yopmail.com, mobile: 7085831131
+05/02/2025 02:17:21 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/02/2025 02:17:21 PM: INFO: Clicked on 'Sign Up' button on login page
+05/02/2025 02:17:22 PM: INFO: Entered user details on signup form
+05/02/2025 02:17:22 PM: INFO: Clicked on 'Join Now' button
+05/02/2025 02:17:22 PM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/02/2025 02:17:22 PM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/02/2025 02:17:22 PM: INFO: Text on Confirm Register Popup is correct
+05/02/2025 02:17:22 PM: INFO: Clicked 'OK' on confirmation popup
+05/02/2025 02:17:22 PM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/02/2025 02:17:26 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 02:18:12 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 02:18:12 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 02:18:12 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 02:18:12 PM: INFO: Clicked on 'Student Plan' button
+05/02/2025 02:18:12 PM: INFO: Label text for 'Select College': Select Collage
+05/02/2025 02:18:12 PM: INFO: Label text for 'Select College' is correct
+05/02/2025 02:18:12 PM: INFO: Clicked on 'Professional Plan' button
+05/02/2025 02:18:13 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 02:18:13 PM: INFO: All error messages for mandatory fields are displayed correctly
+05/02/2025 02:20:18 PM: INFO: ********** Test 001 : TestSignupPage: Verifying Signup Page **********
+05/02/2025 02:21:14 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 02:21:14 PM: INFO: Generated test email: vishaltest_20250502142114@yopmail.com, mobile: 8784188634
+05/02/2025 02:21:14 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/02/2025 02:21:15 PM: INFO: Clicked on 'Sign Up' button on login page
+05/02/2025 02:21:15 PM: INFO: Entered user details on signup form
+05/02/2025 02:21:15 PM: INFO: Clicked on 'Join Now' button
+05/02/2025 02:21:17 PM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/02/2025 02:21:17 PM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/02/2025 02:21:17 PM: INFO: Text on Confirm Register Popup is correct
+05/02/2025 02:21:17 PM: INFO: Clicked 'OK' on confirmation popup
+05/02/2025 02:21:17 PM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/02/2025 02:21:21 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/02/2025 02:22:30 PM: INFO: Navigated to https://para.unada.in/
+05/02/2025 02:22:30 PM: INFO: Clicked on 'Explore AI' button
+05/02/2025 02:22:31 PM: INFO: Clicked on 'Sign Up' button
+05/02/2025 02:22:31 PM: INFO: Clicked on 'Student Plan' button
+05/02/2025 02:22:31 PM: INFO: Label text for 'Select College': Select Collage
+05/02/2025 02:22:31 PM: INFO: Label text for 'Select College' is correct
+05/02/2025 02:22:31 PM: INFO: Clicked on 'Professional Plan' button
+05/02/2025 02:22:31 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/02/2025 02:22:31 PM: INFO: All error messages for mandatory fields are displayed correctly
+05/05/2025 09:39:34 AM: INFO: ********** Test 003 : Verifying Signup Page Text **********
+05/05/2025 09:39:36 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 09:39:37 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 09:39:37 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 09:39:37 AM: INFO: Retrieved text from the signup page
+05/05/2025 09:39:37 AM: INFO: Expected text: "Sign Up Here!"
+05/05/2025 09:39:37 AM: INFO: Actual text: Sign Up Here!
+05/05/2025 09:39:37 AM: ERROR: ********** Signup Page Text Verification FAILED **********
+05/05/2025 09:39:37 AM: ERROR: Exception occurred: Text mismatch on signup page
+assert '"Sign Up Here!"' == 'Sign Up Here!'
+  
+  - Sign Up Here!
+  + "Sign Up Here!"
+  ? +             +
+05/05/2025 09:39:37 AM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 09:41:26 AM: INFO: ********** Test 003 : Verifying Signup Page Text **********
+05/05/2025 09:41:26 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 09:41:28 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 09:41:28 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 09:41:28 AM: INFO: Retrieved text from the signup page
+05/05/2025 09:41:28 AM: INFO: Expected text: Sign Up Here!
+05/05/2025 09:41:28 AM: INFO: Actual text: Sign Up Here!
+05/05/2025 09:41:28 AM: INFO: Text on Signup Page is correct
+05/05/2025 09:41:28 AM: INFO: ********** Signup Page Text Verification Completed Successfully **********
+05/05/2025 09:45:36 AM: INFO: ********** Test 003 : Verifying Signup Page Text **********
+05/05/2025 09:45:37 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 09:45:37 AM: INFO: Browser window maximized
+05/05/2025 09:45:37 AM: INFO: Page objects initialized
+05/05/2025 09:45:37 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 09:45:37 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 09:45:37 AM: INFO: Retrieved text from the signup page
+05/05/2025 09:45:37 AM: INFO: Expected text: Sign Up Here!
+05/05/2025 09:45:37 AM: INFO: Actual text: Sign Up Here!
+05/05/2025 09:45:37 AM: INFO: Text on Signup Page is correct
+05/05/2025 09:45:37 AM: INFO: ********** Signup Page Text Verification Completed Successfully **********
+05/05/2025 09:45:40 AM: INFO: Browser closed
+05/05/2025 09:58:11 AM: INFO: ********** Test 004 : Verifying Password Show Functionality **********
+05/05/2025 09:58:16 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 09:58:16 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 09:58:17 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 09:58:17 AM: INFO: Entered user details on signup form
+05/05/2025 09:58:17 AM: INFO: Clicked 'Show Password' button
+05/05/2025 09:58:17 AM: INFO: Entered user details on signup form
+05/05/2025 09:59:06 AM: INFO: ********** Test 004 : Verifying Password Show Functionality **********
+05/05/2025 09:59:07 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 09:59:08 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 09:59:08 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 09:59:11 AM: INFO: Entered user details on signup form
+05/05/2025 09:59:14 AM: INFO: Clicked 'Show Password' button
+05/05/2025 09:59:17 AM: INFO: Entered user details on signup form
+05/05/2025 10:02:10 AM: INFO: ********** Test 004 : Verifying Password Show Functionality **********
+05/05/2025 10:02:12 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:02:12 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:02:12 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:02:15 AM: INFO: Entered user details on signup form
+05/05/2025 10:02:18 AM: INFO: Clicked 'Show Password' button
+05/05/2025 10:13:58 AM: INFO: ********** Test 004 : Verifying Password Show Functionality **********
+05/05/2025 10:14:00 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:14:00 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:14:00 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:14:03 AM: INFO: Entered password
+05/05/2025 10:14:03 AM: ERROR: ********** Password Show Functionality Verification FAILED **********
+05/05/2025 10:14:03 AM: ERROR: Exception occurred: 'SignUPPage' object has no attribute 'get_password_input_element'
+05/05/2025 10:26:16 AM: INFO: ********** Test 004 : Verifying Password Show Functionality **********
+05/05/2025 10:26:17 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:26:18 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:26:18 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:26:20 AM: INFO: Entered password
+05/05/2025 10:26:20 AM: INFO: ********** Password Show Functionality Verification PASSED **********
+05/05/2025 10:32:11 AM: INFO: ********** Test 004 : Verifying Password Show Functionality **********
+05/05/2025 10:32:13 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:32:14 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:32:14 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:32:16 AM: INFO: Entered password
+05/05/2025 10:32:16 AM: INFO: ********** Before Clicks Password Show Icon  **********
+05/05/2025 10:32:16 AM: INFO: Password before clicking show icon: Vishal123$
+05/05/2025 10:32:16 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 10:32:18 AM: INFO: ********** After Clicks Password Show Icon  **********
+05/05/2025 10:32:18 AM: INFO: Password After clicking show icon: Vishal123$
+05/05/2025 10:32:18 AM: INFO: ********** Password Show Functionality Verification PASSED **********
+05/05/2025 10:33:53 AM: INFO: ********** Test 004 : Verifying Password Show Functionality **********
+05/05/2025 10:33:56 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:33:57 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:33:57 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:33:59 AM: INFO: Entered password
+05/05/2025 10:33:59 AM: INFO: ********** Before Clicks Password Show Icon  **********
+05/05/2025 10:33:59 AM: INFO: Password before clicking show icon: Vishal123$
+05/05/2025 10:33:59 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 10:34:01 AM: INFO: ********** After Clicks Password Show Icon  **********
+05/05/2025 10:34:01 AM: INFO: Password After clicking show icon: Vishal123$
+05/05/2025 10:34:01 AM: ERROR: Password visibility toggle failed
+05/05/2025 10:34:01 AM: ERROR: ********** Password Show Functionality Verification FAILED **********
+05/05/2025 10:34:01 AM: ERROR: Exception occurred: Password visibility toggle failed
+assert False
+05/05/2025 10:34:42 AM: INFO: ********** Test 004 : Verifying Password Show Functionality **********
+05/05/2025 10:34:43 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:34:44 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:34:44 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:34:46 AM: INFO: Entered password
+05/05/2025 10:34:46 AM: INFO: ********** Before Clicks Password Show Icon  **********
+05/05/2025 10:34:46 AM: INFO: Password before clicking show icon: Vishal123$
+05/05/2025 10:34:46 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 10:34:48 AM: INFO: ********** After Clicks Password Show Icon  **********
+05/05/2025 10:34:48 AM: INFO: Password After clicking show icon: Vishal123$
+05/05/2025 10:34:48 AM: INFO: Password visibility toggled successfully
+05/05/2025 10:34:48 AM: INFO: ********** Password Show Functionality Verification PASSED **********
+05/05/2025 10:36:01 AM: INFO: ********** Test 004 : Verifying Password Show Functionality **********
+05/05/2025 10:36:02 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:36:02 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:36:02 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:36:04 AM: INFO: Entered password
+05/05/2025 10:36:04 AM: INFO: ********** Before Clicks Password Show Icon  **********
+05/05/2025 10:36:04 AM: INFO: Password before clicking show icon: Vishal123$
+05/05/2025 10:36:05 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 10:36:07 AM: INFO: ********** After Clicks Password Show Icon  **********
+05/05/2025 10:36:07 AM: INFO: Password After clicking show icon: Vishal123$
+05/05/2025 10:36:07 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 10:36:07 AM: INFO: Password visibility toggled successfully
+05/05/2025 10:36:07 AM: INFO: ********** Password Show Functionality Verification PASSED **********
+05/05/2025 10:51:04 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 10:51:06 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:51:06 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:51:06 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:51:08 AM: INFO: Entered password
+05/05/2025 10:51:08 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 10:51:08 AM: ERROR: Exception occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="#standard-basic"]"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F525EFA5+77893]
+	GetHandleVerifier [0x00007FF6F525F000+77984]
+	(No symbol) [0x00007FF6F50291BA]
+	(No symbol) [0x00007FF6F507F16D]
+	(No symbol) [0x00007FF6F507F41C]
+	(No symbol) [0x00007FF6F50D2237]
+	(No symbol) [0x00007FF6F50A716F]
+	(No symbol) [0x00007FF6F50CF07F]
+	(No symbol) [0x00007FF6F50A6F03]
+	(No symbol) [0x00007FF6F5070328]
+	(No symbol) [0x00007FF6F5071093]
+	GetHandleVerifier [0x00007FF6F5517B6D+2931725]
+	GetHandleVerifier [0x00007FF6F5512132+2908626]
+	GetHandleVerifier [0x00007FF6F55300F3+3031443]
+	GetHandleVerifier [0x00007FF6F52791EA+184970]
+	GetHandleVerifier [0x00007FF6F528086F+215311]
+	GetHandleVerifier [0x00007FF6F5266EC4+110436]
+	GetHandleVerifier [0x00007FF6F5267072+110866]
+	GetHandleVerifier [0x00007FF6F524D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 10:54:27 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 10:54:29 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:54:29 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:54:29 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:54:31 AM: INFO: Entered password
+05/05/2025 10:54:31 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 10:54:31 AM: ERROR: Exception occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="//input[@id='standard-basic' and @type='password']"]"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F525EFA5+77893]
+	GetHandleVerifier [0x00007FF6F525F000+77984]
+	(No symbol) [0x00007FF6F50291BA]
+	(No symbol) [0x00007FF6F507F16D]
+	(No symbol) [0x00007FF6F507F41C]
+	(No symbol) [0x00007FF6F50D2237]
+	(No symbol) [0x00007FF6F50A716F]
+	(No symbol) [0x00007FF6F50CF07F]
+	(No symbol) [0x00007FF6F50A6F03]
+	(No symbol) [0x00007FF6F5070328]
+	(No symbol) [0x00007FF6F5071093]
+	GetHandleVerifier [0x00007FF6F5517B6D+2931725]
+	GetHandleVerifier [0x00007FF6F5512132+2908626]
+	GetHandleVerifier [0x00007FF6F55300F3+3031443]
+	GetHandleVerifier [0x00007FF6F52791EA+184970]
+	GetHandleVerifier [0x00007FF6F528086F+215311]
+	GetHandleVerifier [0x00007FF6F5266EC4+110436]
+	GetHandleVerifier [0x00007FF6F5267072+110866]
+	GetHandleVerifier [0x00007FF6F524D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 10:58:07 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 10:58:09 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:58:10 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:58:10 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:58:12 AM: INFO: Entered password
+05/05/2025 10:58:12 AM: INFO: Password field type before clicking show: Vishal123$Vishal123$
+05/05/2025 10:58:12 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 10:58:12 AM: ERROR: Exception occurred: Password should be hidden initially
+assert 'Vishal123$Vishal123$' == 'password'
+  
+  - password
+  + Vishal123$Vishal123$
+05/05/2025 10:59:11 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 10:59:13 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 10:59:13 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 10:59:13 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 10:59:15 AM: INFO: Entered password
+05/05/2025 10:59:15 AM: INFO: Password field type before clicking show: Vishal123$Vishal123$
+05/05/2025 10:59:15 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 10:59:15 AM: ERROR: Exception occurred: Password should be hidden initially
+assert 'Vishal123$Vishal123$' == 'password'
+  
+  - password
+  + Vishal123$Vishal123$
+05/05/2025 11:01:37 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:01:39 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:01:39 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:01:40 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:01:42 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 11:01:42 AM: ERROR: Exception occurred: 'SignUPPage' object has no attribute 'set_Password'
+05/05/2025 11:02:42 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:02:43 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:02:43 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:02:44 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:02:46 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 11:02:46 AM: ERROR: Exception occurred: 'SignUPPage' object has no attribute 'set_Password'
+05/05/2025 11:03:29 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:03:31 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:03:31 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:03:31 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:03:33 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 11:03:33 AM: ERROR: Exception occurred: 'SignUPPage' object has no attribute 'set_Password'
+05/05/2025 11:04:58 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:05:00 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:05:00 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:05:00 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:05:03 AM: INFO: Entered password
+05/05/2025 11:05:03 AM: INFO: Password field type before clicking show: Vishal123$
+05/05/2025 11:05:03 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 11:05:03 AM: ERROR: Exception occurred: Password should be hidden initially
+assert 'Vishal123$' == 'password'
+  
+  - password
+  + Vishal123$
+05/05/2025 11:10:54 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:10:56 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:10:57 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:10:57 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:10:59 AM: INFO: Entered password
+05/05/2025 11:10:59 AM: INFO: Password field type before clicking show: Vishal123$
+05/05/2025 11:10:59 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 11:10:59 AM: ERROR: Exception occurred: Password should be hidden initially
+05/05/2025 11:15:17 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:15:19 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:15:19 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:15:20 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:15:22 AM: INFO: Entered password
+05/05/2025 11:15:22 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:15:24 AM: INFO: ********** Password Show/Hide Functionality Verification PASSED **********
+05/05/2025 11:16:07 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:16:08 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:16:08 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:16:08 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:16:10 AM: INFO: Entered password
+05/05/2025 11:16:11 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:16:13 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:16:15 AM: INFO: ********** Password Show/Hide Functionality Verification PASSED **********
+05/05/2025 11:17:58 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:18:00 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:18:00 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:18:01 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:18:03 AM: INFO: Entered password
+05/05/2025 11:18:03 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:18:05 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:18:07 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 11:18:07 AM: ERROR: Exception occurred: SignUPPage.set_password() missing 1 required positional argument: 'password'
+05/05/2025 11:19:29 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:19:31 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:19:32 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:19:32 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:19:34 AM: INFO: Entered password
+05/05/2025 11:19:34 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:19:36 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:19:38 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 11:19:38 AM: ERROR: Exception occurred: SignUPPage.set_password() missing 1 required positional argument: 'password'
+05/05/2025 11:24:10 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:24:12 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:24:13 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:24:13 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:24:15 AM: INFO: Entered password
+05/05/2025 11:24:15 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:24:17 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:24:19 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 11:24:19 AM: ERROR: Exception occurred: SignUPPage.set_password() missing 1 required positional argument: 'password'
+05/05/2025 11:25:41 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:25:43 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:25:43 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:25:43 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:25:45 AM: INFO: Entered password
+05/05/2025 11:25:45 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:25:47 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:25:49 AM: ERROR: Password is not visible
+05/05/2025 11:25:49 AM: ERROR: ********** Password Show/Hide Functionality Verification FAILED **********
+05/05/2025 11:25:49 AM: ERROR: Exception occurred: Password visibility check failed
+assert False
+05/05/2025 11:26:13 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:26:14 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:26:15 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:26:15 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:26:17 AM: INFO: Entered password
+05/05/2025 11:26:17 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:26:19 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:26:21 AM: INFO: Password is visible
+05/05/2025 11:26:21 AM: INFO: ********** Password Show/Hide Functionality Verification PASSED **********
+05/05/2025 11:29:52 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 11:29:54 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:29:54 AM: INFO: Clicked on 'Explore AI' button
+05/05/2025 11:29:54 AM: INFO: Clicked on 'Sign Up' button
+05/05/2025 11:29:56 AM: INFO: Entered password
+05/05/2025 11:29:58 AM: INFO: Clicked on 'Show Password' button
+05/05/2025 11:30:01 AM: INFO: Clicked on 'Show Password' button again to hide
+05/05/2025 11:30:03 AM: INFO: Password is visible
+05/05/2025 11:30:03 AM: INFO: ********** Password Show/Hide Functionality Verification PASSED **********
+05/05/2025 11:30:03 AM: INFO: Closing the browser
+05/05/2025 11:44:23 AM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 11:44:25 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:44:25 AM: INFO: Generated test email: vishaltest_20250505114425@yopmail.com, mobile: vishaltest_20250505114425@yopmail.edu
+05/05/2025 11:44:25 AM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 11:44:26 AM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 11:44:26 AM: INFO: Clicked on 'Student Plan' button
+05/05/2025 11:44:27 AM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 11:44:27 AM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6F525EFA5+77893]
+	GetHandleVerifier [0x00007FF6F525F000+77984]
+	(No symbol) [0x00007FF6F5028FEC]
+	(No symbol) [0x00007FF6F5078954]
+	(No symbol) [0x00007FF6F5076673]
+	(No symbol) [0x00007FF6F50A712A]
+	(No symbol) [0x00007FF6F50719E6]
+	(No symbol) [0x00007FF6F50A7340]
+	(No symbol) [0x00007FF6F50CF07F]
+	(No symbol) [0x00007FF6F50A6F03]
+	(No symbol) [0x00007FF6F5070328]
+	(No symbol) [0x00007FF6F5071093]
+	GetHandleVerifier [0x00007FF6F5517B6D+2931725]
+	GetHandleVerifier [0x00007FF6F5512132+2908626]
+	GetHandleVerifier [0x00007FF6F55300F3+3031443]
+	GetHandleVerifier [0x00007FF6F52791EA+184970]
+	GetHandleVerifier [0x00007FF6F528086F+215311]
+	GetHandleVerifier [0x00007FF6F5266EC4+110436]
+	GetHandleVerifier [0x00007FF6F5267072+110866]
+	GetHandleVerifier [0x00007FF6F524D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 11:44:27 AM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 11:58:50 AM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 11:58:53 AM: INFO: Navigated to https://para.unada.in/
+05/05/2025 11:58:53 AM: INFO: Generated test email: vishaltest_20250505115853@yopmail.com, mobile: vishaltest_20250505115853@yopmail.edu
+05/05/2025 11:58:53 AM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 11:58:53 AM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 11:58:53 AM: INFO: Clicked on 'Student Plan' button
+05/05/2025 11:58:55 AM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 11:58:55 AM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79361EFA5+77893]
+	GetHandleVerifier [0x00007FF79361F000+77984]
+	(No symbol) [0x00007FF7933E8FEC]
+	(No symbol) [0x00007FF793438954]
+	(No symbol) [0x00007FF793436673]
+	(No symbol) [0x00007FF79346712A]
+	(No symbol) [0x00007FF7934319E6]
+	(No symbol) [0x00007FF793467340]
+	(No symbol) [0x00007FF79348F07F]
+	(No symbol) [0x00007FF793466F03]
+	(No symbol) [0x00007FF793430328]
+	(No symbol) [0x00007FF793431093]
+	GetHandleVerifier [0x00007FF7938D7B6D+2931725]
+	GetHandleVerifier [0x00007FF7938D2132+2908626]
+	GetHandleVerifier [0x00007FF7938F00F3+3031443]
+	GetHandleVerifier [0x00007FF7936391EA+184970]
+	GetHandleVerifier [0x00007FF79364086F+215311]
+	GetHandleVerifier [0x00007FF793626EC4+110436]
+	GetHandleVerifier [0x00007FF793627072+110866]
+	GetHandleVerifier [0x00007FF79360D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 11:58:55 AM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:02:24 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:02:29 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:02:29 PM: INFO: Generated test email: vishaltest_20250505120229@yopmail.com, mobile: vishaltest_20250505120229@yopmail.edu
+05/05/2025 12:02:29 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:02:29 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:02:30 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:02:32 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:02:32 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79361EFA5+77893]
+	GetHandleVerifier [0x00007FF79361F000+77984]
+	(No symbol) [0x00007FF7933E8FEC]
+	(No symbol) [0x00007FF793438954]
+	(No symbol) [0x00007FF793436673]
+	(No symbol) [0x00007FF79346712A]
+	(No symbol) [0x00007FF7934319E6]
+	(No symbol) [0x00007FF793467340]
+	(No symbol) [0x00007FF79348F07F]
+	(No symbol) [0x00007FF793466F03]
+	(No symbol) [0x00007FF793430328]
+	(No symbol) [0x00007FF793431093]
+	GetHandleVerifier [0x00007FF7938D7B6D+2931725]
+	GetHandleVerifier [0x00007FF7938D2132+2908626]
+	GetHandleVerifier [0x00007FF7938F00F3+3031443]
+	GetHandleVerifier [0x00007FF7936391EA+184970]
+	GetHandleVerifier [0x00007FF79364086F+215311]
+	GetHandleVerifier [0x00007FF793626EC4+110436]
+	GetHandleVerifier [0x00007FF793627072+110866]
+	GetHandleVerifier [0x00007FF79360D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:02:32 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:06:06 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:06:08 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:06:08 PM: INFO: Generated test email: vishaltest_20250505120608@yopmail.com, mobile: vishaltest_20250505120608@yopmail.edu
+05/05/2025 12:06:08 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:06:09 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:06:09 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:06:12 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:06:12 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79361EFA5+77893]
+	GetHandleVerifier [0x00007FF79361F000+77984]
+	(No symbol) [0x00007FF7933E8FEC]
+	(No symbol) [0x00007FF793438954]
+	(No symbol) [0x00007FF793436673]
+	(No symbol) [0x00007FF79346712A]
+	(No symbol) [0x00007FF7934319E6]
+	(No symbol) [0x00007FF793467340]
+	(No symbol) [0x00007FF79348F07F]
+	(No symbol) [0x00007FF793466F03]
+	(No symbol) [0x00007FF793430328]
+	(No symbol) [0x00007FF793431093]
+	GetHandleVerifier [0x00007FF7938D7B6D+2931725]
+	GetHandleVerifier [0x00007FF7938D2132+2908626]
+	GetHandleVerifier [0x00007FF7938F00F3+3031443]
+	GetHandleVerifier [0x00007FF7936391EA+184970]
+	GetHandleVerifier [0x00007FF79364086F+215311]
+	GetHandleVerifier [0x00007FF793626EC4+110436]
+	GetHandleVerifier [0x00007FF793627072+110866]
+	GetHandleVerifier [0x00007FF79360D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:06:12 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:13:22 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:13:24 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:13:24 PM: INFO: Generated test email: vishaltest_20250505121324@yopmail.com, mobile: vishaltest_20250505121324@yopmail.edu
+05/05/2025 12:13:24 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:13:24 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:13:25 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:13:26 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:13:26 PM: ERROR: Exception occurred: Message: element click intercepted: Element is not clickable at point (787, 776)
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79361EFA5+77893]
+	GetHandleVerifier [0x00007FF79361F000+77984]
+	(No symbol) [0x00007FF7933E91BA]
+	(No symbol) [0x00007FF7934470A9]
+	(No symbol) [0x00007FF793444A62]
+	(No symbol) [0x00007FF793441B01]
+	(No symbol) [0x00007FF793440A01]
+	(No symbol) [0x00007FF793432134]
+	(No symbol) [0x00007FF79346712A]
+	(No symbol) [0x00007FF7934319E6]
+	(No symbol) [0x00007FF793467340]
+	(No symbol) [0x00007FF79348F07F]
+	(No symbol) [0x00007FF793466F03]
+	(No symbol) [0x00007FF793430328]
+	(No symbol) [0x00007FF793431093]
+	GetHandleVerifier [0x00007FF7938D7B6D+2931725]
+	GetHandleVerifier [0x00007FF7938D2132+2908626]
+	GetHandleVerifier [0x00007FF7938F00F3+3031443]
+	GetHandleVerifier [0x00007FF7936391EA+184970]
+	GetHandleVerifier [0x00007FF79364086F+215311]
+	GetHandleVerifier [0x00007FF793626EC4+110436]
+	GetHandleVerifier [0x00007FF793627072+110866]
+	GetHandleVerifier [0x00007FF79360D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:13:27 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:16:08 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:16:10 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:16:11 PM: INFO: Generated test email: vishaltest_20250505121611@yopmail.com, mobile: vishaltest_20250505121611@yopmail.edu
+05/05/2025 12:16:11 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:16:11 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:16:11 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:16:12 PM: INFO: Entered user details on signup form
+05/05/2025 12:16:28 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:16:28 PM: ERROR: Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF79361EFA5+77893]
+	GetHandleVerifier [0x00007FF79361F000+77984]
+	(No symbol) [0x00007FF7933E91BA]
+	(No symbol) [0x00007FF79343F16D]
+	(No symbol) [0x00007FF79343F41C]
+	(No symbol) [0x00007FF793492237]
+	(No symbol) [0x00007FF79346716F]
+	(No symbol) [0x00007FF79348F07F]
+	(No symbol) [0x00007FF793466F03]
+	(No symbol) [0x00007FF793430328]
+	(No symbol) [0x00007FF793431093]
+	GetHandleVerifier [0x00007FF7938D7B6D+2931725]
+	GetHandleVerifier [0x00007FF7938D2132+2908626]
+	GetHandleVerifier [0x00007FF7938F00F3+3031443]
+	GetHandleVerifier [0x00007FF7936391EA+184970]
+	GetHandleVerifier [0x00007FF79364086F+215311]
+	GetHandleVerifier [0x00007FF793626EC4+110436]
+	GetHandleVerifier [0x00007FF793627072+110866]
+	GetHandleVerifier [0x00007FF79360D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:16:28 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:17:24 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:17:26 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:17:26 PM: INFO: Generated test email: vishaltest_20250505121726@yopmail.com, mobile: vishaltest_20250505121726@yopmail.edu
+05/05/2025 12:17:26 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:17:26 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:17:26 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:17:28 PM: INFO: Entered user details on signup form
+05/05/2025 12:17:37 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:17:37 PM: ERROR: Exception occurred: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79361EFA5+77893]
+	GetHandleVerifier [0x00007FF79361F000+77984]
+	(No symbol) [0x00007FF7933E91BA]
+	(No symbol) [0x00007FF7933D4F15]
+	(No symbol) [0x00007FF7933F9F04]
+	(No symbol) [0x00007FF79346EACF]
+	(No symbol) [0x00007FF79348E972]
+	(No symbol) [0x00007FF793466F03]
+	(No symbol) [0x00007FF793430328]
+	(No symbol) [0x00007FF793431093]
+	GetHandleVerifier [0x00007FF7938D7B6D+2931725]
+	GetHandleVerifier [0x00007FF7938D2132+2908626]
+	GetHandleVerifier [0x00007FF7938F00F3+3031443]
+	GetHandleVerifier [0x00007FF7936391EA+184970]
+	GetHandleVerifier [0x00007FF79364086F+215311]
+	GetHandleVerifier [0x00007FF793626EC4+110436]
+	GetHandleVerifier [0x00007FF793627072+110866]
+	GetHandleVerifier [0x00007FF79360D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:22:31 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:22:33 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:22:33 PM: INFO: Generated test email: vishaltest_20250505122233@yopmail.com, mobile: vishaltest_20250505122233@yopmail.edu
+05/05/2025 12:22:33 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:22:33 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:22:34 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:22:35 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:22:35 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7085DEFA5+77893]
+	GetHandleVerifier [0x00007FF7085DF000+77984]
+	(No symbol) [0x00007FF7083A8FEC]
+	(No symbol) [0x00007FF7083F8954]
+	(No symbol) [0x00007FF7083F6673]
+	(No symbol) [0x00007FF70842712A]
+	(No symbol) [0x00007FF7083F19E6]
+	(No symbol) [0x00007FF708427340]
+	(No symbol) [0x00007FF70844F07F]
+	(No symbol) [0x00007FF708426F03]
+	(No symbol) [0x00007FF7083F0328]
+	(No symbol) [0x00007FF7083F1093]
+	GetHandleVerifier [0x00007FF708897B6D+2931725]
+	GetHandleVerifier [0x00007FF708892132+2908626]
+	GetHandleVerifier [0x00007FF7088B00F3+3031443]
+	GetHandleVerifier [0x00007FF7085F91EA+184970]
+	GetHandleVerifier [0x00007FF70860086F+215311]
+	GetHandleVerifier [0x00007FF7085E6EC4+110436]
+	GetHandleVerifier [0x00007FF7085E7072+110866]
+	GetHandleVerifier [0x00007FF7085CD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:22:35 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:27:17 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:27:19 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:27:19 PM: INFO: Generated test email: vishaltest_20250505122719@yopmail.com, mobile: vishaltest_20250505122719@yopmail.edu
+05/05/2025 12:27:20 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:27:20 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:27:20 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:27:21 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:27:21 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:27:21 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:27:54 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:27:55 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:27:55 PM: INFO: Generated test email: vishaltest_20250505122755@yopmail.com, mobile: vishaltest_20250505122755@yopmail.edu
+05/05/2025 12:27:56 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:27:56 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:27:56 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:28:02 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:28:02 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:28:02 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:28:20 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:28:22 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:28:22 PM: INFO: Generated test email: vishaltest_20250505122822@yopmail.com, mobile: vishaltest_20250505122822@yopmail.edu
+05/05/2025 12:28:22 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:28:22 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:28:22 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:28:28 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:28:28 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:28:28 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:30:14 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:30:16 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:30:16 PM: INFO: Generated test email: vishaltest_20250505123016@yopmail.com, mobile: vishaltest_20250505123016@yopmail.edu
+05/05/2025 12:30:16 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:30:16 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:30:16 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:30:22 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:30:22 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:30:22 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:32:00 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:32:02 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:32:02 PM: INFO: Generated test email: vishaltest_20250505123202@yopmail.com, mobile: vishaltest_20250505123202@yopmail.edu
+05/05/2025 12:32:02 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:32:03 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:32:03 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:32:09 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:32:09 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:32:09 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:33:51 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:33:52 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:33:52 PM: INFO: Generated test email: vishaltest_20250505123352@yopmail.com, mobile: vishaltest_20250505123352@yopmail.edu
+05/05/2025 12:33:52 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:33:52 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:33:53 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:33:59 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:33:59 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:33:59 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:34:51 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:34:52 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:34:52 PM: INFO: Generated test email: vishaltest_20250505123452@yopmail.com, mobile: vishaltest_20250505123452@yopmail.edu
+05/05/2025 12:34:52 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:34:52 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:34:53 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:34:59 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:34:59 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:34:59 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:35:43 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:35:45 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:35:45 PM: INFO: Generated test email: vishaltest_20250505123545@yopmail.com, mobile: vishaltest_20250505123545@yopmail.edu
+05/05/2025 12:35:45 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:35:46 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:35:46 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:35:52 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:35:52 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:35:52 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:46:30 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:46:32 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:46:33 PM: INFO: Generated test email: vishaltest_20250505124633@yopmail.com, mobile: vishaltest_20250505124633@yopmail.edu
+05/05/2025 12:46:33 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:46:33 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:46:33 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:46:39 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:46:39 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:46:39 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:50:28 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:50:28 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:50:30 PM: INFO: Generated test email: vishaltest_20250505125030@yopmail.com, mobile: vishaltest_20250505125030@yopmail.edu
+05/05/2025 12:50:30 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:50:30 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:50:30 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:50:41 PM: INFO: Entered user details on signup form
+05/05/2025 12:50:57 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:50:57 PM: ERROR: Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC1891BA]
+	(No symbol) [0x00007FF6FC1DF16D]
+	(No symbol) [0x00007FF6FC1DF41C]
+	(No symbol) [0x00007FF6FC232237]
+	(No symbol) [0x00007FF6FC20716F]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:50:57 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:53:11 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:53:13 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:53:13 PM: INFO: Generated test email: vishaltest_20250505125313@yopmail.com, mobile: vishaltest_20250505125313@yopmail.edu
+05/05/2025 12:53:14 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:53:14 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:53:14 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:53:20 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:53:20 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:53:20 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 12:57:33 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 12:57:35 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 12:57:35 PM: INFO: Generated test email: vishaltest_20250505125735@yopmail.edu, mobile: 9296633833
+05/05/2025 12:57:36 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 12:57:36 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 12:57:36 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 12:57:37 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 12:57:37 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FC3BEFA5+77893]
+	GetHandleVerifier [0x00007FF6FC3BF000+77984]
+	(No symbol) [0x00007FF6FC188FEC]
+	(No symbol) [0x00007FF6FC1D8954]
+	(No symbol) [0x00007FF6FC1D6673]
+	(No symbol) [0x00007FF6FC20712A]
+	(No symbol) [0x00007FF6FC1D19E6]
+	(No symbol) [0x00007FF6FC207340]
+	(No symbol) [0x00007FF6FC22F07F]
+	(No symbol) [0x00007FF6FC206F03]
+	(No symbol) [0x00007FF6FC1D0328]
+	(No symbol) [0x00007FF6FC1D1093]
+	GetHandleVerifier [0x00007FF6FC677B6D+2931725]
+	GetHandleVerifier [0x00007FF6FC672132+2908626]
+	GetHandleVerifier [0x00007FF6FC6900F3+3031443]
+	GetHandleVerifier [0x00007FF6FC3D91EA+184970]
+	GetHandleVerifier [0x00007FF6FC3E086F+215311]
+	GetHandleVerifier [0x00007FF6FC3C6EC4+110436]
+	GetHandleVerifier [0x00007FF6FC3C7072+110866]
+	GetHandleVerifier [0x00007FF6FC3AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 12:57:37 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 01:50:32 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 01:50:34 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 01:50:34 PM: INFO: Generated test email: vishaltest_20250505135034@yopmail.edu, mobile: 7601750092
+05/05/2025 01:50:34 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 01:50:35 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 01:50:35 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 01:50:36 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 01:50:36 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E081EFA5+77893]
+	GetHandleVerifier [0x00007FF6E081F000+77984]
+	(No symbol) [0x00007FF6E05E8FEC]
+	(No symbol) [0x00007FF6E0638954]
+	(No symbol) [0x00007FF6E0636673]
+	(No symbol) [0x00007FF6E066712A]
+	(No symbol) [0x00007FF6E06319E6]
+	(No symbol) [0x00007FF6E0667340]
+	(No symbol) [0x00007FF6E068F07F]
+	(No symbol) [0x00007FF6E0666F03]
+	(No symbol) [0x00007FF6E0630328]
+	(No symbol) [0x00007FF6E0631093]
+	GetHandleVerifier [0x00007FF6E0AD7B6D+2931725]
+	GetHandleVerifier [0x00007FF6E0AD2132+2908626]
+	GetHandleVerifier [0x00007FF6E0AF00F3+3031443]
+	GetHandleVerifier [0x00007FF6E08391EA+184970]
+	GetHandleVerifier [0x00007FF6E084086F+215311]
+	GetHandleVerifier [0x00007FF6E0826EC4+110436]
+	GetHandleVerifier [0x00007FF6E0827072+110866]
+	GetHandleVerifier [0x00007FF6E080D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 01:50:36 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 01:54:19 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 01:54:21 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 01:54:21 PM: INFO: Generated test email: vishaltest_20250505135421@yopmail.edu, mobile: 7123579760
+05/05/2025 01:54:21 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 01:54:21 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 01:54:21 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 01:54:22 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 01:54:22 PM: ERROR: Exception occurred: Message: element not interactable
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E081EFA5+77893]
+	GetHandleVerifier [0x00007FF6E081F000+77984]
+	(No symbol) [0x00007FF6E05E8FEC]
+	(No symbol) [0x00007FF6E0638954]
+	(No symbol) [0x00007FF6E0636673]
+	(No symbol) [0x00007FF6E066712A]
+	(No symbol) [0x00007FF6E06319E6]
+	(No symbol) [0x00007FF6E0667340]
+	(No symbol) [0x00007FF6E068F07F]
+	(No symbol) [0x00007FF6E0666F03]
+	(No symbol) [0x00007FF6E0630328]
+	(No symbol) [0x00007FF6E0631093]
+	GetHandleVerifier [0x00007FF6E0AD7B6D+2931725]
+	GetHandleVerifier [0x00007FF6E0AD2132+2908626]
+	GetHandleVerifier [0x00007FF6E0AF00F3+3031443]
+	GetHandleVerifier [0x00007FF6E08391EA+184970]
+	GetHandleVerifier [0x00007FF6E084086F+215311]
+	GetHandleVerifier [0x00007FF6E0826EC4+110436]
+	GetHandleVerifier [0x00007FF6E0827072+110866]
+	GetHandleVerifier [0x00007FF6E080D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 01:54:23 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 02:04:15 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 02:04:16 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 02:04:17 PM: INFO: Generated test email: vishaltest_20250505140417@yopmail.edu, mobile: 7913455834
+05/05/2025 02:04:17 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 02:04:17 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 02:04:17 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 02:04:18 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 02:04:18 PM: ERROR: Exception occurred: Message: unknown error: path is not absolute: TestData/sample.jpeg
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E081EFA5+77893]
+	GetHandleVerifier [0x00007FF6E081F000+77984]
+	(No symbol) [0x00007FF6E05E91BA]
+	(No symbol) [0x00007FF6E05FBBEF]
+	(No symbol) [0x00007FF6E0636866]
+	(No symbol) [0x00007FF6E066712A]
+	(No symbol) [0x00007FF6E06319E6]
+	(No symbol) [0x00007FF6E0667340]
+	(No symbol) [0x00007FF6E068F07F]
+	(No symbol) [0x00007FF6E0666F03]
+	(No symbol) [0x00007FF6E0630328]
+	(No symbol) [0x00007FF6E0631093]
+	GetHandleVerifier [0x00007FF6E0AD7B6D+2931725]
+	GetHandleVerifier [0x00007FF6E0AD2132+2908626]
+	GetHandleVerifier [0x00007FF6E0AF00F3+3031443]
+	GetHandleVerifier [0x00007FF6E08391EA+184970]
+	GetHandleVerifier [0x00007FF6E084086F+215311]
+	GetHandleVerifier [0x00007FF6E0826EC4+110436]
+	GetHandleVerifier [0x00007FF6E0827072+110866]
+	GetHandleVerifier [0x00007FF6E080D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 02:04:18 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 02:05:32 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 02:05:36 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 02:05:36 PM: INFO: Generated test email: vishaltest_20250505140536@yopmail.edu, mobile: 9203838175
+05/05/2025 02:05:36 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 02:05:36 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 02:05:36 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 02:05:38 PM: INFO: Entered user details on signup form
+05/05/2025 02:05:48 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 02:05:48 PM: ERROR: Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E081EFA5+77893]
+	GetHandleVerifier [0x00007FF6E081F000+77984]
+	(No symbol) [0x00007FF6E05E91BA]
+	(No symbol) [0x00007FF6E063F16D]
+	(No symbol) [0x00007FF6E063F41C]
+	(No symbol) [0x00007FF6E0692237]
+	(No symbol) [0x00007FF6E066716F]
+	(No symbol) [0x00007FF6E068F07F]
+	(No symbol) [0x00007FF6E0666F03]
+	(No symbol) [0x00007FF6E0630328]
+	(No symbol) [0x00007FF6E0631093]
+	GetHandleVerifier [0x00007FF6E0AD7B6D+2931725]
+	GetHandleVerifier [0x00007FF6E0AD2132+2908626]
+	GetHandleVerifier [0x00007FF6E0AF00F3+3031443]
+	GetHandleVerifier [0x00007FF6E08391EA+184970]
+	GetHandleVerifier [0x00007FF6E084086F+215311]
+	GetHandleVerifier [0x00007FF6E0826EC4+110436]
+	GetHandleVerifier [0x00007FF6E0827072+110866]
+	GetHandleVerifier [0x00007FF6E080D479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 02:05:48 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 02:10:46 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 02:10:48 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 02:10:48 PM: INFO: Generated test email: vishaltest_20250505141048@yopmail.edu, mobile: 7840787904
+05/05/2025 02:10:48 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 02:10:48 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 02:10:48 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 02:10:49 PM: INFO: Uploaded file name: sample.jpeg
+05/05/2025 02:10:49 PM: INFO: Entered user details on signup form
+05/05/2025 02:11:00 PM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/05/2025 02:11:00 PM: ERROR: Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EC5BEFA5+77893]
+	GetHandleVerifier [0x00007FF6EC5BF000+77984]
+	(No symbol) [0x00007FF6EC3891BA]
+	(No symbol) [0x00007FF6EC3DF16D]
+	(No symbol) [0x00007FF6EC3DF41C]
+	(No symbol) [0x00007FF6EC432237]
+	(No symbol) [0x00007FF6EC40716F]
+	(No symbol) [0x00007FF6EC42F07F]
+	(No symbol) [0x00007FF6EC406F03]
+	(No symbol) [0x00007FF6EC3D0328]
+	(No symbol) [0x00007FF6EC3D1093]
+	GetHandleVerifier [0x00007FF6EC877B6D+2931725]
+	GetHandleVerifier [0x00007FF6EC872132+2908626]
+	GetHandleVerifier [0x00007FF6EC8900F3+3031443]
+	GetHandleVerifier [0x00007FF6EC5D91EA+184970]
+	GetHandleVerifier [0x00007FF6EC5E086F+215311]
+	GetHandleVerifier [0x00007FF6EC5C6EC4+110436]
+	GetHandleVerifier [0x00007FF6EC5C7072+110866]
+	GetHandleVerifier [0x00007FF6EC5AD479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/05/2025 02:11:00 PM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/05/2025 02:11:56 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 02:11:57 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 02:11:57 PM: INFO: Generated test email: vishaltest_20250505141157@yopmail.edu, mobile: 9914590957
+05/05/2025 02:11:57 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 02:11:57 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 02:11:58 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 02:11:58 PM: INFO: Uploaded file name: sample.jpeg
+05/05/2025 02:11:59 PM: INFO: Entered user details on signup form
+05/05/2025 02:11:59 PM: INFO: Clicked on 'Join Now' button
+05/05/2025 02:11:59 PM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:11:59 PM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:11:59 PM: INFO: Text on Confirm Register Popup is correct
+05/05/2025 02:11:59 PM: INFO: Clicked 'OK' on confirmation popup
+05/05/2025 02:11:59 PM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/05/2025 02:14:17 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 02:14:19 PM: INFO: Navigated to URL: https://para.unada.in/
+05/05/2025 02:14:19 PM: INFO: Browser window maximized
+05/05/2025 02:14:19 PM: INFO: Generated test email: vishaltest_20250505141419@yopmail.edu
+05/05/2025 02:14:19 PM: INFO: Generated test mobile number: 8749794388
+05/05/2025 02:14:19 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 02:14:20 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 02:14:20 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 02:14:20 PM: INFO: Entered full name
+05/05/2025 02:14:20 PM: INFO: Entered email address
+05/05/2025 02:14:20 PM: INFO: Entered mobile number
+05/05/2025 02:14:20 PM: INFO: Entered city
+05/05/2025 02:14:21 PM: INFO: Selected college
+05/05/2025 02:14:21 PM: INFO: Selected college from dropdown
+05/05/2025 02:14:21 PM: INFO: Uploaded ID proof file: sample.jpeg
+05/05/2025 02:14:21 PM: INFO: Entered password
+05/05/2025 02:14:22 PM: INFO: Clicked on 'Join Now' button
+05/05/2025 02:14:23 PM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:14:23 PM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:14:23 PM: INFO: Confirmation text matched successfully
+05/05/2025 02:14:23 PM: INFO: Clicked 'OK' on confirmation popup
+05/05/2025 02:14:23 PM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/05/2025 02:14:25 PM: INFO: Browser session ended and driver quit
+05/05/2025 02:15:23 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 02:15:25 PM: INFO: Navigated to URL: https://para.unada.in/
+05/05/2025 02:15:25 PM: INFO: Browser window maximized
+05/05/2025 02:15:25 PM: INFO: Generated test email: vishaltest_20250505141525@yopmail.edu
+05/05/2025 02:15:25 PM: INFO: Generated test mobile number: 9936209450
+05/05/2025 02:15:26 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 02:15:26 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 02:15:26 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 02:15:26 PM: INFO: Entered full name
+05/05/2025 02:15:27 PM: INFO: Entered email address
+05/05/2025 02:15:27 PM: INFO: Entered mobile number
+05/05/2025 02:15:27 PM: INFO: Entered city
+05/05/2025 02:15:27 PM: INFO: Selected college
+05/05/2025 02:15:27 PM: INFO: Selected college from dropdown
+05/05/2025 02:15:28 PM: INFO: Uploaded ID proof file: sample.jpeg
+05/05/2025 02:15:28 PM: INFO: Entered password
+05/05/2025 02:15:28 PM: INFO: Clicked on 'Join Now' button
+05/05/2025 02:15:29 PM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:15:29 PM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:15:29 PM: INFO: Confirmation text matched successfully
+05/05/2025 02:15:29 PM: INFO: Clicked 'OK' on confirmation popup
+05/05/2025 02:15:29 PM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/05/2025 02:15:31 PM: INFO: Browser session ended and driver quit
+05/05/2025 02:19:46 PM: INFO: ********** Test 001 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 02:19:50 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 02:19:50 PM: INFO: Generated test email: vishaltest_20250505141950@yopmail.com, mobile: 7623981434
+05/05/2025 02:19:50 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 02:19:50 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 02:19:51 PM: INFO: Entered user details on signup form
+05/05/2025 02:19:51 PM: INFO: Clicked on 'Join Now' button
+05/05/2025 02:19:52 PM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:19:52 PM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:19:52 PM: INFO: Text on Confirm Register Popup is correct
+05/05/2025 02:19:52 PM: INFO: Clicked 'OK' on confirmation popup
+05/05/2025 02:19:52 PM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/05/2025 02:19:56 PM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/05/2025 02:19:58 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 02:19:59 PM: INFO: Clicked on 'Explore AI' button
+05/05/2025 02:19:59 PM: INFO: Clicked on 'Sign Up' button
+05/05/2025 02:19:59 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 02:19:59 PM: INFO: Label text for 'Select College': Select Collage
+05/05/2025 02:19:59 PM: INFO: Label text for 'Select College' is correct
+05/05/2025 02:19:59 PM: INFO: Clicked on 'Professional Plan' button
+05/05/2025 02:19:59 PM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/05/2025 02:19:59 PM: INFO: All error messages for mandatory fields are displayed correctly
+05/05/2025 02:20:03 PM: INFO: ********** Test 003 : Verifying Signup Page Text **********
+05/05/2025 02:20:05 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 02:20:05 PM: INFO: Browser window maximized
+05/05/2025 02:20:05 PM: INFO: Page objects initialized
+05/05/2025 02:20:06 PM: INFO: Clicked on 'Explore AI' button
+05/05/2025 02:20:06 PM: INFO: Clicked on 'Sign Up' button
+05/05/2025 02:20:06 PM: INFO: Retrieved text from the signup page
+05/05/2025 02:20:06 PM: INFO: Expected text: Sign Up Here!
+05/05/2025 02:20:06 PM: INFO: Actual text: Sign Up Here!
+05/05/2025 02:20:06 PM: INFO: Text on Signup Page is correct
+05/05/2025 02:20:06 PM: INFO: ********** Signup Page Text Verification Completed Successfully **********
+05/05/2025 02:20:08 PM: INFO: Browser closed
+05/05/2025 02:20:09 PM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/05/2025 02:20:12 PM: INFO: Navigated to https://para.unada.in/
+05/05/2025 02:20:12 PM: INFO: Clicked on 'Explore AI' button
+05/05/2025 02:20:12 PM: INFO: Clicked on 'Sign Up' button
+05/05/2025 02:20:14 PM: INFO: Entered password
+05/05/2025 02:20:16 PM: INFO: Clicked on 'Show Password' button
+05/05/2025 02:20:18 PM: INFO: Clicked on 'Show Password' button again to hide
+05/05/2025 02:20:20 PM: INFO: Password is visible
+05/05/2025 02:20:20 PM: INFO: ********** Password Show/Hide Functionality Verification PASSED **********
+05/05/2025 02:20:20 PM: INFO: Closing the browser
+05/05/2025 02:20:24 PM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/05/2025 02:20:26 PM: INFO: Navigated to URL: https://para.unada.in/
+05/05/2025 02:20:26 PM: INFO: Browser window maximized
+05/05/2025 02:20:26 PM: INFO: Generated test email: vishaltest_20250505142026@yopmail.edu
+05/05/2025 02:20:26 PM: INFO: Generated test mobile number: 9459158390
+05/05/2025 02:20:26 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/05/2025 02:20:26 PM: INFO: Clicked on 'Sign Up' button on login page
+05/05/2025 02:20:26 PM: INFO: Clicked on 'Student Plan' button
+05/05/2025 02:20:26 PM: INFO: Entered full name
+05/05/2025 02:20:27 PM: INFO: Entered email address
+05/05/2025 02:20:27 PM: INFO: Entered mobile number
+05/05/2025 02:20:27 PM: INFO: Entered city
+05/05/2025 02:20:27 PM: INFO: Selected college
+05/05/2025 02:20:27 PM: INFO: Selected college from dropdown
+05/05/2025 02:20:27 PM: INFO: Uploaded ID proof file: sample.jpeg
+05/05/2025 02:20:27 PM: INFO: Entered password
+05/05/2025 02:20:27 PM: INFO: Clicked on 'Join Now' button
+05/05/2025 02:20:28 PM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:20:28 PM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/05/2025 02:20:28 PM: INFO: Confirmation text matched successfully
+05/05/2025 02:20:28 PM: INFO: Clicked 'OK' on confirmation popup
+05/05/2025 02:20:28 PM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/05/2025 02:20:30 PM: INFO: Browser session ended and driver quit
+05/06/2025 09:53:55 AM: INFO: ********** Test 001 : TestSignupPage: Verifying Signup Page **********
+05/06/2025 09:53:57 AM: INFO: Navigated to https://para.unada.in/
+05/06/2025 09:53:57 AM: INFO: Generated test email: vishaltest_20250506095357@yopmail.com, mobile: 8399219584
+05/06/2025 09:53:57 AM: INFO: Clicked on 'Explore AI' button on homepage
+05/06/2025 09:53:57 AM: INFO: Clicked on 'Sign Up' button on login page
+05/06/2025 09:53:58 AM: INFO: Entered user details on signup form
+05/06/2025 09:53:58 AM: INFO: Clicked on 'Join Now' button
+05/06/2025 09:53:59 AM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/06/2025 09:53:59 AM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/06/2025 09:53:59 AM: INFO: Text on Confirm Register Popup is correct
+05/06/2025 09:53:59 AM: INFO: Clicked 'OK' on confirmation popup
+05/06/2025 09:53:59 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/06/2025 09:54:02 AM: INFO: ********** Test 002 : Verifying Signup Page Mandatory Fields **********
+05/06/2025 09:54:04 AM: INFO: Navigated to https://para.unada.in/
+05/06/2025 09:54:04 AM: INFO: Clicked on 'Explore AI' button
+05/06/2025 09:54:04 AM: INFO: Clicked on 'Sign Up' button
+05/06/2025 09:54:04 AM: INFO: Clicked on 'Student Plan' button
+05/06/2025 09:54:04 AM: INFO: Label text for 'Select College': Select Collage
+05/06/2025 09:54:04 AM: INFO: Label text for 'Select College' is correct
+05/06/2025 09:54:04 AM: INFO: Clicked on 'Professional Plan' button
+05/06/2025 09:54:04 AM: INFO: Clicked on 'Join Now' button without entering mandatory fields
+05/06/2025 09:54:05 AM: INFO: All error messages for mandatory fields are displayed correctly
+05/06/2025 09:54:08 AM: INFO: ********** Test 003 : Verifying Signup Page Text **********
+05/06/2025 09:54:09 AM: INFO: Navigated to https://para.unada.in/
+05/06/2025 09:54:10 AM: INFO: Browser window maximized
+05/06/2025 09:54:10 AM: INFO: Page objects initialized
+05/06/2025 09:54:10 AM: INFO: Clicked on 'Explore AI' button
+05/06/2025 09:54:10 AM: INFO: Clicked on 'Sign Up' button
+05/06/2025 09:54:10 AM: INFO: Retrieved text from the signup page
+05/06/2025 09:54:10 AM: INFO: Expected text: Sign Up Here!
+05/06/2025 09:54:10 AM: INFO: Actual text: Sign Up Here!
+05/06/2025 09:54:10 AM: INFO: Text on Signup Page is correct
+05/06/2025 09:54:10 AM: INFO: ********** Signup Page Text Verification Completed Successfully **********
+05/06/2025 09:54:12 AM: INFO: Browser closed
+05/06/2025 09:54:14 AM: INFO: ********** Test 004 : Verifying Password Show/Hide Functionality **********
+05/06/2025 09:54:15 AM: INFO: Navigated to https://para.unada.in/
+05/06/2025 09:54:15 AM: INFO: Clicked on 'Explore AI' button
+05/06/2025 09:54:15 AM: INFO: Clicked on 'Sign Up' button
+05/06/2025 09:54:17 AM: INFO: Entered password
+05/06/2025 09:54:20 AM: INFO: Clicked on 'Show Password' button
+05/06/2025 09:54:22 AM: INFO: Clicked on 'Show Password' button again to hide
+05/06/2025 09:54:24 AM: INFO: Password is visible
+05/06/2025 09:54:24 AM: INFO: ********** Password Show/Hide Functionality Verification PASSED **********
+05/06/2025 09:54:24 AM: INFO: Closing the browser
+05/06/2025 09:54:27 AM: INFO: ********** Test 005 : TestSignupPage: Verifying Signup Page **********
+05/06/2025 09:54:29 AM: INFO: Navigated to URL: https://para.unada.in/
+05/06/2025 09:54:29 AM: INFO: Browser window maximized
+05/06/2025 09:54:29 AM: INFO: Generated test email: vishaltest_20250506095429@yopmail.edu
+05/06/2025 09:54:29 AM: INFO: Generated test mobile number: 7632603933
+05/06/2025 09:54:29 AM: INFO: Clicked on 'Explore AI' button on homepage
+05/06/2025 09:54:29 AM: INFO: Clicked on 'Sign Up' button on login page
+05/06/2025 09:54:29 AM: INFO: Clicked on 'Student Plan' button
+05/06/2025 09:54:29 AM: INFO: Entered full name
+05/06/2025 09:54:30 AM: INFO: Entered email address
+05/06/2025 09:54:30 AM: INFO: Entered mobile number
+05/06/2025 09:54:30 AM: INFO: Entered city
+05/06/2025 09:54:30 AM: INFO: Selected college
+05/06/2025 09:54:30 AM: INFO: Selected college from dropdown
+05/06/2025 09:54:30 AM: INFO: Uploaded ID proof file: sample.jpeg
+05/06/2025 09:54:30 AM: INFO: Entered password
+05/06/2025 09:54:30 AM: INFO: Clicked on 'Join Now' button
+05/06/2025 09:54:31 AM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/06/2025 09:54:31 AM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/06/2025 09:54:31 AM: INFO: Confirmation text matched successfully
+05/06/2025 09:54:31 AM: INFO: Clicked 'OK' on confirmation popup
+05/06/2025 09:54:31 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/06/2025 09:54:33 AM: INFO: Browser session ended and driver quit
+05/06/2025 09:54:35 AM: INFO: ********** Test 001 : TestSignupPage: Verifying Signup Page **********
+05/06/2025 09:54:36 AM: INFO: Navigated to https://para.unada.in/
+05/06/2025 09:54:36 AM: INFO: Generated test email: vishaltest_20250506095436yopmail.com, mobile: 7272282821
+05/06/2025 09:54:36 AM: INFO: Clicked on 'Explore AI' button on homepage
+05/06/2025 09:54:36 AM: INFO: Clicked on 'Sign Up' button on login page
+05/06/2025 09:54:37 AM: INFO: Entered user details on signup form
+05/06/2025 09:54:37 AM: INFO: Clicked on 'Join Now' button
+05/06/2025 09:54:37 AM: INFO: Expected confirmation text: Invalid email
+05/06/2025 09:54:37 AM: INFO: Actual confirmation text: Invalid email
+05/06/2025 09:54:37 AM: INFO: Text on Confirm Register Popup is correct
+05/06/2025 09:54:37 AM: ERROR: ********** TestSignupPage: Signup Page Verification FAILED **********
+05/06/2025 09:54:37 AM: ERROR: Exception occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Ok']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/06/2025 09:54:37 AM: INFO: Screenshot saved to: ./Screenshots/test_signup_page_failure.png
+05/06/2025 09:57:14 AM: INFO: ********** Test 001 : TestSignupPage: Verifying Signup Page **********
+05/06/2025 09:57:17 AM: INFO: Navigated to https://para.unada.in/
+05/06/2025 09:57:17 AM: INFO: Generated test email: vishaltest_20250506095717yopmail.com, mobile: 7671096382
+05/06/2025 09:57:17 AM: INFO: Clicked on 'Explore AI' button on homepage
+05/06/2025 09:57:17 AM: INFO: Clicked on 'Sign Up' button on login page
+05/06/2025 09:57:18 AM: INFO: Entered user details on signup form
+05/06/2025 09:57:18 AM: INFO: Clicked on 'Join Now' button
+05/06/2025 09:57:18 AM: INFO: Expected confirmation text: Invalid email
+05/06/2025 09:57:18 AM: INFO: Actual confirmation text: Invalid email
+05/06/2025 09:57:18 AM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/06/2025 10:20:02 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:20:02 AM: INFO: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:20:04 AM: INFO: Browser window maximized
+05/06/2025 10:20:04 AM: INFO: Generated test data - Email: vishaltest_20250506102004@yopmail.com, Mobile Number: 1843488854
+05/06/2025 10:20:04 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:20:04 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:20:04 AM: INFO: Filling in user details on signup form
+05/06/2025 10:20:05 AM: INFO: Submitting the signup form by clicking 'Join Now'
+05/06/2025 10:20:05 AM: ERROR: Test Failed: Exception occurred during signup test with invalid email
+05/06/2025 10:20:05 AM: ERROR: Exception details: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 529, in test_signup_invalid_mobile_number_wrong_start
+    actual_text = signUPPage.get_Error_Message_Mobile_Number()
+  File "C:\Users\DELL\PycharmProjects\DemoProject\pageObject\signuppage.py", line 194, in get_Error_Message_Mobile_Number
+    return self.driver.find_element(By.XPATH, self.errorMessageMobileXpath).text
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/06/2025 10:20:05 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:20:05 AM: INFO: Closing the browser session
+05/06/2025 10:24:51 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:24:51 AM: INFO: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:24:53 AM: INFO: Browser window maximized
+05/06/2025 10:24:53 AM: ERROR: Test Failed: Exception occurred during signup test with invalid email
+05/06/2025 10:24:53 AM: ERROR: Exception details: 'str' object has no attribute 'invalid_type' and no __dict__ for setting new attributes
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 505, in test_signup_invalid_mobile_number_wrong_start
+    mobile_number = DG.generate_invalid_mobile_number().invalid_type = 'non_digit'
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'invalid_type' and no __dict__ for setting new attributes
+05/06/2025 10:24:53 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:24:53 AM: INFO: Closing the browser session
+05/06/2025 10:27:46 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:27:46 AM: INFO: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:27:49 AM: INFO: Browser window maximized
+05/06/2025 10:27:49 AM: INFO: Generated test data - Email: vishaltest_20250506102749@yopmail.com, Mobile Number: 77416065
+05/06/2025 10:27:49 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:27:49 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:27:49 AM: INFO: Filling in user details on signup form
+05/06/2025 10:27:50 AM: INFO: Submitting the signup form by clicking 'Join Now'
+05/06/2025 10:27:50 AM: INFO: Expected error message: String must contain at least 10 character(s)
+05/06/2025 10:27:50 AM: INFO: Actual error message received: String must contain at least 10 character(s)
+05/06/2025 10:27:50 AM: INFO: Test Passed: Signup page correctly handled invalid email input
+05/06/2025 10:27:50 AM: INFO: Closing the browser session
+05/06/2025 10:35:42 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:35:42 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:35:44 AM: INFO: Browser window maximized
+05/06/2025 10:35:44 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 10:35:44 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 10:35:44 AM: INFO: Generated test data - Email: vishaltest_20250506103544@yopmail.com, Mobile Number: 6557442049
+05/06/2025 10:35:44 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 10:35:44 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:35:44 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:35:44 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 10:35:45 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 10:35:45 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 10:35:45 AM: ERROR: Test Failed: Exception occurred during signup test with invalid mobile number
+05/06/2025 10:35:45 AM: ERROR: Exception details: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 533, in test_signup_invalid_mobile_number_wrong_start
+    actual_text = signUPPage.get_Error_Message_Mobile_Number()
+  File "C:\Users\DELL\PycharmProjects\DemoProject\pageObject\signuppage.py", line 194, in get_Error_Message_Mobile_Number
+    return self.driver.find_element(By.XPATH, self.errorMessageMobileXpath).text
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/06/2025 10:35:45 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:35:45 AM: INFO: Closing the browser session
+05/06/2025 10:36:03 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:36:03 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:36:05 AM: INFO: Browser window maximized
+05/06/2025 10:36:05 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 10:36:05 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 10:36:05 AM: INFO: Generated test data - Email: vishaltest_20250506103605@yopmail.com, Mobile Number: 6376672127
+05/06/2025 10:36:05 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 10:36:05 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:36:05 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:36:05 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 10:36:06 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 10:36:06 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 10:36:06 AM: ERROR: Test Failed: Exception occurred during signup test with invalid mobile number
+05/06/2025 10:36:06 AM: ERROR: Exception details: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 533, in test_signup_invalid_mobile_number_wrong_start
+    actual_text = signUPPage.get_Error_Message_Mobile_Number()
+  File "C:\Users\DELL\PycharmProjects\DemoProject\pageObject\signuppage.py", line 194, in get_Error_Message_Mobile_Number
+    return self.driver.find_element(By.XPATH, self.errorMessageMobileXpath).text
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/06/2025 10:36:06 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:36:06 AM: INFO: Closing the browser session
+05/06/2025 10:40:04 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:40:04 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:40:07 AM: INFO: Browser window maximized
+05/06/2025 10:40:07 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 10:40:07 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 10:40:07 AM: INFO: Generated test data - Email: vishaltest_20250506104007@yopmail.com, Mobile Number: 841054572461
+05/06/2025 10:40:07 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 10:40:07 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:40:07 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:40:07 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 10:40:12 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 10:40:12 AM: ERROR: Test Failed: Exception occurred during signup test with invalid mobile number
+05/06/2025 10:40:12 AM: ERROR: Exception details: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 533, in test_signup_invalid_mobile_number_wrong_start
+    actual_text = signUPPage.get_Error_Message_Mobile_Number()
+  File "C:\Users\DELL\PycharmProjects\DemoProject\pageObject\signuppage.py", line 194, in get_Error_Message_Mobile_Number
+    return self.driver.find_element(By.XPATH, self.errorMessageMobileXpath).text
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/06/2025 10:40:13 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:40:13 AM: INFO: Closing the browser session
+05/06/2025 10:42:04 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:42:04 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:42:06 AM: INFO: Browser window maximized
+05/06/2025 10:42:06 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 10:42:06 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 10:42:06 AM: INFO: Generated test data - Email: vishaltest_20250506104206@yopmail.com, Mobile Number: 51253637228
+05/06/2025 10:42:06 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 10:42:06 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:42:06 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:42:06 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 10:42:07 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 10:42:07 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 10:42:07 AM: ERROR: Test Failed: Exception occurred during signup test with invalid mobile number
+05/06/2025 10:42:07 AM: ERROR: Exception details: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 533, in test_signup_invalid_mobile_number_wrong_start
+    actual_text = signUPPage.get_Error_Message_Mobile_Number()
+  File "C:\Users\DELL\PycharmProjects\DemoProject\pageObject\signuppage.py", line 194, in get_Error_Message_Mobile_Number
+    return self.driver.find_element(By.XPATH, self.errorMessageMobileXpath).text
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at least 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/06/2025 10:42:07 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:42:07 AM: INFO: Closing the browser session
+05/06/2025 10:44:59 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:44:59 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:45:00 AM: INFO: Browser window maximized
+05/06/2025 10:45:00 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 10:45:00 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 10:45:00 AM: INFO: Generated test data - Email: vishaltest_20250506104500@yopmail.com, Mobile Number: 647871374
+05/06/2025 10:45:00 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 10:45:00 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:45:00 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:45:00 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 10:45:01 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 10:45:01 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 10:45:01 AM: ERROR: Test Failed: Exception occurred during signup test with invalid mobile number
+05/06/2025 10:45:01 AM: ERROR: Exception details: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at most 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 533, in test_signup_invalid_mobile_number_wrong_start
+    actual_text = signUPPage.get_Error_Message_Mobile_Number()
+  File "C:\Users\DELL\PycharmProjects\DemoProject\pageObject\signuppage.py", line 194, in get_Error_Message_Mobile_Number
+    return self.driver.find_element(By.XPATH, self.errorMessageMobileXpath).text
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//p[normalize-space()='String must contain at most 10 character(s)']"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/06/2025 10:45:01 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:45:01 AM: INFO: Closing the browser session
+05/06/2025 10:47:30 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:47:30 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:47:33 AM: INFO: Browser window maximized
+05/06/2025 10:47:33 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 10:47:33 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 10:47:33 AM: INFO: Generated test data - Email: vishaltest_20250506104733@yopmail.com, Mobile Number: 40520872478
+05/06/2025 10:47:33 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 10:47:33 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:47:34 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:47:34 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 10:47:34 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 10:47:34 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 10:47:35 AM: INFO: Expected error message: String must contain at least 10 character(s)
+05/06/2025 10:47:35 AM: INFO: Actual error message received: String must contain at most 10 character(s)
+05/06/2025 10:47:35 AM: ERROR: Test Failed: Exception occurred during signup test with invalid mobile number
+05/06/2025 10:47:35 AM: ERROR: Exception details: Error message mismatch for invalid email
+assert 'String must ... character(s)' == 'String must ... character(s)'
+  
+  - String must contain at most 10 character(s)
+  ?                        ^^
+  + String must contain at least 10 character(s)
+  ?                        ^^^
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 539, in test_signup_invalid_mobile_number_wrong_start
+    assert expected_text == actual_text, "Error message mismatch for invalid email"
+AssertionError: Error message mismatch for invalid email
+assert 'String must ... character(s)' == 'String must ... character(s)'
+  
+  - String must contain at most 10 character(s)
+  ?                        ^^
+  + String must contain at least 10 character(s)
+  ?                        ^^^
+05/06/2025 10:47:35 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:47:35 AM: INFO: Closing the browser session
+05/06/2025 10:50:37 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:50:37 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:50:40 AM: INFO: Browser window maximized
+05/06/2025 10:50:40 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 10:50:40 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 10:50:40 AM: INFO: Generated test data - Email: vishaltest_20250506105040@yopmail.com, Mobile Number: 1914622822
+05/06/2025 10:50:40 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 10:50:40 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:50:40 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:50:41 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 10:50:41 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 10:50:41 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 10:50:51 AM: ERROR: Test Failed: Exception occurred during signup test with invalid mobile number
+05/06/2025 10:50:51 AM: ERROR: Exception details: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 533, in test_signup_invalid_mobile_number_wrong_start
+    actual_text = signUPPage.get_Error_Message_Mobile_Number()
+  File "C:\Users\DELL\PycharmProjects\DemoProject\pageObject\signuppage.py", line 195, in get_Error_Message_Mobile_Number
+    error_message_element = WebDriverWait(self.driver, 10).until(
+        EC.visibility_of_element_located((By.XPATH, self.errorMessageMobileXpath))
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/06/2025 10:50:52 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:50:52 AM: INFO: Closing the browser session
+05/06/2025 10:53:46 AM: INFO: ========== Test 007: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 10:53:46 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 10:53:47 AM: INFO: Browser window maximized
+05/06/2025 10:53:47 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 10:53:47 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 10:53:47 AM: INFO: Generated test data - Email: vishaltest_20250506105347@yopmail.com, Mobile Number: 2p5Z3005P9
+05/06/2025 10:53:47 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 10:53:47 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 10:53:48 AM: INFO: Navigating to signup page from login page
+05/06/2025 10:53:48 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 10:53:48 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 10:53:48 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 10:53:59 AM: ERROR: Test Failed: Exception occurred during signup test with invalid mobile number
+05/06/2025 10:53:59 AM: ERROR: Exception details: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\DemoProject\TestCases\test_signup_page.py", line 533, in test_signup_invalid_mobile_number_wrong_start
+    actual_text = signUPPage.get_Error_Message_Mobile_Number()
+  File "C:\Users\DELL\PycharmProjects\DemoProject\pageObject\signuppage.py", line 195, in get_Error_Message_Mobile_Number
+    error_message_element = WebDriverWait(self.driver, 10).until(
+        EC.visibility_of_element_located((By.XPATH, self.errorMessageMobileXpath))
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6D68FEFA5+77893]
+	GetHandleVerifier [0x00007FF6D68FF000+77984]
+	(No symbol) [0x00007FF6D66C91BA]
+	(No symbol) [0x00007FF6D671F16D]
+	(No symbol) [0x00007FF6D671F41C]
+	(No symbol) [0x00007FF6D6772237]
+	(No symbol) [0x00007FF6D674716F]
+	(No symbol) [0x00007FF6D676F07F]
+	(No symbol) [0x00007FF6D6746F03]
+	(No symbol) [0x00007FF6D6710328]
+	(No symbol) [0x00007FF6D6711093]
+	GetHandleVerifier [0x00007FF6D6BB7B6D+2931725]
+	GetHandleVerifier [0x00007FF6D6BB2132+2908626]
+	GetHandleVerifier [0x00007FF6D6BD00F3+3031443]
+	GetHandleVerifier [0x00007FF6D69191EA+184970]
+	GetHandleVerifier [0x00007FF6D692086F+215311]
+	GetHandleVerifier [0x00007FF6D6906EC4+110436]
+	GetHandleVerifier [0x00007FF6D6907072+110866]
+	GetHandleVerifier [0x00007FF6D68ED479+5401]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/06/2025 10:53:59 AM: INFO: Failure screenshot saved at: ./Screenshots/test_signup_page_with_invalid_emailID_failure.png
+05/06/2025 10:53:59 AM: INFO: Closing the browser session
+05/06/2025 11:02:13 AM: INFO: ========== Test 008: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 11:02:13 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 11:02:15 AM: INFO: Browser window maximized
+05/06/2025 11:02:15 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 11:02:15 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 11:02:15 AM: INFO: Generated test data - Email: vishaltest_20250506110215@yopmail.com, Mobile Number: 7374984260
+05/06/2025 11:02:15 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 11:02:15 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 11:02:15 AM: INFO: Navigating to signup page from login page
+05/06/2025 11:02:15 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 11:02:16 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 11:02:16 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 11:02:16 AM: INFO: Expected error message: String must contain at least 3 character(s)
+05/06/2025 11:02:16 AM: INFO: Actual error message received: String must contain at least 3 character(s)
+05/06/2025 11:02:16 AM: INFO: Test Passed: Signup page correctly handled invalid mobile number input
+05/06/2025 11:02:16 AM: INFO: Closing the browser session
+05/06/2025 11:02:55 AM: INFO: ========== Test 008: Verifying Signup Page with Invalid Email ID ==========
+05/06/2025 11:02:55 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 11:02:58 AM: INFO: Browser window maximized
+05/06/2025 11:02:58 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 11:02:58 AM: INFO: Step 3: Generating test data with invalid mobile number
+05/06/2025 11:02:58 AM: INFO: Generated test data - Email: vishaltest_20250506110258@yopmail.com, Mobile Number: 8002174069
+05/06/2025 11:02:58 AM: INFO: Step 4: Navigating through homepage to signup page
+05/06/2025 11:02:58 AM: INFO: Clicking on 'Explore AI' button from homepage
+05/06/2025 11:02:59 AM: INFO: Navigating to signup page from login page
+05/06/2025 11:02:59 AM: INFO: Step 5: Filling in user details on signup form
+05/06/2025 11:02:59 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 11:02:59 AM: INFO: Step 7: Verifying error message for invalid mobile number
+05/06/2025 11:02:59 AM: INFO: Expected error message: String must contain at least 3 character(s)
+05/06/2025 11:02:59 AM: INFO: Actual error message received: String must contain at least 3 character(s)
+05/06/2025 11:02:59 AM: INFO: Test Passed: Signup page correctly handled invalid mobile number input
+05/06/2025 11:02:59 AM: INFO: Closing the browser session
+05/06/2025 11:06:42 AM: INFO: ========== Test 008: Verifying Signup Page with Invalid Name ==========
+05/06/2025 11:06:42 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 11:06:44 AM: INFO: Browser window maximized successfully
+05/06/2025 11:06:44 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 11:06:44 AM: INFO: Page Objects and Data Generator initialized successfully
+05/06/2025 11:06:44 AM: INFO: Step 3: Generating test data for signup form
+05/06/2025 11:06:44 AM: INFO: Generated Email: vishaltest_20250506110644@yopmail.com
+05/06/2025 11:06:44 AM: INFO: Generated Mobile Number: 8569981393
+05/06/2025 11:06:44 AM: INFO: Step 4: Navigating from homepage to signup page
+05/06/2025 11:06:44 AM: INFO: Clicking on 'Explore AI' button
+05/06/2025 11:06:44 AM: INFO: Clicked on 'Explore AI' button
+05/06/2025 11:06:44 AM: INFO: Clicking on 'Signup' link on Login Page
+05/06/2025 11:06:44 AM: INFO: Navigated to Signup Page
+05/06/2025 11:06:44 AM: INFO: Step 5: Filling in signup form with test data
+05/06/2025 11:06:44 AM: INFO: Using invalid full name: dx
+05/06/2025 11:06:45 AM: INFO: Filled all fields in signup form
+05/06/2025 11:06:45 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 11:06:45 AM: INFO: Clicked on 'Join Now'
+05/06/2025 11:06:45 AM: INFO: Step 7: Verifying error message for invalid full name input
+05/06/2025 11:06:45 AM: INFO: Expected Error Message: String must contain at least 3 character(s)
+05/06/2025 11:06:45 AM: INFO: Actual Error Message: String must contain at least 3 character(s)
+05/06/2025 11:06:45 AM: INFO: Test Passed: Signup page correctly handled invalid full name input
+05/06/2025 11:06:45 AM: INFO: Closing the browser session
+05/06/2025 11:16:29 AM: INFO: ========== Test 009: Verifying Signup Page with Invalid Name ==========
+05/06/2025 11:16:29 AM: INFO: Step 1: Navigating to application URL: https://para.unada.in/
+05/06/2025 11:16:30 AM: INFO: Browser window maximized successfully
+05/06/2025 11:16:30 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 11:16:30 AM: INFO: Page Objects and Data Generator initialized successfully
+05/06/2025 11:16:30 AM: INFO: Step 3: Generating test data for signup form
+05/06/2025 11:16:30 AM: INFO: Generated Email: vishaltest_20250506111630@yopmail.com
+05/06/2025 11:16:30 AM: INFO: Generated Mobile Number: 7956915783
+05/06/2025 11:16:30 AM: INFO: Step 4: Navigating from homepage to signup page
+05/06/2025 11:16:30 AM: INFO: Clicking on 'Explore AI' button
+05/06/2025 11:16:31 AM: INFO: Clicked on 'Explore AI' button
+05/06/2025 11:16:31 AM: INFO: Clicking on 'Signup' link on Login Page
+05/06/2025 11:16:31 AM: INFO: Navigated to Signup Page
+05/06/2025 11:16:31 AM: INFO: Filled all fields in signup form
+05/06/2025 11:16:31 AM: INFO: Step 6: Submitting the signup form by clicking 'Join Now'
+05/06/2025 11:16:31 AM: INFO: Clicked on 'Join Now'
+05/06/2025 11:16:31 AM: INFO: Step 7: Verifying error message for invalid full name input
+05/06/2025 11:16:31 AM: INFO: Expected Error Message: String must contain at least 8 character(s)
+05/06/2025 11:16:31 AM: INFO: Actual Error Message: String must contain at least 8 character(s)
+05/06/2025 11:16:31 AM: INFO: Test Passed: Signup page correctly handled invalid full name input
+05/06/2025 11:16:31 AM: INFO: Closing the browser session
+05/06/2025 11:18:32 AM: INFO: ========== Test 009: Verifying Signup Page with Invalid Password ==========
+05/06/2025 11:18:32 AM: INFO: Step 1: Navigating to the application URL: https://para.unada.in/
+05/06/2025 11:18:37 AM: INFO: Browser window maximized successfully
+05/06/2025 11:18:37 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 11:18:37 AM: INFO: Page Objects and Data Generator initialized successfully
+05/06/2025 11:18:37 AM: INFO: Step 3: Generating test data for the signup form
+05/06/2025 11:18:37 AM: INFO: Generated test email: vishaltest_20250506111837@yopmail.com
+05/06/2025 11:18:37 AM: INFO: Generated test mobile number: 9979899600
+05/06/2025 11:18:37 AM: INFO: Step 4: Navigating to the Signup Page
+05/06/2025 11:18:37 AM: INFO: Clicking 'Explore AI' button on homepage
+05/06/2025 11:18:38 AM: INFO: 'Explore AI' button clicked
+05/06/2025 11:18:38 AM: INFO: Clicking 'Signup' link on the Login Page
+05/06/2025 11:18:38 AM: INFO: Navigated to the Signup Page
+05/06/2025 11:18:38 AM: INFO: Step 5: Filling the signup form with invalid password
+05/06/2025 11:18:39 AM: INFO: All signup form fields filled
+05/06/2025 11:18:39 AM: INFO: Step 6: Submitting the signup form
+05/06/2025 11:18:39 AM: INFO: 'Join Now' button clicked
+05/06/2025 11:18:39 AM: INFO: Step 7: Validating the error message for invalid password
+05/06/2025 11:18:39 AM: INFO: Expected Error Message: 'String must contain at least 8 character(s)'
+05/06/2025 11:18:39 AM: INFO: Actual Error Message: 'String must contain at least 8 character(s)'
+05/06/2025 11:18:39 AM: INFO: Test Passed: Signup page correctly displayed error for invalid password
+05/06/2025 11:18:39 AM: INFO: Closing the browser session
+05/06/2025 11:19:21 AM: INFO: ========== Test 009: Verifying Signup Page with Invalid Password ==========
+05/06/2025 11:19:21 AM: INFO: Step 1: Navigating to the application URL: https://para.unada.in/
+05/06/2025 11:19:25 AM: INFO: Browser window maximized successfully
+05/06/2025 11:19:25 AM: INFO: Step 2: Initializing Page Objects and Data Generator
+05/06/2025 11:19:25 AM: INFO: Page Objects and Data Generator initialized successfully
+05/06/2025 11:19:25 AM: INFO: Step 3: Generating test data for the signup form
+05/06/2025 11:19:25 AM: INFO: Generated test email: vishaltest_20250506111925@yopmail.com
+05/06/2025 11:19:25 AM: INFO: Generated test mobile number: 8679548201
+05/06/2025 11:19:25 AM: INFO: Step 4: Navigating to the Signup Page
+05/06/2025 11:19:25 AM: INFO: Clicking 'Explore AI' button on homepage
+05/06/2025 11:19:25 AM: INFO: 'Explore AI' button clicked
+05/06/2025 11:19:25 AM: INFO: Clicking 'Signup' link on the Login Page
+05/06/2025 11:19:25 AM: INFO: Navigated to the Signup Page
+05/06/2025 11:19:25 AM: INFO: Step 5: Filling the signup form with invalid password
+05/06/2025 11:19:30 AM: INFO: All signup form fields filled
+05/06/2025 11:19:35 AM: INFO: Step 6: Submitting the signup form
+05/06/2025 11:19:36 AM: INFO: 'Join Now' button clicked
+05/06/2025 11:19:36 AM: INFO: Step 7: Validating the error message for invalid password
+05/06/2025 11:19:36 AM: INFO: Expected Error Message: 'String must contain at least 8 character(s)'
+05/06/2025 11:19:36 AM: INFO: Actual Error Message: 'String must contain at least 8 character(s)'
+05/06/2025 11:19:36 AM: INFO: Test Passed: Signup page correctly displayed error for invalid password
+05/06/2025 11:19:36 AM: INFO: Closing the browser session
+05/06/2025 02:26:18 PM: INFO: ********** Test 001 : TestSignupPage: Verifying Signup Page **********
+05/06/2025 02:26:24 PM: INFO: Navigated to https://para.unada.in/
+05/06/2025 02:26:24 PM: INFO: Generated test email: vishaltest_20250506142624@yopmail.com, mobile: 7871557945
+05/06/2025 02:26:25 PM: INFO: Clicked on 'Explore AI' button on homepage
+05/06/2025 02:26:25 PM: INFO: Clicked on 'Sign Up' button on login page
+05/06/2025 02:26:25 PM: INFO: Entered user details on signup form
+05/06/2025 02:26:26 PM: INFO: Clicked on 'Join Now' button
+05/06/2025 02:26:27 PM: INFO: Expected confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/06/2025 02:26:27 PM: INFO: Actual confirmation text: We are giving you 20 free credits to start your case law research. Kindly create a new (first) chat session and start querying in the query window.
+05/06/2025 02:26:27 PM: INFO: Text on Confirm Register Popup is correct
+05/06/2025 02:26:27 PM: INFO: Clicked 'OK' on confirmation popup
+05/06/2025 02:26:27 PM: INFO: ********** TestSignupPage: Signup Page Verification Completed Successfully **********
+05/06/2025 02:56:03 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 02:56:09 PM: INFO: Clicking login button on the homepage
+05/06/2025 02:56:09 PM: INFO: Entering username
+05/06/2025 02:56:09 PM: INFO: Entering password
+05/06/2025 02:56:39 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 02:56:41 PM: INFO: Clicking login button on the homepage
+05/06/2025 02:56:41 PM: INFO: Entering username
+05/06/2025 02:56:41 PM: INFO: Entering password
+05/06/2025 02:56:41 PM: INFO: Clicking login button
+05/06/2025 02:56:42 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:04:15 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 03:04:16 PM: INFO: Clicking login button on the homepage
+05/06/2025 03:04:17 PM: INFO: Entering username
+05/06/2025 03:04:17 PM: INFO: Entering password
+05/06/2025 03:04:17 PM: INFO: Clicking login button
+05/06/2025 03:04:18 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:07:00 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 03:07:02 PM: INFO: Clicking login button on the homepage
+05/06/2025 03:07:02 PM: INFO: Entering username
+05/06/2025 03:07:02 PM: INFO: Entering password
+05/06/2025 03:07:03 PM: INFO: Clicking login button
+05/06/2025 03:07:04 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:09:28 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 03:09:30 PM: INFO: Clicking login button on the homepage
+05/06/2025 03:09:30 PM: INFO: Entering username
+05/06/2025 03:09:30 PM: INFO: Entering password
+05/06/2025 03:09:30 PM: INFO: Clicking login button
+05/06/2025 03:09:31 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:10:11 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 03:10:12 PM: INFO: Clicking login button on the homepage
+05/06/2025 03:10:12 PM: INFO: Entering username
+05/06/2025 03:10:12 PM: INFO: Entering password
+05/06/2025 03:10:12 PM: INFO: Clicking login button
+05/06/2025 03:10:14 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:15:39 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 03:15:40 PM: INFO: Clicking login button on the homepage
+05/06/2025 03:15:41 PM: INFO: Entering username
+05/06/2025 03:15:41 PM: INFO: Entering password
+05/06/2025 03:15:41 PM: INFO: Clicking login button
+05/06/2025 03:15:42 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:19:19 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 03:19:23 PM: INFO: Clicking login button on the homepage
+05/06/2025 03:19:23 PM: INFO: Entering username
+05/06/2025 03:19:23 PM: INFO: Entering password
+05/06/2025 03:19:23 PM: INFO: Clicking login button
+05/06/2025 03:19:26 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:22:16 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 03:22:19 PM: INFO: Clicking login button on the homepage
+05/06/2025 03:22:19 PM: INFO: Entering username
+05/06/2025 03:22:19 PM: INFO: Entering password
+05/06/2025 03:22:19 PM: INFO: Clicking login button
+05/06/2025 03:22:21 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:22:28 PM: INFO: Search Test Passed: Response text is displayed.
+05/06/2025 03:24:18 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 03:24:20 PM: INFO: Clicking login button on the homepage
+05/06/2025 03:24:20 PM: INFO: Entering username
+05/06/2025 03:24:21 PM: INFO: Entering password
+05/06/2025 03:24:21 PM: INFO: Clicking login button
+05/06/2025 03:24:23 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:24:29 PM: INFO: Search Test Passed: Response text is displayed.
+05/06/2025 03:26:59 PM: INFO: ********** Test_001_Login: Login Test Started **********
+05/06/2025 03:27:01 PM: INFO: Clicking login button on the homepage
+05/06/2025 03:27:02 PM: INFO: Entering username
+05/06/2025 03:27:02 PM: INFO: Entering password
+05/06/2025 03:27:02 PM: INFO: Clicking login button
+05/06/2025 03:27:04 PM: INFO: Login Test Passed: Toaster message - Login Successful!
+05/06/2025 03:27:11 PM: INFO: Search Test Passed: Response text is displayed.
+05/06/2025 03:31:37 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 03:31:39 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 03:31:39 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 03:31:39 PM: INFO: Entering username and password
+05/06/2025 03:31:40 PM: INFO: Clicking login button
+05/06/2025 03:31:42 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 03:31:42 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 03:31:49 PM: INFO: Clicking the search button
+05/06/2025 03:31:50 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 03:31:52 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 03:32:17 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 03:32:18 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 03:32:18 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 03:32:19 PM: INFO: Entering username and password
+05/06/2025 03:32:19 PM: INFO: Clicking login button
+05/06/2025 03:32:22 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 03:32:22 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 03:32:31 PM: INFO: Clicking the search button
+05/06/2025 03:32:32 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 03:32:34 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 03:37:04 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 03:37:07 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 03:37:07 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 03:37:07 PM: INFO: Entering username and password
+05/06/2025 03:37:07 PM: INFO: Clicking login button
+05/06/2025 03:37:09 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 03:37:09 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 03:37:09 PM: INFO: Clicking the search button
+05/06/2025 03:37:09 PM: INFO: Scrolling down to view the full response
+05/06/2025 03:37:12 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 03:37:14 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 03:40:50 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 03:40:52 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 03:40:52 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 03:40:52 PM: INFO: Entering username and password
+05/06/2025 03:40:53 PM: INFO: Clicking login button
+05/06/2025 03:40:54 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 03:40:54 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 03:40:55 PM: INFO: Clicking the search button
+05/06/2025 03:40:55 PM: INFO: Scrolling down to view the full response
+05/06/2025 03:41:05 PM: WARNING: Timeout: Response text not found within the wait time.
+05/06/2025 03:41:05 PM: ERROR: Search Test Failed: No response text found.
+05/06/2025 03:44:33 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 03:44:35 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 03:44:35 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 03:44:35 PM: INFO: Entering username and password
+05/06/2025 03:44:36 PM: INFO: Clicking login button
+05/06/2025 03:44:37 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 03:44:37 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 03:44:39 PM: INFO: Clicking the search button
+05/06/2025 03:44:39 PM: INFO: Scrolling down to view the full response
+05/06/2025 03:44:40 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 03:44:42 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 03:45:43 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 03:45:45 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 03:45:45 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 03:45:45 PM: INFO: Entering username and password
+05/06/2025 03:45:46 PM: INFO: Clicking login button
+05/06/2025 03:45:47 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 03:45:47 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 03:45:48 PM: INFO: Clicking the search button
+05/06/2025 03:45:48 PM: INFO: Scrolling down to view the full response
+05/06/2025 03:46:02 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 03:46:05 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 03:53:31 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 03:53:33 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 03:53:33 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 03:53:33 PM: INFO: Entering username and password
+05/06/2025 03:53:34 PM: INFO: Clicking login button
+05/06/2025 03:53:35 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 03:53:35 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 03:53:35 PM: INFO: Clicking the search button
+05/06/2025 03:54:06 PM: INFO: Scrolling down to view the full response
+05/06/2025 03:54:06 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 03:54:08 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 03:55:31 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 03:55:32 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 03:55:32 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 03:55:33 PM: INFO: Entering username and password
+05/06/2025 03:55:34 PM: INFO: Clicking login button
+05/06/2025 03:55:35 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 03:55:35 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 03:55:35 PM: INFO: Clicking the search button
+05/06/2025 03:56:05 PM: INFO: Scrolling down to view the full response
+05/06/2025 03:56:05 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 03:56:07 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 03:59:54 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 03:59:56 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 03:59:56 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 03:59:56 PM: INFO: Entering username and password
+05/06/2025 03:59:56 PM: INFO: Clicking login button
+05/06/2025 03:59:58 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 03:59:58 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 04:02:30 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 04:02:35 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 04:02:35 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 04:02:35 PM: INFO: Entering username and password
+05/06/2025 04:02:36 PM: INFO: Clicking login button
+05/06/2025 04:02:37 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 04:02:37 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 04:02:39 PM: INFO: Clicking the search button
+05/06/2025 04:03:09 PM: INFO: Scrolling down to view the full response
+05/06/2025 04:03:28 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 04:03:31 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 04:04:24 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 04:04:26 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 04:04:26 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 04:04:26 PM: INFO: Entering username and password
+05/06/2025 04:04:27 PM: INFO: Clicking login button
+05/06/2025 04:04:28 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 04:04:28 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 04:05:34 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 04:05:36 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 04:05:36 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 04:05:36 PM: INFO: Entering username and password
+05/06/2025 04:05:37 PM: INFO: Clicking login button
+05/06/2025 04:05:38 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 04:05:38 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 04:05:38 PM: INFO: Clicking the search button
+05/06/2025 04:06:09 PM: INFO: Scrolling down to view the full response
+05/06/2025 04:06:09 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 04:06:11 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 04:06:45 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 04:06:47 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 04:06:47 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 04:06:47 PM: INFO: Entering username and password
+05/06/2025 04:06:48 PM: INFO: Clicking login button
+05/06/2025 04:06:49 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 04:06:49 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 04:06:50 PM: INFO: Clicking the search button
+05/06/2025 04:07:20 PM: INFO: Scrolling down to view the full response
+05/06/2025 04:07:20 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 04:07:22 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 04:15:49 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 04:15:52 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 04:15:52 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 04:15:53 PM: INFO: Entering username and password
+05/06/2025 04:15:53 PM: INFO: Clicking login button
+05/06/2025 04:15:55 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 04:16:25 PM: INFO: Clicking 'Create First Chat' button
+05/06/2025 04:16:25 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 04:17:39 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 04:17:41 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 04:17:41 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 04:17:41 PM: INFO: Entering username and password
+05/06/2025 04:17:41 PM: INFO: Clicking login button
+05/06/2025 04:17:43 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 04:17:43 PM: INFO: Clicking 'Create First Chat' button
+05/06/2025 04:17:43 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 04:17:43 PM: INFO: Clicking the search button
+05/06/2025 04:18:14 PM: INFO: Scrolling down to view the full response
+05/06/2025 04:18:44 PM: WARNING: Timeout: Response text not found within the wait time.
+05/06/2025 04:18:44 PM: ERROR: Search Test Failed: No response text found.
+05/06/2025 04:19:26 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 04:19:28 PM: INFO: Opened URL: https://para.unada.in/
+05/06/2025 04:19:28 PM: INFO: Clicking 'Login' button on the homepage
+05/06/2025 04:19:28 PM: INFO: Entering username and password
+05/06/2025 04:19:29 PM: INFO: Clicking login button
+05/06/2025 04:19:30 PM: INFO: Login Test Passed: Toaster message - 'Login Successful !'
+05/06/2025 04:20:00 PM: INFO: Clicking 'Create First Chat' button
+05/06/2025 04:20:00 PM: INFO: Entering search text: Describe article 15 of indian constitution.
+05/06/2025 04:20:00 PM: INFO: Clicking the search button
+05/06/2025 04:20:30 PM: INFO: Scrolling down to view the full response
+05/06/2025 04:20:43 PM: INFO: Search Test Passed: Response text displayed successfully.
+05/06/2025 04:20:45 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/06/2025 04:25:34 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/06/2025 04:25:34 PM: INFO: Initializing WebDriver and opening application URL.
+05/06/2025 04:25:36 PM: INFO: Application URL opened: https://para.unada.in/
+05/06/2025 04:25:36 PM: INFO: Initializing Page Object classes.
+05/06/2025 04:25:36 PM: INFO: Clicking 'Login' button on the homepage.
+05/06/2025 04:25:36 PM: INFO: Entering login credentials (username & password).
+05/06/2025 04:25:37 PM: INFO: Submitting login form.
+05/06/2025 04:25:37 PM: INFO: Verifying login success message.
+05/06/2025 04:25:38 PM: INFO: Login successful. Message received: 'Login Successful !'
+05/06/2025 04:25:38 PM: INFO: Clicking on 'Create First Chat' button.
+05/06/2025 04:25:39 PM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/06/2025 04:25:39 PM: INFO: Clicking the search button to start paragraph search.
+05/06/2025 04:25:40 PM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/06/2025 04:26:10 PM: INFO: Scrolling down to ensure full response is visible.
+05/06/2025 04:26:10 PM: INFO: Fetching the paragraph search response text.
+05/06/2025 04:26:10 PM: INFO: Search successful. Response text is displayed.
+05/06/2025 04:26:10 PM: INFO: Closing the browser after test execution.
+05/06/2025 04:26:12 PM: INFO: ========== Test: Para Search Functionality Completed ==========

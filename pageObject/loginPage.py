@@ -10,6 +10,7 @@ class LoginPage:
     textbox_username_xpath = "//input[@name = 'email']"
     textbox_password_xpath = "//input[@name = 'password']"
     button_login_xpath = "//button[@type='submit']"
+    button_SignUP_CSSSelector = ".MuiTypography-root.MuiTypography-body1.css-1p90lx9"
 
     def __init__(self, driver):
         """
@@ -41,3 +42,10 @@ class LoginPage:
         Click the login button.
         """
         self.driver.find_element(By.XPATH, self.button_login_xpath).click()
+
+    def click_signup(self):
+        """
+        Click the Sign Up button.
+        :return:
+        """
+        self.driver.find_element(By.CSS_SELECTOR, self.button_SignUP_CSSSelector).click()

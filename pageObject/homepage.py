@@ -23,6 +23,8 @@ class HomePage:
 
     home_page_header_option_pricing_xpath = "//div[text()='Pricing']"
 
+    but_explore_AI_CSS_SELECTOR = ".MuiBox-root.css-1o98lg5"
+
     def __init__(self, driver):
         """
         Constructor to initialize the WebDriver instance.
@@ -129,3 +131,9 @@ class HomePage:
         :return: Text of the header option
         """
         return self.driver.find_element(By.XPATH, self.home_page_header_option_pricing_xpath).click()
+
+    def click_explore_AI_button(self):
+        """
+        Clicks the 'Explore AI' button.
+        """
+        self.driver.find_element(By.CSS_SELECTOR, self.but_explore_AI_CSS_SELECTOR).click()
