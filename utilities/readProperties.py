@@ -244,3 +244,14 @@ class ReadConfig:
             str: The Para Search text.
         """
         return config.get('PARA_SEARCH', 'QUESTION_ONE', fallback=None)
+
+    @staticmethod
+    def get_new_chat_create_text():
+        """
+        Retrieves the New Chat Create text from the configuration file.
+
+        Returns:
+            str: The New Chat Create text.
+        """
+        return config.get('PARA_SEARCH', 'NEW_CHAT_CREATE_TEXT', fallback=None)
+

@@ -20,6 +20,9 @@ class ParaSearch:
     SEARCH_BAR_CSS_SELECTOR = "div[class='MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation2 css-hs986'] input[placeholder='Ask any Question']"
     BUTTON_SEARCH_CSS_SELECTOR = "div[class='MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation2 css-hs986'] img[class='MuiBox-root css-0']"
     RESPONSE_TEXT_CSS_SELECTOR = "div[class='MuiBox-root css-j7qwjs'] div[class='MuiBox-root css-0'] span span"
+    BUTTON_SIDE_BAR_CSS_SELECTOR = ".MuiBox-root.css-19zr93t"
+    BUTTON_ADD_NEW_CHAT_CSS_SELECTOR = ".MuiBox-root.css-ibs9f4"
+    TEXT_SUCCESS_POPUP_MESSAGE_XPATH = "//div[@class='Toastify__toast-container Toastify__toast-container--top-right']"
 
     def __init__(self, driver: WebDriver):
         """
@@ -61,24 +64,32 @@ class ParaSearch:
     def clicks_user_profile_logo(self):
         self.driver.find_element(By.CSS_SELECTOR, self.USER_PROFILE_LOGO_CSS_SELECTOR).click()
 
-    def get_text_on_confirm_register_popup(self, timeout=10):
+    def get_text_on_confirm_register_popup(self, timeout=5):
         element = WebDriverWait(self.driver, timeout).until(
             EC.visibility_of_element_located((By.XPATH, self.TEXT_CONFIRM_POPUP_XPATH))
         )
         return element.text
 
     def clicks_ok_button_on_confirm_register_popup(self):
+        """
+        Clicks the 'OK' button on the confirmation register popup.
+        """
+        # Locate the 'OK' button using its XPath and click it
         self.driver.find_element(By.XPATH, self.BUTTON_CONFIRM_POPUP_XPATH).click()
 
-    def clicks_pera_search_create_first_chat(self):
+    def click_if_displayed_pera_search_create_first_chat(self):
+        """
+        Checks if the 'Create First Chat' button in the Pera Search is displayed and clicks it if it is.
+        Returns True if clicked, False otherwise.
+        """
         try:
-            first_chat_button = self.driver.find_element(By.XPATH, self.BUTTON_PERA_SEARCH_CREATE_FIRST_CHAT_XPATH)
-            if first_chat_button.is_displayed():
-                first_chat_button.click()
-            else:
-                pass  # Button is present but not visible
+            button = self.driver.find_element(By.XPATH, self.BUTTON_PERA_SEARCH_CREATE_FIRST_CHAT_XPATH)
+            if button.is_displayed():
+                button.click()
+                return True
+            return False
         except NoSuchElementException:
-            pass  # Button not found, so nothing to do
+            return False
 
     def set_search_bar_text(self, text):
         """
@@ -124,3 +135,24 @@ class ParaSearch:
         except Exception as e:
             logging.error(f"Unexpected error while fetching response text: {e}")
             return ""
+
+    def clicks_side_bar_button(self):
+        """
+        Clicks the side bar button.
+        """
+        self.driver.find_element(By.CSS_SELECTOR, self.BUTTON_SIDE_BAR_CSS_SELECTOR).click()
+
+    def clicks_add_new_chat_button(self):
+        """
+        Clicks the add new chat button.
+        """
+        self.driver.find_element(By.CSS_SELECTOR, self.BUTTON_ADD_NEW_CHAT_CSS_SELECTOR).click()
+
+    def get_text_on_success_popup_message(self, timeout=5):
+        element = WebDriverWait(self.driver, timeout).until(
+            EC.presence_of_element_located((By.XPATH, self.TEXT_SUCCESS_POPUP_MESSAGE_XPATH))
+        )
+        WebDriverWait(self.driver, timeout).until(
+            lambda driver: element.text.strip() != ""
+        )
+        return element.text

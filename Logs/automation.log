@@ -6920,3 +6920,916 @@ Stacktrace:
 05/06/2025 04:26:10 PM: INFO: Search successful. Response text is displayed.
 05/06/2025 04:26:10 PM: INFO: Closing the browser after test execution.
 05/06/2025 04:26:12 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/07/2025 11:33:24 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 11:33:24 AM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 11:33:46 AM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 11:33:46 AM: INFO: Initializing Page Object classes.
+05/07/2025 11:33:46 AM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 11:33:46 AM: INFO: Entering login credentials (username & password).
+05/07/2025 11:33:46 AM: INFO: Submitting login form.
+05/07/2025 11:33:46 AM: INFO: Verifying login success message.
+05/07/2025 11:33:56 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/07/2025 11:33:56 AM: INFO: Clicking on 'Create First Chat' button.
+05/07/2025 11:33:56 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/07/2025 11:34:00 AM: INFO: Clicking the search button to start paragraph search.
+05/07/2025 11:34:01 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/07/2025 11:34:31 AM: INFO: Scrolling down to ensure full response is visible.
+05/07/2025 11:34:31 AM: INFO: Fetching the paragraph search response text.
+05/07/2025 11:35:01 AM: WARNING: Timeout: Response text not found within the wait time.
+05/07/2025 11:35:01 AM: ERROR: Search failed. No response text found.
+05/07/2025 11:36:19 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 11:36:19 AM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 11:36:35 AM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 11:36:35 AM: INFO: Initializing Page Object classes.
+05/07/2025 11:36:35 AM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 11:36:35 AM: INFO: Entering login credentials (username & password).
+05/07/2025 11:36:35 AM: INFO: Submitting login form.
+05/07/2025 11:36:35 AM: INFO: Verifying login success message.
+05/07/2025 11:36:46 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/07/2025 11:36:46 AM: INFO: Clicking on 'Create First Chat' button.
+05/07/2025 11:36:46 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/07/2025 11:36:56 AM: INFO: Clicking the search button to start paragraph search.
+05/07/2025 11:36:58 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/07/2025 11:37:28 AM: INFO: Scrolling down to ensure full response is visible.
+05/07/2025 11:37:28 AM: INFO: Fetching the paragraph search response text.
+05/07/2025 11:37:58 AM: WARNING: Timeout: Response text not found within the wait time.
+05/07/2025 11:37:58 AM: ERROR: Search failed. No response text found.
+05/07/2025 12:07:28 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 12:07:28 PM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 12:07:42 PM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 12:07:42 PM: INFO: Initializing Page Object classes.
+05/07/2025 12:07:42 PM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 12:07:42 PM: INFO: Entering login credentials (username & password).
+05/07/2025 12:07:42 PM: INFO: Submitting login form.
+05/07/2025 12:07:42 PM: INFO: Verifying login success message.
+05/07/2025 12:07:45 PM: INFO: Login successful. Message received: 'Login Successful !'
+05/07/2025 12:07:45 PM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/07/2025 12:07:47 PM: INFO: Clicking the search button to start paragraph search.
+05/07/2025 12:07:47 PM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/07/2025 12:08:17 PM: INFO: Scrolling down to ensure full response is visible.
+05/07/2025 12:08:17 PM: INFO: Fetching the paragraph search response text.
+05/07/2025 12:08:17 PM: INFO: Search successful. Response text is displayed.
+05/07/2025 12:08:17 PM: INFO: Closing the browser after test execution.
+05/07/2025 12:08:19 PM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/07/2025 02:51:19 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 02:51:19 PM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 02:51:45 PM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 02:51:45 PM: INFO: Initializing Page Object classes.
+05/07/2025 02:51:45 PM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 02:51:45 PM: INFO: Entering login credentials (username & password).
+05/07/2025 02:51:46 PM: INFO: Submitting login form.
+05/07/2025 02:51:46 PM: INFO: Verifying login success message.
+05/07/2025 02:51:48 PM: INFO: Login successful. Message received: 'Login Successful !'
+05/07/2025 02:52:19 PM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/07/2025 02:52:20 PM: INFO: Clicking the search button to start paragraph search.
+05/07/2025 02:52:20 PM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/07/2025 02:52:50 PM: INFO: Scrolling down to ensure full response is visible.
+05/07/2025 02:52:50 PM: INFO: Fetching the paragraph search response text.
+05/07/2025 02:53:20 PM: WARNING: Timeout: Response text not found within the wait time.
+05/07/2025 02:53:20 PM: ERROR: Search failed. No response text found.
+05/07/2025 02:53:45 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 02:53:45 PM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 02:54:12 PM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 02:54:12 PM: INFO: Initializing Page Object classes.
+05/07/2025 02:54:12 PM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 02:54:12 PM: INFO: Entering login credentials (username & password).
+05/07/2025 02:54:12 PM: INFO: Submitting login form.
+05/07/2025 02:54:12 PM: INFO: Verifying login success message.
+05/07/2025 02:54:24 PM: WARNING: Timeout: Success alert message not found within the wait time.
+05/07/2025 02:54:24 PM: ERROR: Login failed. Unexpected message: ''
+05/07/2025 02:55:33 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 02:55:33 PM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 02:55:58 PM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 02:55:58 PM: INFO: Initializing Page Object classes.
+05/07/2025 02:55:58 PM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 02:55:58 PM: INFO: Entering login credentials (username & password).
+05/07/2025 02:55:58 PM: INFO: Submitting login form.
+05/07/2025 02:55:58 PM: INFO: Verifying login success message.
+05/07/2025 02:56:22 PM: WARNING: Timeout: Success alert message not found within the wait time.
+05/07/2025 02:56:22 PM: ERROR: Login failed. Unexpected message: ''
+05/07/2025 02:57:37 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 02:57:37 PM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 02:58:18 PM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 02:58:18 PM: INFO: Initializing Page Object classes.
+05/07/2025 02:58:18 PM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 02:58:18 PM: INFO: Entering login credentials (username & password).
+05/07/2025 02:58:18 PM: INFO: Submitting login form.
+05/07/2025 02:58:18 PM: INFO: Verifying login success message.
+05/07/2025 02:58:43 PM: WARNING: Timeout: Success alert message not found within the wait time.
+05/07/2025 02:58:43 PM: ERROR: Login failed. Unexpected message: ''
+05/07/2025 04:32:01 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 04:32:01 PM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 04:32:35 PM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 04:32:35 PM: INFO: Initializing Page Object classes.
+05/07/2025 04:32:35 PM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 04:32:35 PM: INFO: Entering login credentials (username & password).
+05/07/2025 04:32:35 PM: INFO: Submitting login form.
+05/07/2025 04:32:35 PM: INFO: Verifying login success message.
+05/07/2025 04:32:39 PM: INFO: Login successful. Message received: 'Login Successful !'
+05/07/2025 04:32:41 PM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/07/2025 04:32:43 PM: INFO: Clicking the search button to start paragraph search.
+05/07/2025 04:32:43 PM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/07/2025 04:33:13 PM: INFO: Scrolling down to ensure full response is visible.
+05/07/2025 04:33:13 PM: INFO: Fetching the paragraph search response text.
+05/07/2025 04:33:43 PM: WARNING: Timeout: Response text not found within the wait time.
+05/07/2025 04:33:43 PM: ERROR: Search failed. No response text found.
+05/07/2025 04:34:50 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 04:34:50 PM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 04:35:02 PM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 04:35:02 PM: INFO: Initializing Page Object classes.
+05/07/2025 04:35:02 PM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 04:35:02 PM: INFO: Entering login credentials (username & password).
+05/07/2025 04:35:02 PM: INFO: Submitting login form.
+05/07/2025 04:35:02 PM: INFO: Verifying login success message.
+05/07/2025 04:35:05 PM: INFO: Login successful. Message received: 'Login Successful !'
+05/07/2025 04:35:06 PM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/07/2025 04:35:06 PM: INFO: Clicking the search button to start paragraph search.
+05/07/2025 04:35:06 PM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/07/2025 04:35:36 PM: INFO: Scrolling down to ensure full response is visible.
+05/07/2025 04:35:36 PM: INFO: Fetching the paragraph search response text.
+05/07/2025 04:36:06 PM: WARNING: Timeout: Response text not found within the wait time.
+05/07/2025 04:36:06 PM: ERROR: Search failed. No response text found.
+05/07/2025 04:38:42 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 04:38:42 PM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 04:38:46 PM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 04:38:46 PM: INFO: Initializing Page Object classes.
+05/07/2025 04:38:46 PM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 04:38:47 PM: INFO: Entering login credentials (username & password).
+05/07/2025 04:38:47 PM: INFO: Submitting login form.
+05/07/2025 04:38:47 PM: INFO: Verifying login success message.
+05/07/2025 04:38:49 PM: INFO: Login successful. Message received: 'Login Successful !'
+05/07/2025 04:38:50 PM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/07/2025 04:38:52 PM: INFO: Clicking the search button to start paragraph search.
+05/07/2025 04:38:53 PM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/07/2025 04:39:23 PM: INFO: Scrolling down to ensure full response is visible.
+05/07/2025 04:39:23 PM: INFO: Fetching the paragraph search response text.
+05/07/2025 04:39:53 PM: WARNING: Timeout: Response text not found within the wait time.
+05/07/2025 04:39:53 PM: ERROR: Search failed. No response text found.
+05/07/2025 04:40:38 PM: INFO: ========== Test: Para Search Functionality Started ==========
+05/07/2025 04:40:38 PM: INFO: Initializing WebDriver and opening application URL.
+05/07/2025 04:40:53 PM: INFO: Application URL opened: https://para.unada.in/
+05/07/2025 04:40:53 PM: INFO: Initializing Page Object classes.
+05/07/2025 04:40:53 PM: INFO: Clicking 'Login' button on the homepage.
+05/07/2025 04:40:53 PM: INFO: Entering login credentials (username & password).
+05/07/2025 04:40:53 PM: INFO: Submitting login form.
+05/07/2025 04:40:53 PM: INFO: Verifying login success message.
+05/07/2025 04:40:56 PM: INFO: Login successful. Message received: 'Login Successful !'
+05/07/2025 04:41:26 PM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/07/2025 04:41:27 PM: INFO: Clicking the search button to start paragraph search.
+05/07/2025 04:41:27 PM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/07/2025 04:41:57 PM: INFO: Scrolling down to ensure full response is visible.
+05/07/2025 04:41:57 PM: INFO: Fetching the paragraph search response text.
+05/07/2025 04:42:27 PM: WARNING: Timeout: Response text not found within the wait time.
+05/07/2025 04:42:27 PM: ERROR: Search failed. No response text found.
+05/08/2025 09:32:55 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 09:32:55 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 09:32:57 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 09:32:57 AM: INFO: Initializing Page Object classes.
+05/08/2025 09:32:57 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 09:32:58 AM: INFO: Entering login credentials (username & password).
+05/08/2025 09:32:58 AM: INFO: Submitting login form.
+05/08/2025 09:32:58 AM: INFO: Verifying login success message.
+05/08/2025 09:33:00 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 09:33:01 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 09:33:01 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 09:33:01 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/08/2025 09:33:31 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 09:33:31 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 09:33:52 AM: INFO: Search successful. Response text is displayed.
+05/08/2025 09:33:52 AM: INFO: Closing the browser after test execution.
+05/08/2025 09:33:54 AM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/08/2025 09:41:24 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 09:41:24 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 09:41:26 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 09:41:26 AM: INFO: Initializing Page Object classes.
+05/08/2025 09:41:26 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 09:41:26 AM: INFO: Entering login credentials (username & password).
+05/08/2025 09:41:26 AM: INFO: Submitting login form.
+05/08/2025 09:41:27 AM: INFO: Verifying login success message.
+05/08/2025 09:41:28 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 09:41:28 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 09:41:29 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 09:41:29 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/08/2025 09:41:59 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 09:41:59 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 09:42:29 AM: WARNING: Timeout: Response text not found within the wait time.
+05/08/2025 09:42:29 AM: ERROR: Search failed. No response text found.
+05/08/2025 09:48:37 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 09:48:37 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 09:48:39 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 09:48:39 AM: INFO: Initializing Page Object classes.
+05/08/2025 09:48:39 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 09:48:40 AM: INFO: Entering login credentials (username & password).
+05/08/2025 09:48:40 AM: INFO: Submitting login form.
+05/08/2025 09:48:41 AM: INFO: Verifying login success message.
+05/08/2025 09:48:42 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 09:49:12 AM: WARNING: 'Create First Chat' button not found in DOM. Clicking side bar and add new chat.
+05/08/2025 09:49:13 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 09:49:13 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 09:49:14 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/08/2025 09:49:44 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 09:49:44 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 09:49:44 AM: INFO: Search successful. Response text is displayed.
+05/08/2025 09:49:44 AM: INFO: Closing the browser after test execution.
+05/08/2025 09:49:46 AM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/08/2025 09:51:39 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 09:51:39 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 09:51:41 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 09:51:41 AM: INFO: Initializing Page Object classes.
+05/08/2025 09:51:41 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 09:51:41 AM: INFO: Entering login credentials (username & password).
+05/08/2025 09:51:42 AM: INFO: Submitting login form.
+05/08/2025 09:51:42 AM: INFO: Verifying login success message.
+05/08/2025 09:51:43 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 09:51:43 AM: INFO: 'Create First Chat' button not displayed. Clicking side bar and add new chat.
+05/08/2025 09:51:43 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 09:51:44 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 09:51:44 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/08/2025 09:52:14 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 09:52:14 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 09:52:44 AM: WARNING: Timeout: Response text not found within the wait time.
+05/08/2025 09:52:44 AM: ERROR: Search failed. No response text found.
+05/08/2025 10:02:00 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 10:02:00 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 10:02:02 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 10:02:02 AM: INFO: Initializing Page Object classes.
+05/08/2025 10:02:02 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 10:02:02 AM: INFO: Entering login credentials (username & password).
+05/08/2025 10:02:02 AM: INFO: Submitting login form.
+05/08/2025 10:02:03 AM: INFO: Verifying login success message.
+05/08/2025 10:02:04 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 10:02:04 AM: INFO: 'Create First Chat' button not displayed. Clicking side bar and add new chat.
+05/08/2025 10:02:04 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 10:02:04 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 10:02:05 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/08/2025 10:02:35 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 10:02:35 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 10:02:35 AM: INFO: Search successful. Response text is displayed.
+05/08/2025 10:02:35 AM: INFO: Closing the browser after test execution.
+05/08/2025 10:02:37 AM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/08/2025 10:09:23 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 10:09:23 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 10:09:25 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 10:09:25 AM: INFO: Initializing Page Object classes.
+05/08/2025 10:09:25 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 10:09:26 AM: INFO: Entering login credentials (username & password).
+05/08/2025 10:09:26 AM: INFO: Submitting login form.
+05/08/2025 10:09:26 AM: INFO: Verifying login success message.
+05/08/2025 10:09:27 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 10:09:57 AM: WARNING: 'Create First Chat' button not found in DOM. Clicking side bar and add new chat.
+05/08/2025 10:09:58 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 10:09:58 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 10:09:58 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/08/2025 10:10:28 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 10:10:28 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 10:10:28 AM: INFO: Search successful. Response text is displayed.
+05/08/2025 10:10:28 AM: INFO: Closing the browser after test execution.
+05/08/2025 10:10:31 AM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/08/2025 10:16:16 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 10:16:16 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 10:16:17 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 10:16:17 AM: INFO: Initializing Page Object classes.
+05/08/2025 10:16:17 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 10:16:17 AM: INFO: Entering login credentials (username & password).
+05/08/2025 10:16:18 AM: INFO: Submitting login form.
+05/08/2025 10:16:18 AM: INFO: Verifying login success message.
+05/08/2025 10:16:19 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 10:16:49 AM: WARNING: 'Create First Chat' button not found in DOM. Clicking side bar and add new chat.
+05/08/2025 10:16:50 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 10:16:50 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 10:16:50 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/08/2025 10:17:20 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 10:17:20 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 10:17:20 AM: INFO: Search successful. Response text is displayed.
+05/08/2025 10:17:20 AM: INFO: Closing the browser after test execution.
+05/08/2025 10:17:22 AM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/08/2025 10:17:48 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 10:17:48 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 10:17:49 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 10:17:49 AM: INFO: Initializing Page Object classes.
+05/08/2025 10:17:49 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 10:17:49 AM: INFO: Entering login credentials (username & password).
+05/08/2025 10:17:50 AM: INFO: Submitting login form.
+05/08/2025 10:17:50 AM: INFO: Verifying login success message.
+05/08/2025 10:17:51 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 10:18:21 AM: WARNING: 'Create First Chat' button not found in DOM. Clicking side bar and add new chat.
+05/08/2025 10:18:22 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 10:18:22 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 10:18:22 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/08/2025 10:18:22 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 10:18:22 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 10:18:39 AM: INFO: Search successful. Response text is displayed.
+05/08/2025 10:18:39 AM: INFO: Closing the browser after test execution.
+05/08/2025 10:18:41 AM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/08/2025 10:20:25 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 10:20:25 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 10:20:26 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 10:20:26 AM: INFO: Initializing Page Object classes.
+05/08/2025 10:20:26 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 10:20:26 AM: INFO: Entering login credentials (username & password).
+05/08/2025 10:20:26 AM: INFO: Submitting login form.
+05/08/2025 10:20:27 AM: INFO: Verifying login success message.
+05/08/2025 10:20:28 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 10:20:28 AM: INFO: 'Create First Chat' button not displayed. Clicking side bar and add new chat.
+05/08/2025 10:20:28 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 10:20:29 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 10:20:29 AM: INFO: Waiting for response to load (sleeping for 30 seconds).
+05/08/2025 10:20:29 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 10:20:29 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 10:20:42 AM: INFO: Search successful. Response text is displayed.
+05/08/2025 10:20:42 AM: INFO: Closing the browser after test execution.
+05/08/2025 10:20:44 AM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/08/2025 10:24:50 AM: INFO: ========== Test: Para Search Functionality Started ==========
+05/08/2025 10:24:50 AM: INFO: Initializing WebDriver and opening application URL.
+05/08/2025 10:24:52 AM: INFO: Application URL opened: https://para.unada.in/
+05/08/2025 10:24:52 AM: INFO: Initializing Page Object classes.
+05/08/2025 10:24:52 AM: INFO: Clicking 'Login' button on the homepage.
+05/08/2025 10:24:52 AM: INFO: Entering login credentials (username & password).
+05/08/2025 10:24:53 AM: INFO: Submitting login form.
+05/08/2025 10:24:53 AM: INFO: Verifying login success message.
+05/08/2025 10:24:54 AM: INFO: Login successful. Message received: 'Login Successful !'
+05/08/2025 10:24:54 AM: INFO: 'Create First Chat' button not displayed. Clicking side bar and add new chat.
+05/08/2025 10:24:54 AM: INFO: Entering paragraph search text: Describe article 15 of indian constitution.
+05/08/2025 10:24:55 AM: INFO: Clicking the search button to start paragraph search.
+05/08/2025 10:24:55 AM: INFO: Scrolling down to ensure full response is visible.
+05/08/2025 10:24:55 AM: INFO: Fetching the paragraph search response text.
+05/08/2025 10:25:09 AM: INFO: Search successful. Response text is displayed.
+05/08/2025 10:25:09 AM: INFO: Closing the browser after test execution.
+05/08/2025 10:25:11 AM: INFO: ========== Test: Para Search Functionality Completed ==========
+05/08/2025 10:29:10 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 10:29:10 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 10:29:26 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 10:29:26 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 10:29:26 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 10:29:27 AM: INFO: Entering user credentials for login.
+05/08/2025 10:29:27 AM: INFO: Submitting the login form.
+05/08/2025 10:29:27 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 10:29:28 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 10:29:58 AM: WARNING: 'Create First Chat' button not found in DOM. Using sidebar fallback.
+05/08/2025 10:29:59 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 10:30:00 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 10:30:00 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 10:30:00 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 10:30:18 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 10:30:18 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 10:30:20 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 10:58:20 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 10:58:20 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 10:58:22 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 10:58:22 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 10:58:22 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 10:58:22 AM: INFO: Entering user credentials for login.
+05/08/2025 10:58:23 AM: INFO: Submitting the login form.
+05/08/2025 10:58:23 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 10:58:24 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:02:20 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:02:20 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:02:22 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:02:22 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:02:22 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:02:22 AM: INFO: Entering user credentials for login.
+05/08/2025 11:02:22 AM: INFO: Submitting the login form.
+05/08/2025 11:02:22 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:02:23 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:02:23 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/08/2025 11:02:24 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:02:24 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:02:24 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:02:25 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:02:42 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:02:42 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:02:44 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 11:09:20 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:09:20 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:09:21 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:09:21 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:09:21 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:09:21 AM: INFO: Entering user credentials for login.
+05/08/2025 11:09:22 AM: INFO: Submitting the login form.
+05/08/2025 11:09:22 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:09:23 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:09:53 AM: WARNING: 'Create First Chat' button not found in DOM. Using sidebar fallback.
+05/08/2025 11:09:54 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:09:54 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:09:54 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:09:54 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:10:12 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:10:12 AM: INFO: Logging out of the application
+05/08/2025 11:10:13 AM: INFO: Logout successful
+05/08/2025 11:10:13 AM: INFO: HomePage Title Verification Passed
+05/08/2025 11:10:13 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:10:15 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 11:11:15 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:11:15 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:11:16 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:11:16 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:11:16 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:11:16 AM: INFO: Entering user credentials for login.
+05/08/2025 11:11:17 AM: INFO: Submitting the login form.
+05/08/2025 11:11:17 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:11:18 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:11:48 AM: WARNING: 'Create First Chat' button not found in DOM. Using sidebar fallback.
+05/08/2025 11:11:48 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:11:49 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:11:49 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:11:49 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:12:03 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:12:08 AM: INFO: Logging out of the application
+05/08/2025 11:12:09 AM: INFO: Logout successful
+05/08/2025 11:12:10 AM: INFO: HomePage Title Verification Passed
+05/08/2025 11:12:10 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:12:12 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 11:16:33 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:16:33 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:16:35 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:16:35 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:16:35 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:16:35 AM: INFO: Entering user credentials for login.
+05/08/2025 11:16:35 AM: INFO: Submitting the login form.
+05/08/2025 11:16:35 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:16:37 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:17:07 AM: WARNING: 'Create First Chat' button not found in DOM. Using sidebar fallback.
+05/08/2025 11:17:07 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:17:08 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:17:08 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:17:08 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:17:24 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:17:24 AM: INFO: Logging out of the application
+05/08/2025 11:17:25 AM: INFO: Logout successful
+05/08/2025 11:17:25 AM: INFO: HomePage Title Verification Passed
+05/08/2025 11:17:25 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:17:28 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 11:19:05 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:19:05 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:19:11 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:19:11 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:19:11 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:19:11 AM: INFO: Entering user credentials for login.
+05/08/2025 11:19:12 AM: INFO: Submitting the login form.
+05/08/2025 11:19:12 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:19:14 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:19:44 AM: WARNING: 'Create First Chat' button not found in DOM. Using sidebar fallback.
+05/08/2025 11:19:44 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:19:45 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:19:45 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:19:45 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:20:04 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:20:06 AM: INFO: Logging out of the application
+05/08/2025 11:20:07 AM: INFO: Logout successful
+05/08/2025 11:20:07 AM: INFO: HomePage Title Verification Passed
+05/08/2025 11:20:07 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:20:09 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 11:25:45 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:25:45 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:25:46 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:25:46 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:25:46 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:25:47 AM: INFO: Entering user credentials for login.
+05/08/2025 11:25:47 AM: INFO: Submitting the login form.
+05/08/2025 11:25:47 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:25:48 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:26:18 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/08/2025 11:26:19 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:26:19 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:26:20 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:26:20 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:26:36 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:26:38 AM: INFO: Logging out of the application
+05/08/2025 11:26:39 AM: INFO: Logout successful
+05/08/2025 11:26:39 AM: INFO: HomePage Title Verification Passed
+05/08/2025 11:26:39 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:26:41 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 11:27:59 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:27:59 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:28:02 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:28:02 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:28:02 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:28:02 AM: INFO: Entering user credentials for login.
+05/08/2025 11:28:02 AM: INFO: Submitting the login form.
+05/08/2025 11:28:02 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:28:03 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:28:03 AM: INFO: 'Create First Chat' button is displayed and clicked.
+05/08/2025 11:28:03 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:28:04 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:28:04 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:28:04 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:28:23 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:28:25 AM: INFO: Logging out of the application
+05/08/2025 11:28:25 AM: INFO: Logout successful
+05/08/2025 11:28:25 AM: INFO: HomePage Title Verification Passed
+05/08/2025 11:28:25 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:28:28 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 11:30:06 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:30:06 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:30:08 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:30:08 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:30:08 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:30:08 AM: INFO: Entering user credentials for login.
+05/08/2025 11:30:08 AM: INFO: Submitting the login form.
+05/08/2025 11:30:08 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:30:10 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:30:40 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/08/2025 11:30:40 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:30:41 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:30:41 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:30:41 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:30:58 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:31:00 AM: INFO: Logging out of the application
+05/08/2025 11:31:01 AM: INFO: Logout successful
+05/08/2025 11:31:01 AM: INFO: HomePage Title Verification Passed
+05/08/2025 11:31:01 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:31:03 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 11:31:34 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:31:34 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:31:36 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:31:36 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:31:36 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:31:36 AM: INFO: Entering user credentials for login.
+05/08/2025 11:31:36 AM: INFO: Submitting the login form.
+05/08/2025 11:31:37 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:31:38 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:31:48 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/08/2025 11:31:48 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:31:49 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:31:49 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:31:49 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:31:59 AM: WARNING: Timeout: Response text not found within the wait time.
+05/08/2025 11:31:59 AM: ERROR: Paragraph search failed. No response received.
+05/08/2025 11:43:42 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:43:42 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:43:44 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:43:44 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:43:44 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:43:44 AM: INFO: Entering user credentials for login.
+05/08/2025 11:43:45 AM: INFO: Submitting the login form.
+05/08/2025 11:43:45 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:43:46 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:43:46 AM: INFO: 'Create First Chat' button is displayed and clicked.
+05/08/2025 11:43:46 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:43:47 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:43:47 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:43:47 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:44:03 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:44:05 AM: INFO: Logging out of the application
+05/08/2025 11:44:05 AM: INFO: Logout successful
+05/08/2025 11:44:06 AM: INFO: HomePage Title Verification Passed
+05/08/2025 11:44:06 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:44:08 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/08/2025 11:49:44 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/08/2025 11:49:44 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/08/2025 11:49:46 AM: INFO: Application launched successfully: https://para.unada.in/
+05/08/2025 11:49:46 AM: INFO: Instantiating Page Object Model classes.
+05/08/2025 11:49:46 AM: INFO: Clicking the 'Login' button on the homepage.
+05/08/2025 11:49:46 AM: INFO: Entering user credentials for login.
+05/08/2025 11:49:46 AM: INFO: Submitting the login form.
+05/08/2025 11:49:46 AM: INFO: Verifying if login was successful based on alert message.
+05/08/2025 11:49:48 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/08/2025 11:49:48 AM: INFO: 'Create First Chat' button is displayed and clicked.
+05/08/2025 11:49:48 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/08/2025 11:49:49 AM: INFO: Clicking the search button to initiate paragraph search.
+05/08/2025 11:49:49 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/08/2025 11:49:49 AM: INFO: Retrieving the text from paragraph search response.
+05/08/2025 11:50:07 AM: INFO: Paragraph search executed successfully. Response received.
+05/08/2025 11:50:09 AM: INFO: Logging out of the application
+05/08/2025 11:50:10 AM: INFO: Logout successful
+05/08/2025 11:50:10 AM: INFO: HomePage Title Verification Passed
+05/08/2025 11:50:10 AM: INFO: Test execution completed. Closing the browser.
+05/08/2025 11:50:12 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/09/2025 09:57:28 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/09/2025 09:57:28 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/09/2025 09:57:30 AM: INFO: Application launched successfully: https://para.unada.in/
+05/09/2025 09:57:30 AM: INFO: Instantiating Page Object Model classes.
+05/09/2025 09:57:30 AM: INFO: Clicking the 'Login' button on the homepage.
+05/09/2025 09:57:30 AM: INFO: Entering user credentials for login.
+05/09/2025 09:57:31 AM: INFO: Submitting the login form.
+05/09/2025 09:57:31 AM: INFO: Verifying if login was successful based on alert message.
+05/09/2025 09:57:32 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/09/2025 09:57:33 AM: INFO: 'Create First Chat' button is displayed and clicked.
+05/09/2025 09:57:33 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 09:57:33 AM: INFO: Clicking the search button to initiate paragraph search.
+05/09/2025 09:57:33 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/09/2025 09:57:33 AM: INFO: Retrieving the text from paragraph search response.
+05/09/2025 09:57:53 AM: INFO: Paragraph search executed successfully. Response received.
+05/09/2025 09:57:55 AM: INFO: Logging out of the application
+05/09/2025 09:57:56 AM: INFO: Logout successful
+05/09/2025 09:57:56 AM: INFO: HomePage Title Verification Passed
+05/09/2025 09:57:56 AM: INFO: Test execution completed. Closing the browser.
+05/09/2025 09:57:58 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/09/2025 10:02:29 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/09/2025 10:02:29 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/09/2025 10:02:32 AM: INFO: Application launched successfully: https://para.unada.in/
+05/09/2025 10:02:32 AM: INFO: Instantiating Page Object Model classes.
+05/09/2025 10:02:32 AM: INFO: Clicking the 'Login' button on the homepage.
+05/09/2025 10:02:32 AM: INFO: Entering user credentials for login.
+05/09/2025 10:02:32 AM: INFO: Submitting the login form.
+05/09/2025 10:02:33 AM: INFO: Verifying if login was successful based on alert message.
+05/09/2025 10:02:34 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/09/2025 10:03:04 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/09/2025 10:03:05 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 10:03:05 AM: INFO: Clicking the search button to initiate paragraph search.
+05/09/2025 10:03:06 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/09/2025 10:03:06 AM: INFO: Retrieving the text from paragraph search response.
+05/09/2025 10:03:22 AM: INFO: Paragraph search executed successfully. Response received.
+05/09/2025 10:03:24 AM: INFO: Logging out of the application
+05/09/2025 10:03:26 AM: INFO: Logout successful
+05/09/2025 10:03:26 AM: INFO: HomePage Title Verification Passed
+05/09/2025 10:03:26 AM: INFO: Test execution completed. Closing the browser.
+05/09/2025 10:03:28 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/09/2025 10:05:32 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/09/2025 10:05:32 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/09/2025 10:05:34 AM: INFO: Application launched successfully: https://para.unada.in/
+05/09/2025 10:05:34 AM: INFO: Instantiating Page Object Model classes.
+05/09/2025 10:05:34 AM: INFO: Clicking the 'Login' button on the homepage.
+05/09/2025 10:05:35 AM: INFO: Entering user credentials for login.
+05/09/2025 10:05:35 AM: INFO: Submitting the login form.
+05/09/2025 10:05:35 AM: INFO: Verifying if login was successful based on alert message.
+05/09/2025 10:05:36 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/09/2025 10:06:06 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/09/2025 10:06:07 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 10:06:07 AM: INFO: Clicking the search button to initiate paragraph search.
+05/09/2025 10:06:08 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/09/2025 10:06:08 AM: INFO: Retrieving the text from paragraph search response.
+05/09/2025 10:06:28 AM: INFO: Paragraph search executed successfully. Response received.
+05/09/2025 10:06:30 AM: INFO: Logging out of the application
+05/09/2025 10:06:32 AM: INFO: Logout successful
+05/09/2025 10:06:32 AM: INFO: HomePage Title Verification Passed
+05/09/2025 10:06:32 AM: INFO: Test execution completed. Closing the browser.
+05/09/2025 10:06:34 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/09/2025 10:10:03 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/09/2025 10:10:03 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/09/2025 10:10:06 AM: INFO: Application launched successfully: https://para.unada.in/
+05/09/2025 10:10:06 AM: INFO: Instantiating Page Object Model classes.
+05/09/2025 10:10:06 AM: INFO: Clicking the 'Login' button on the homepage.
+05/09/2025 10:10:06 AM: INFO: Entering user credentials for login.
+05/09/2025 10:10:06 AM: INFO: Submitting the login form.
+05/09/2025 10:10:07 AM: INFO: Verifying if login was successful based on alert message.
+05/09/2025 10:10:08 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/09/2025 10:10:38 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/09/2025 10:10:39 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 10:10:40 AM: INFO: Clicking the search button to initiate paragraph search.
+05/09/2025 10:10:40 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/09/2025 10:10:40 AM: INFO: Retrieving the text from paragraph search response.
+05/09/2025 10:11:10 AM: WARNING: Timeout: Response text not found within the wait time.
+05/09/2025 10:11:10 AM: ERROR: Paragraph search failed. No response received.
+05/09/2025 10:11:43 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/09/2025 10:11:43 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/09/2025 10:11:46 AM: INFO: Application launched successfully: https://para.unada.in/
+05/09/2025 10:11:46 AM: INFO: Instantiating Page Object Model classes.
+05/09/2025 10:11:46 AM: INFO: Clicking the 'Login' button on the homepage.
+05/09/2025 10:11:46 AM: INFO: Entering user credentials for login.
+05/09/2025 10:11:47 AM: INFO: Submitting the login form.
+05/09/2025 10:11:47 AM: INFO: Verifying if login was successful based on alert message.
+05/09/2025 10:11:49 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/09/2025 10:12:19 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/09/2025 10:12:20 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 10:12:21 AM: INFO: Clicking the search button to initiate paragraph search.
+05/09/2025 10:12:21 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/09/2025 10:12:21 AM: INFO: Retrieving the text from paragraph search response.
+05/09/2025 10:12:47 AM: INFO: Paragraph search executed successfully. Response received.
+05/09/2025 10:12:49 AM: INFO: Logging out of the application
+05/09/2025 10:12:50 AM: INFO: Logout successful
+05/09/2025 10:12:50 AM: INFO: HomePage Title Verification Passed
+05/09/2025 10:12:50 AM: INFO: Test execution completed. Closing the browser.
+05/09/2025 10:12:53 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/09/2025 10:20:46 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/09/2025 10:20:46 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/09/2025 10:20:48 AM: INFO: Application launched successfully: https://para.unada.in/
+05/09/2025 10:20:48 AM: INFO: Instantiating Page Object Model classes.
+05/09/2025 10:20:48 AM: INFO: Clicking the 'Login' button on the homepage.
+05/09/2025 10:20:48 AM: INFO: Entering user credentials for login.
+05/09/2025 10:20:49 AM: INFO: Submitting the login form.
+05/09/2025 10:20:49 AM: INFO: Verifying if login was successful based on alert message.
+05/09/2025 10:20:50 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/09/2025 10:21:20 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/09/2025 10:21:22 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 10:21:22 AM: INFO: Clicking the search button to initiate paragraph search.
+05/09/2025 10:21:23 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/09/2025 10:21:23 AM: INFO: Retrieving the text from paragraph search response.
+05/09/2025 10:21:53 AM: WARNING: Timeout: Response text not found within the wait time.
+05/09/2025 10:21:53 AM: ERROR: Paragraph search failed. No response received.
+05/09/2025 10:29:46 AM: INFO: ========== [TEST STARTED] Para Search Functionality ==========
+05/09/2025 10:29:46 AM: INFO: Setting up WebDriver and navigating to the application URL.
+05/09/2025 10:29:48 AM: INFO: Application launched successfully: https://para.unada.in/
+05/09/2025 10:29:48 AM: INFO: Instantiating Page Object Model classes.
+05/09/2025 10:29:48 AM: INFO: Clicking the 'Login' button on the homepage.
+05/09/2025 10:29:48 AM: INFO: Entering user credentials for login.
+05/09/2025 10:29:48 AM: INFO: Submitting the login form.
+05/09/2025 10:29:49 AM: INFO: Verifying if login was successful based on alert message.
+05/09/2025 10:29:50 AM: INFO: Login successful. Received expected message: 'Login Successful !'
+05/09/2025 10:30:20 AM: INFO: 'Create First Chat' not visible. Using sidebar to add new chat.
+05/09/2025 10:30:21 AM: INFO: New chat added from sidebar. Success message verified.
+05/09/2025 10:30:21 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 10:30:22 AM: INFO: Clicking the search button to initiate paragraph search.
+05/09/2025 10:30:22 AM: INFO: Scrolling the page to reveal full paragraph search response.
+05/09/2025 10:30:22 AM: INFO: Retrieving the text from paragraph search response.
+05/09/2025 10:30:40 AM: INFO: Paragraph search executed successfully. Response received.
+05/09/2025 10:30:42 AM: INFO: Logging out of the application
+05/09/2025 10:30:43 AM: INFO: Logout successful
+05/09/2025 10:30:43 AM: INFO: HomePage Title Verification Passed
+05/09/2025 10:30:43 AM: INFO: Test execution completed. Closing the browser.
+05/09/2025 10:30:45 AM: INFO: ========== [TEST COMPLETED] Para Search Functionality ==========
+05/09/2025 10:44:48 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 10:44:48 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 10:44:51 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 10:44:51 AM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/09/2025 10:44:51 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 10:44:51 AM: INFO: Filling in login credentials.
+05/09/2025 10:44:52 AM: INFO: Submitting login form.
+05/09/2025 10:44:52 AM: INFO: Verifying login success alert message.
+05/09/2025 10:44:53 AM: INFO: Login successful: 'Login Successful !'
+05/09/2025 10:45:24 AM: INFO: 'Create First Chat' not present. Falling back to sidebar method.
+05/09/2025 10:45:25 AM: INFO: New chat created successfully using sidebar buttons.
+05/09/2025 10:45:25 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 10:45:25 AM: INFO: Triggering paragraph search.
+05/09/2025 10:45:25 AM: INFO: Scrolling to bottom of page to view response.
+05/09/2025 10:45:25 AM: INFO: Retrieving paragraph search response text.
+05/09/2025 10:45:42 AM: INFO: Paragraph search successful. Response received.
+05/09/2025 10:45:44 AM: INFO: Initiating logout sequence.
+05/09/2025 10:45:46 AM: INFO: Logout completed successfully.
+05/09/2025 10:45:46 AM: INFO: Validating page title after logout: 'Para'
+05/09/2025 10:45:46 AM: INFO: Page title verification passed.
+05/09/2025 10:45:46 AM: INFO: Closing browser and completing test.
+05/09/2025 10:45:48 AM: INFO: ========== [TEST COMPLETED] test_para_search_functionality ==========
+05/09/2025 11:18:09 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:18:09 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:18:11 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:18:11 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:18:11 AM: INFO: Filling in login credentials.
+05/09/2025 11:18:12 AM: INFO: Submitting login form.
+05/09/2025 11:18:12 AM: INFO: Verifying login success alert message.
+05/09/2025 11:18:13 AM: INFO: Login successful.
+05/09/2025 11:18:43 AM: INFO: Using sidebar to add new chat.
+05/09/2025 11:18:44 AM: INFO: [1] Entering question: 'What is the basic structure of the Indian Constitution?'
+05/09/2025 11:18:45 AM: INFO: Waiting for response to appear.
+05/09/2025 11:19:15 AM: WARNING: [1] No response container found. Saving screenshot.
+05/09/2025 11:19:15 AM: INFO: [2] Entering question: 'Define the doctrine of basic structure.'
+05/09/2025 11:19:16 AM: INFO: Waiting for response to appear.
+05/09/2025 11:19:46 AM: WARNING: [2] No response container found. Saving screenshot.
+05/09/2025 11:19:47 AM: INFO: [3] Entering question: 'What are the fundamental rights under Article 14?'
+05/09/2025 11:24:17 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:24:17 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:24:19 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:24:19 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:24:19 AM: INFO: Filling in login credentials.
+05/09/2025 11:24:19 AM: INFO: Submitting login form.
+05/09/2025 11:24:20 AM: INFO: Verifying login success alert message.
+05/09/2025 11:24:20 AM: INFO: Login successful.
+05/09/2025 11:24:50 AM: INFO: Using sidebar to add new chat.
+05/09/2025 11:24:52 AM: INFO: [1] Entering question: 'What is the basic structure of the Indian Constitution?'
+05/09/2025 11:24:52 AM: INFO: Waiting for response to appear.
+05/09/2025 11:25:22 AM: WARNING: [1] No response container found. Saving screenshot.
+05/09/2025 11:25:22 AM: INFO: [2] Entering question: 'Define the doctrine of basic structure.'
+05/09/2025 11:25:24 AM: INFO: Waiting for response to appear.
+05/09/2025 11:25:54 AM: WARNING: [2] No response container found. Saving screenshot.
+05/09/2025 11:25:54 AM: INFO: [3] Entering question: 'What are the fundamental rights under Article 14?'
+05/09/2025 11:31:29 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:31:29 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:31:31 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:31:31 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:31:31 AM: INFO: Filling in login credentials.
+05/09/2025 11:31:32 AM: INFO: Submitting login form.
+05/09/2025 11:31:32 AM: INFO: Verifying login success alert message.
+05/09/2025 11:31:33 AM: INFO: Login successful.
+05/09/2025 11:32:03 AM: INFO: Using sidebar to add new chat.
+05/09/2025 11:32:04 AM: INFO: [1] Entering question: 'What is the basic structure of the Indian Constitution?'
+05/09/2025 11:33:13 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:33:13 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:33:15 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:33:15 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:33:16 AM: INFO: Filling in login credentials.
+05/09/2025 11:33:16 AM: INFO: Submitting login form.
+05/09/2025 11:33:16 AM: INFO: Verifying login success alert message.
+05/09/2025 11:33:17 AM: INFO: Login successful.
+05/09/2025 11:33:47 AM: INFO: Using sidebar to add new chat.
+05/09/2025 11:33:48 AM: INFO: [1] Entering question: 'What is the basic structure of the Indian Constitution?'
+05/09/2025 11:36:17 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:36:17 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:36:19 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:36:19 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:36:19 AM: INFO: Filling in login credentials.
+05/09/2025 11:36:20 AM: INFO: Submitting login form.
+05/09/2025 11:36:20 AM: INFO: Verifying login success alert message.
+05/09/2025 11:36:21 AM: INFO: Login successful.
+05/09/2025 11:36:21 AM: INFO: Clicked 'Create First Chat'.
+05/09/2025 11:36:22 AM: INFO: [1] Entering question: 'What is the basic structure of the Indian Constitution?'
+05/09/2025 11:37:30 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:37:30 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:37:32 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:37:32 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:37:32 AM: INFO: Filling in login credentials.
+05/09/2025 11:37:33 AM: INFO: Submitting login form.
+05/09/2025 11:37:33 AM: INFO: Verifying login success alert message.
+05/09/2025 11:37:34 AM: INFO: Login successful.
+05/09/2025 11:38:04 AM: INFO: Using sidebar to add new chat.
+05/09/2025 11:38:05 AM: INFO: [1] Entering question: 'What is the basic structure of the Indian Constitution?'
+05/09/2025 11:38:06 AM: INFO: Waiting for response to appear.
+05/09/2025 11:38:36 AM: WARNING: [1] No response container found. Saving screenshot.
+05/09/2025 11:38:36 AM: INFO: [2] Entering question: 'Define the doctrine of basic structure.'
+05/09/2025 11:38:37 AM: INFO: Waiting for response to appear.
+05/09/2025 11:39:07 AM: WARNING: [2] No response container found. Saving screenshot.
+05/09/2025 11:39:07 AM: INFO: [3] Entering question: 'What are the fundamental rights under Article 14?'
+05/09/2025 11:42:41 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:42:41 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:42:42 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:42:42 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:42:43 AM: INFO: Filling in login credentials.
+05/09/2025 11:42:43 AM: INFO: Submitting login form.
+05/09/2025 11:42:43 AM: INFO: Verifying login success alert message.
+05/09/2025 11:42:44 AM: INFO: Login successful.
+05/09/2025 11:42:44 AM: INFO: Clicked 'Create First Chat'.
+05/09/2025 11:42:45 AM: INFO: [1] Entering question: 'What is the basic structure of the Indian Constitution?'
+05/09/2025 11:54:42 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:54:42 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:54:49 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:54:49 AM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/09/2025 11:54:49 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:54:50 AM: INFO: Filling in login credentials.
+05/09/2025 11:54:50 AM: INFO: Submitting login form.
+05/09/2025 11:54:50 AM: INFO: Verifying login success alert message.
+05/09/2025 11:54:51 AM: INFO: Login successful: 'Login Successful !'
+05/09/2025 11:55:22 AM: INFO: 'Create First Chat' not present. Falling back to sidebar method.
+05/09/2025 11:55:23 AM: INFO: New chat created successfully using sidebar buttons.
+05/09/2025 11:55:23 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 11:55:23 AM: INFO: Triggering paragraph search.
+05/09/2025 11:55:23 AM: INFO: Scrolling to bottom of page to view response.
+05/09/2025 11:55:23 AM: INFO: Retrieving paragraph search response text.
+05/09/2025 11:55:47 AM: INFO: Paragraph search successful. Response received.
+05/09/2025 11:55:49 AM: INFO: Initiating logout sequence.
+05/09/2025 11:55:50 AM: INFO: Logout completed successfully.
+05/09/2025 11:55:50 AM: INFO: Validating page title after logout: 'Para'
+05/09/2025 11:55:50 AM: INFO: Page title verification passed.
+05/09/2025 11:55:50 AM: INFO: Closing browser and completing test.
+05/09/2025 11:55:53 AM: INFO: ========== [TEST COMPLETED] test_para_search_functionality ==========
+05/09/2025 11:57:03 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:57:03 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:57:09 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:57:09 AM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/09/2025 11:57:09 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:57:10 AM: INFO: Filling in login credentials.
+05/09/2025 11:57:10 AM: INFO: Submitting login form.
+05/09/2025 11:57:10 AM: INFO: Verifying login success alert message.
+05/09/2025 11:57:11 AM: INFO: Login successful: 'Login Successful !'
+05/09/2025 11:57:41 AM: INFO: 'Create First Chat' not present. Falling back to sidebar method.
+05/09/2025 11:57:43 AM: INFO: New chat created successfully using sidebar buttons.
+05/09/2025 11:57:43 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 11:57:43 AM: INFO: Triggering paragraph search.
+05/09/2025 11:57:43 AM: INFO: Scrolling to bottom of page to view response.
+05/09/2025 11:57:43 AM: INFO: Retrieving paragraph search response text.
+05/09/2025 11:58:13 AM: WARNING: Timeout: Response text not found within the wait time.
+05/09/2025 11:58:13 AM: ERROR: Paragraph search failed. No response text.
+05/09/2025 11:58:25 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 11:58:25 AM: INFO: Initializing WebDriver and launching application.
+05/09/2025 11:58:27 AM: INFO: Application launched: https://para.unada.in/
+05/09/2025 11:58:27 AM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/09/2025 11:58:27 AM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 11:58:27 AM: INFO: Filling in login credentials.
+05/09/2025 11:58:27 AM: INFO: Submitting login form.
+05/09/2025 11:58:28 AM: INFO: Verifying login success alert message.
+05/09/2025 11:58:29 AM: INFO: Login successful: 'Login Successful !'
+05/09/2025 11:58:59 AM: INFO: 'Create First Chat' not present. Falling back to sidebar method.
+05/09/2025 11:59:00 AM: INFO: New chat created successfully using sidebar buttons.
+05/09/2025 11:59:00 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 11:59:00 AM: INFO: Triggering paragraph search.
+05/09/2025 11:59:00 AM: INFO: Scrolling to bottom of page to view response.
+05/09/2025 11:59:00 AM: INFO: Retrieving paragraph search response text.
+05/09/2025 11:59:30 AM: WARNING: Timeout: Response text not found within the wait time.
+05/09/2025 11:59:30 AM: ERROR: Paragraph search failed. No response text.
+05/09/2025 12:02:35 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 12:02:35 PM: INFO: Initializing WebDriver and launching application.
+05/09/2025 12:02:36 PM: INFO: Application launched: https://para.unada.in/
+05/09/2025 12:02:36 PM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/09/2025 12:02:36 PM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 12:02:36 PM: INFO: Filling in login credentials.
+05/09/2025 12:02:37 PM: INFO: Submitting login form.
+05/09/2025 12:02:37 PM: INFO: Verifying login success alert message.
+05/09/2025 12:02:38 PM: INFO: Login successful: 'Login Successful !'
+05/09/2025 12:02:38 PM: INFO: Clicked 'Create First Chat' button.
+05/09/2025 12:02:39 PM: INFO: New chat created successfully using 'Create First Chat'.
+05/09/2025 12:02:39 PM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 12:02:39 PM: INFO: Triggering paragraph search.
+05/09/2025 12:02:39 PM: INFO: Scrolling to bottom of page to view response.
+05/09/2025 12:02:39 PM: INFO: Retrieving paragraph search response text.
+05/09/2025 12:03:09 PM: WARNING: Timeout: Response text not found within the wait time.
+05/09/2025 12:03:09 PM: ERROR: Paragraph search failed. No response text.
+05/09/2025 12:04:16 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 12:04:16 PM: INFO: Initializing WebDriver and launching application.
+05/09/2025 12:04:18 PM: INFO: Application launched: https://para.unada.in/
+05/09/2025 12:04:18 PM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/09/2025 12:04:18 PM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 12:04:18 PM: INFO: Filling in login credentials.
+05/09/2025 12:04:19 PM: INFO: Submitting login form.
+05/09/2025 12:04:19 PM: INFO: Verifying login success alert message.
+05/09/2025 12:04:20 PM: INFO: Login successful: 'Login Successful !'
+05/09/2025 12:04:20 PM: INFO: Clicked 'Create First Chat' button.
+05/09/2025 12:04:21 PM: INFO: New chat created successfully using 'Create First Chat'.
+05/09/2025 12:04:21 PM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 12:04:21 PM: INFO: Triggering paragraph search.
+05/09/2025 12:04:21 PM: INFO: Scrolling to bottom of page to view response.
+05/09/2025 12:04:21 PM: INFO: Retrieving paragraph search response text.
+05/09/2025 12:04:54 PM: INFO: Paragraph search successful. Response received.
+05/09/2025 12:04:56 PM: INFO: Initiating logout sequence.
+05/09/2025 12:04:57 PM: INFO: Logout completed successfully.
+05/09/2025 12:04:57 PM: INFO: Validating page title after logout: 'Para'
+05/09/2025 12:04:57 PM: INFO: Page title verification passed.
+05/09/2025 12:04:57 PM: INFO: Closing browser and completing test.
+05/09/2025 12:04:59 PM: INFO: ========== [TEST COMPLETED] test_para_search_functionality ==========
