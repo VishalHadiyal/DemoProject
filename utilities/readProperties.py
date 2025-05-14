@@ -255,3 +255,7 @@ class ReadConfig:
         """
         return config.get('PARA_SEARCH', 'NEW_CHAT_CREATE_TEXT', fallback=None)
 
+    @staticmethod
+    def get_para_search_text_list():
+        raw_text = config.get('search', 'paragraphSearchQuestions')
+        return [q.strip() for q in raw_text.split('||') if q.strip()]

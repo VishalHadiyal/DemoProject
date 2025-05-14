@@ -7833,3 +7833,672 @@ Stacktrace:
 05/09/2025 12:04:57 PM: INFO: Page title verification passed.
 05/09/2025 12:04:57 PM: INFO: Closing browser and completing test.
 05/09/2025 12:04:59 PM: INFO: ========== [TEST COMPLETED] test_para_search_functionality ==========
+05/09/2025 12:29:30 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 12:29:30 PM: INFO: Initializing WebDriver and launching application.
+05/09/2025 12:29:31 PM: INFO: Application launched: https://para.unada.in/
+05/09/2025 12:29:31 PM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/09/2025 12:29:31 PM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 12:29:31 PM: INFO: Filling in login credentials.
+05/09/2025 12:29:32 PM: INFO: Submitting login form.
+05/09/2025 12:29:32 PM: INFO: Verifying login success alert message.
+05/09/2025 12:29:33 PM: INFO: Login successful: 'Login Successful !'
+05/09/2025 12:29:33 PM: INFO: Clicked 'Create First Chat' button.
+05/09/2025 12:29:34 PM: INFO: New chat created successfully using 'Create First Chat'.
+05/09/2025 12:29:34 PM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/09/2025 12:29:34 PM: INFO: Triggering paragraph search.
+05/09/2025 12:29:34 PM: INFO: Scrolling to bottom of page to view response.
+05/09/2025 12:29:34 PM: INFO: Retrieving paragraph search response text.
+05/09/2025 12:30:16 PM: INFO: Paragraph search successful. Response received.
+05/09/2025 12:30:18 PM: INFO: Initiating logout sequence.
+05/09/2025 12:30:19 PM: INFO: Logout completed successfully.
+05/09/2025 12:30:19 PM: INFO: Validating page title after logout: 'Para'
+05/09/2025 12:30:19 PM: INFO: Page title verification passed.
+05/09/2025 12:30:19 PM: INFO: Closing browser and completing test.
+05/09/2025 12:30:21 PM: INFO: ========== [TEST COMPLETED] test_para_search_functionality ==========
+05/09/2025 12:33:31 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/09/2025 12:33:31 PM: INFO: Initializing WebDriver and launching application.
+05/09/2025 12:33:33 PM: INFO: Application launched: https://para.unada.in/
+05/09/2025 12:33:33 PM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/09/2025 12:33:33 PM: INFO: Clicking 'Login' button on HomePage.
+05/09/2025 12:33:33 PM: INFO: Filling in login credentials.
+05/09/2025 12:33:33 PM: INFO: Submitting login form.
+05/09/2025 12:33:33 PM: INFO: Verifying login success alert message.
+05/09/2025 12:33:34 PM: INFO: Login successful: 'Login Successful !'
+05/12/2025 09:25:53 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 09:25:53 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 09:25:56 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 09:25:56 AM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/12/2025 09:25:56 AM: INFO: Clicking 'Login' button on HomePage.
+05/12/2025 09:25:56 AM: INFO: Filling in login credentials.
+05/12/2025 09:25:56 AM: INFO: Submitting login form.
+05/12/2025 09:25:56 AM: INFO: Verifying login success alert message.
+05/12/2025 09:25:57 AM: INFO: Login successful: 'Login Successful !'
+05/12/2025 09:25:58 AM: INFO: Clicked 'Create First Chat' button.
+05/12/2025 09:25:58 AM: INFO: New chat created successfully using 'Create First Chat'.
+05/12/2025 09:25:58 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/12/2025 09:25:59 AM: INFO: Triggering paragraph search.
+05/12/2025 09:25:59 AM: INFO: Scrolling to bottom of page to view response.
+05/12/2025 09:25:59 AM: INFO: Retrieving paragraph search response text.
+05/12/2025 09:26:16 AM: INFO: Paragraph search successful. Response received.
+05/12/2025 09:26:18 AM: INFO: Initiating logout sequence.
+05/12/2025 09:26:18 AM: INFO: Logout completed successfully.
+05/12/2025 09:26:18 AM: INFO: Validating page title after logout: 'Para'
+05/12/2025 09:26:18 AM: INFO: Page title verification passed.
+05/12/2025 09:26:18 AM: INFO: Closing browser and completing test.
+05/12/2025 09:26:21 AM: INFO: ========== [TEST COMPLETED] test_para_search_functionality ==========
+05/12/2025 09:26:32 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 09:26:32 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 09:26:33 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 09:26:33 AM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/12/2025 09:26:33 AM: INFO: Clicking 'Login' button on HomePage.
+05/12/2025 09:26:33 AM: INFO: Filling in login credentials.
+05/12/2025 09:26:34 AM: INFO: Submitting login form.
+05/12/2025 09:26:34 AM: INFO: Verifying login success alert message.
+05/12/2025 09:26:35 AM: INFO: Login successful: 'Login Successful !'
+05/12/2025 09:27:35 AM: INFO: 'Create First Chat' not present. Falling back to sidebar method.
+05/12/2025 09:27:36 AM: INFO: New chat created successfully using sidebar buttons.
+05/12/2025 09:27:36 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/12/2025 09:27:37 AM: INFO: Triggering paragraph search.
+05/12/2025 09:27:37 AM: INFO: Scrolling to bottom of page to view response.
+05/12/2025 09:27:37 AM: INFO: Retrieving paragraph search response text.
+05/12/2025 09:27:50 AM: INFO: Paragraph search successful. Response received.
+05/12/2025 09:27:52 AM: INFO: Initiating logout sequence.
+05/12/2025 09:27:53 AM: INFO: Logout completed successfully.
+05/12/2025 09:27:53 AM: INFO: Validating page title after logout: 'Para'
+05/12/2025 09:27:53 AM: INFO: Page title verification passed.
+05/12/2025 09:27:53 AM: INFO: Closing browser and completing test.
+05/12/2025 09:27:55 AM: INFO: ========== [TEST COMPLETED] test_para_search_functionality ==========
+05/12/2025 09:32:27 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 09:32:27 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 09:32:28 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 09:32:28 AM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/12/2025 09:32:28 AM: INFO: Clicking 'Login' button on HomePage.
+05/12/2025 09:32:29 AM: INFO: Filling in login credentials.
+05/12/2025 09:32:29 AM: INFO: Submitting login form.
+05/12/2025 09:32:29 AM: INFO: Verifying login success alert message.
+05/12/2025 09:32:30 AM: INFO: Login successful: 'Login Successful !'
+05/12/2025 09:32:30 AM: INFO: Clicked 'Create First Chat' button.
+05/12/2025 09:32:31 AM: INFO: New chat created successfully using 'Create First Chat'.
+05/12/2025 09:32:31 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/12/2025 09:32:31 AM: INFO: Triggering paragraph search.
+05/12/2025 09:32:32 AM: INFO: Scrolling to bottom of page to view response.
+05/12/2025 09:32:32 AM: INFO: Retrieving paragraph search response text.
+05/12/2025 09:32:48 AM: INFO: Paragraph search successful. Response received.
+05/12/2025 09:32:50 AM: INFO: Initiating logout sequence.
+05/12/2025 09:32:51 AM: INFO: Logout completed successfully.
+05/12/2025 09:32:51 AM: INFO: Validating page title after logout: 'Para'
+05/12/2025 09:32:51 AM: INFO: Page title verification passed.
+05/12/2025 09:32:51 AM: INFO: Closing browser and completing test.
+05/12/2025 09:32:53 AM: INFO: ========== [TEST COMPLETED] test_para_search_functionality ==========
+05/12/2025 09:49:50 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 09:49:50 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 09:49:52 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 09:49:52 AM: INFO: Clicking 'Login' button on HomePage.
+05/12/2025 09:49:52 AM: INFO: Filling in login credentials.
+05/12/2025 09:49:53 AM: INFO: Submitting login form.
+05/12/2025 09:49:53 AM: INFO: Verifying login success alert message.
+05/12/2025 09:49:54 AM: INFO: Login successful.
+05/12/2025 09:50:54 AM: INFO: 'Create First Chat' not present. Using sidebar.
+05/12/2025 09:50:56 AM: INFO: [1] Inputting paragraph search text: 'What is Article 21 of the Indian Constitution?'
+05/12/2025 09:50:56 AM: INFO: [1] Triggering paragraph search.
+05/12/2025 09:50:56 AM: INFO: [1] Waiting for response.
+05/12/2025 09:50:59 AM: INFO: [1] Scrolling to bottom of the page.
+05/12/2025 09:51:08 AM: INFO: [1] Paragraph search successful.
+05/12/2025 09:51:08 AM: INFO: [2] Inputting paragraph search text: 'Explain the basic structure doctrine.'
+05/12/2025 09:51:09 AM: INFO: [2] Triggering paragraph search.
+05/12/2025 09:51:09 AM: INFO: [2] Waiting for response.
+05/12/2025 09:51:12 AM: INFO: [2] Scrolling to bottom of the page.
+05/12/2025 09:51:12 AM: INFO: [2] Paragraph search successful.
+05/12/2025 09:51:12 AM: INFO: [3] Inputting paragraph search text: 'What are the powers of the Supreme Court under Article 32?'
+05/12/2025 09:53:53 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 09:53:56 AM: INFO: Login successful.
+05/12/2025 09:54:08 AM: INFO: [1] Inputting paragraph search: 'What is Article 21 of the Indian Constitution?'
+05/12/2025 09:54:28 AM: ERROR: [1] Unexpected error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF69E3ECF25+75717]
+	GetHandleVerifier [0x00007FF69E3ECF80+75808]
+	(No symbol) [0x00007FF69E1B8F9A]
+	(No symbol) [0x00007FF69E20F4C6]
+	(No symbol) [0x00007FF69E20F77C]
+	(No symbol) [0x00007FF69E262577]
+	(No symbol) [0x00007FF69E2373BF]
+	(No symbol) [0x00007FF69E25F39C]
+	(No symbol) [0x00007FF69E237153]
+	(No symbol) [0x00007FF69E200421]
+	(No symbol) [0x00007FF69E2011B3]
+	GetHandleVerifier [0x00007FF69E6ED6FD+3223453]
+	GetHandleVerifier [0x00007FF69E6E7CA2+3200322]
+	GetHandleVerifier [0x00007FF69E705AD3+3322739]
+	GetHandleVerifier [0x00007FF69E4069FA+180890]
+	GetHandleVerifier [0x00007FF69E40E0FF+211359]
+	GetHandleVerifier [0x00007FF69E3F5274+109332]
+	GetHandleVerifier [0x00007FF69E3F5422+109762]
+	GetHandleVerifier [0x00007FF69E3DBA39+4825]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/12/2025 09:54:56 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 09:54:59 AM: INFO: Login successful.
+05/12/2025 09:55:10 AM: INFO: [1] Inputting paragraph search: 'What is Article 21 of the Indian Constitution?'
+05/12/2025 09:55:31 AM: ERROR: [1] Unexpected error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF69E3ECF25+75717]
+	GetHandleVerifier [0x00007FF69E3ECF80+75808]
+	(No symbol) [0x00007FF69E1B8F9A]
+	(No symbol) [0x00007FF69E20F4C6]
+	(No symbol) [0x00007FF69E20F77C]
+	(No symbol) [0x00007FF69E262577]
+	(No symbol) [0x00007FF69E2373BF]
+	(No symbol) [0x00007FF69E25F39C]
+	(No symbol) [0x00007FF69E237153]
+	(No symbol) [0x00007FF69E200421]
+	(No symbol) [0x00007FF69E2011B3]
+	GetHandleVerifier [0x00007FF69E6ED6FD+3223453]
+	GetHandleVerifier [0x00007FF69E6E7CA2+3200322]
+	GetHandleVerifier [0x00007FF69E705AD3+3322739]
+	GetHandleVerifier [0x00007FF69E4069FA+180890]
+	GetHandleVerifier [0x00007FF69E40E0FF+211359]
+	GetHandleVerifier [0x00007FF69E3F5274+109332]
+	GetHandleVerifier [0x00007FF69E3F5422+109762]
+	GetHandleVerifier [0x00007FF69E3DBA39+4825]
+	BaseThreadInitThunk [0x00007FFFCEAEE8D7+23]
+	RtlUserThreadStart [0x00007FFFD04714FC+44]
+
+05/12/2025 09:56:08 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 09:56:08 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 09:56:09 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 09:56:09 AM: INFO: Clicking 'Login' button on HomePage.
+05/12/2025 09:56:10 AM: INFO: Filling in login credentials.
+05/12/2025 09:56:10 AM: INFO: Submitting login form.
+05/12/2025 09:56:10 AM: INFO: Verifying login success alert message.
+05/12/2025 09:56:11 AM: INFO: Login successful.
+05/12/2025 09:57:11 AM: INFO: 'Create First Chat' not present. Using sidebar.
+05/12/2025 09:57:12 AM: INFO: [1] Inputting paragraph search text: 'What is Article 21 of the Indian Constitution?'
+05/12/2025 09:57:13 AM: INFO: [1] Triggering paragraph search.
+05/12/2025 09:57:13 AM: INFO: [1] Waiting for response.
+05/12/2025 09:57:16 AM: INFO: [1] Scrolling to bottom of the page.
+05/12/2025 09:57:28 AM: INFO: [1] Paragraph search successful.
+05/12/2025 09:57:28 AM: INFO: [2] Inputting paragraph search text: 'Explain the basic structure doctrine.'
+05/12/2025 09:57:29 AM: INFO: [2] Triggering paragraph search.
+05/12/2025 09:57:29 AM: INFO: [2] Waiting for response.
+05/12/2025 09:57:32 AM: INFO: [2] Scrolling to bottom of the page.
+05/12/2025 09:57:33 AM: INFO: [2] Paragraph search successful.
+05/12/2025 09:57:33 AM: INFO: [3] Inputting paragraph search text: 'What are the powers of the Supreme Court under Article 32?'
+05/12/2025 10:01:17 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 10:01:17 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 10:01:19 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 10:01:19 AM: INFO: Clicking 'Login' button on HomePage.
+05/12/2025 10:01:19 AM: INFO: Filling in login credentials.
+05/12/2025 10:01:19 AM: INFO: Submitting login form.
+05/12/2025 10:01:19 AM: INFO: Verifying login success alert message.
+05/12/2025 10:01:20 AM: INFO: Login successful.
+05/12/2025 10:01:20 AM: INFO: [1] Creating a new chat for paragraph search.
+05/12/2025 10:02:20 AM: INFO: [1] 'Create First Chat' not available, using sidebar.
+05/12/2025 10:02:22 AM: INFO: [1] Inputting paragraph search text: 'What is Article 21 of the Indian Constitution?'
+05/12/2025 10:02:22 AM: INFO: [1] Triggering paragraph search.
+05/12/2025 10:02:22 AM: INFO: [1] Waiting for response.
+05/12/2025 10:02:25 AM: INFO: [1] Scrolling to bottom of the page.
+05/12/2025 10:02:34 AM: INFO: [1] Paragraph search successful.
+05/12/2025 10:02:34 AM: INFO: [2] Creating a new chat for paragraph search.
+05/12/2025 10:03:34 AM: INFO: [2] 'Create First Chat' not available, using sidebar.
+05/12/2025 10:04:34 AM: WARNING: [2] Exception on 'Create First Chat', using sidebar fallback.
+05/12/2025 10:42:53 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 10:42:53 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 10:42:54 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 10:42:54 AM: INFO: Initializing Page Objects: HomePage, LoginPage, ParaSearch, ProfilePage.
+05/12/2025 10:42:54 AM: INFO: Clicking 'Login' button on HomePage.
+05/12/2025 10:42:55 AM: INFO: Filling in login credentials.
+05/12/2025 10:42:55 AM: INFO: Submitting login form.
+05/12/2025 10:42:55 AM: INFO: Verifying login success alert message.
+05/12/2025 10:42:57 AM: INFO: Login successful: 'Login Successful !'
+05/12/2025 10:42:57 AM: INFO: Clicked 'Create First Chat' button.
+05/12/2025 10:42:58 AM: INFO: New chat created successfully using 'Create First Chat'.
+05/12/2025 10:42:58 AM: INFO: Inputting paragraph search text: 'Describe article 15 of indian constitution.'
+05/12/2025 10:42:58 AM: INFO: Triggering paragraph search.
+05/12/2025 10:42:58 AM: INFO: Scrolling to bottom of page to view response.
+05/12/2025 10:42:58 AM: INFO: Retrieving paragraph search response text.
+05/12/2025 10:43:15 AM: INFO: Paragraph search successful. Response received.
+05/12/2025 10:43:17 AM: INFO: Initiating logout sequence.
+05/12/2025 10:43:17 AM: INFO: Logout completed successfully.
+05/12/2025 10:43:17 AM: INFO: Validating page title after logout: 'Para'
+05/12/2025 10:43:17 AM: INFO: Page title verification passed.
+05/12/2025 10:43:17 AM: INFO: Closing browser and completing test.
+05/12/2025 10:43:20 AM: INFO: ========== [TEST COMPLETED] test_para_search_functionality ==========
+05/12/2025 10:50:22 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 10:50:22 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 10:50:25 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 10:50:25 AM: INFO: Clicking 'Login' button.
+05/12/2025 10:50:25 AM: INFO: Entering login credentials.
+05/12/2025 10:50:25 AM: INFO: Submitting login form.
+05/12/2025 10:50:25 AM: INFO: Checking login success message.
+05/12/2025 10:50:26 AM: INFO: Login successful.
+05/12/2025 10:51:26 AM: INFO: 'Create First Chat' not found. Using sidebar method.
+05/12/2025 10:51:28 AM: INFO: New chat created successfully.
+05/12/2025 10:51:28 AM: INFO: Total questions to process: 3
+05/12/2025 10:51:28 AM: INFO: Sending Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 10:51:29 AM: INFO: Clicked search button. Waiting for response...
+05/12/2025 10:51:45 AM: INFO: Response received for Question 1
+05/12/2025 10:51:45 AM: INFO: Sending Question 2: Explain the basic structure doctrine.
+05/12/2025 10:51:48 AM: INFO: Clicked search button. Waiting for response...
+05/12/2025 10:51:53 AM: INFO: Response received for Question 2
+05/12/2025 10:51:53 AM: INFO: Sending Question 3: What are the powers of the Supreme Court under Article 32?
+05/12/2025 10:52:57 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 10:52:57 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 10:52:59 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 10:52:59 AM: INFO: Clicking 'Login' button.
+05/12/2025 10:52:59 AM: INFO: Entering login credentials.
+05/12/2025 10:52:59 AM: INFO: Submitting login form.
+05/12/2025 10:53:00 AM: INFO: Checking login success message.
+05/12/2025 10:53:01 AM: INFO: Login successful.
+05/12/2025 10:56:23 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 10:56:23 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 10:56:25 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 10:56:25 AM: INFO: Clicking 'Login' button.
+05/12/2025 10:56:25 AM: INFO: Entering login credentials.
+05/12/2025 10:56:25 AM: INFO: Submitting login form.
+05/12/2025 10:56:26 AM: INFO: Checking login success message.
+05/12/2025 10:56:27 AM: INFO: Login successful.
+05/12/2025 10:56:27 AM: INFO: Clicked 'Create First Chat'.
+05/12/2025 10:56:28 AM: INFO: New chat created successfully.
+05/12/2025 10:56:28 AM: INFO: Total questions to process: 3
+05/12/2025 10:56:28 AM: INFO: Sending Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 10:56:30 AM: INFO: Clicked search button. Waiting for response...
+05/12/2025 10:56:52 AM: INFO: Response received for Question 1
+05/12/2025 10:56:52 AM: INFO: Sending Question 2: Explain the basic structure doctrine.
+05/12/2025 10:56:54 AM: INFO: Clicked search button. Waiting for response...
+05/12/2025 10:56:59 AM: INFO: Response received for Question 2
+05/12/2025 10:56:59 AM: INFO: Sending Question 3: What are the powers of the Supreme Court under Article 32?
+05/12/2025 11:08:49 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 11:08:49 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 11:08:50 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 11:08:50 AM: INFO: Clicking 'Login' button.
+05/12/2025 11:08:51 AM: INFO: Entering login credentials.
+05/12/2025 11:08:51 AM: INFO: Submitting login form.
+05/12/2025 11:08:51 AM: INFO: Checking login success message.
+05/12/2025 11:08:52 AM: INFO: Login successful.
+05/12/2025 11:11:07 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 11:11:07 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 11:11:09 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 11:11:09 AM: INFO: Clicking 'Login' button.
+05/12/2025 11:11:09 AM: INFO: Entering login credentials.
+05/12/2025 11:11:10 AM: INFO: Submitting login form.
+05/12/2025 11:11:10 AM: INFO: Checking login success message.
+05/12/2025 11:11:11 AM: INFO: Login successful.
+05/12/2025 11:15:46 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 11:15:46 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 11:15:48 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 11:15:48 AM: INFO: Clicking 'Login' button.
+05/12/2025 11:15:49 AM: INFO: Entering login credentials.
+05/12/2025 11:15:49 AM: INFO: Submitting login form.
+05/12/2025 11:15:49 AM: INFO: Checking login success message.
+05/12/2025 11:15:50 AM: INFO: Login successful.
+05/12/2025 11:23:58 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 11:23:58 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 11:23:59 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 11:23:59 AM: INFO: Clicking 'Login' button.
+05/12/2025 11:24:00 AM: INFO: Entering login credentials.
+05/12/2025 11:24:00 AM: INFO: Submitting login form.
+05/12/2025 11:24:00 AM: INFO: Checking login success message.
+05/12/2025 11:24:01 AM: INFO: Login successful.
+05/12/2025 11:26:37 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 11:26:37 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 11:26:39 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 11:26:39 AM: INFO: Clicking 'Login' button.
+05/12/2025 11:26:39 AM: INFO: Entering login credentials.
+05/12/2025 11:26:40 AM: INFO: Submitting login form.
+05/12/2025 11:26:40 AM: INFO: Checking login success message.
+05/12/2025 11:26:41 AM: INFO: Login successful.
+05/12/2025 11:29:04 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 11:29:04 AM: INFO: Initializing WebDriver and launching application.
+05/12/2025 11:29:06 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 11:29:06 AM: INFO: Clicking 'Login' button.
+05/12/2025 11:29:06 AM: INFO: Entering login credentials.
+05/12/2025 11:29:07 AM: INFO: Submitting login form.
+05/12/2025 11:29:07 AM: INFO: Checking login success message.
+05/12/2025 11:29:08 AM: INFO: Login successful.
+05/12/2025 11:41:09 AM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 11:41:11 AM: INFO: Application launched: https://para.unada.in/
+05/12/2025 11:41:11 AM: INFO: Clicking 'Login' button.
+05/12/2025 11:41:11 AM: INFO: Entering login credentials.
+05/12/2025 11:41:12 AM: INFO: Waiting for login success message.
+05/12/2025 11:41:13 AM: INFO: Login successful.
+05/12/2025 11:41:13 AM: INFO: 'Create First Chat' not found. Using sidebar method.
+05/12/2025 11:41:15 AM: INFO: New chat created successfully.
+05/12/2025 11:41:15 AM: INFO: Total questions to process: 3
+05/12/2025 11:41:15 AM: INFO: Sending Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 11:41:27 AM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 11:41:32 AM: INFO: Response received for Question 1
+05/12/2025 11:41:32 AM: INFO: Sending Question 2: Explain the basic structure doctrine.
+05/12/2025 11:41:35 AM: INFO: Response received for Question 2
+05/12/2025 11:41:35 AM: INFO: Sending Question 3: What are the powers of the Supreme Court under Article 32?
+05/12/2025 12:00:41 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:00:44 PM: INFO: Application launched: https://para.unada.in/
+05/12/2025 12:00:44 PM: INFO: Clicking 'Login' button.
+05/12/2025 12:00:44 PM: INFO: Entering login credentials.
+05/12/2025 12:00:44 PM: INFO: Waiting for login success message.
+05/12/2025 12:00:45 PM: INFO: Login successful.
+05/12/2025 12:00:45 PM: INFO: 'Create First Chat' not visible. Creating new chat via sidebar.
+05/12/2025 12:00:47 PM: INFO: New chat successfully created.
+05/12/2025 12:00:47 PM: INFO: Total questions to process: 3
+05/12/2025 12:00:47 PM: INFO: Sending Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 12:00:59 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:01:06 PM: INFO: Received response for Question 1
+05/12/2025 12:01:06 PM: INFO: Sending Question 2: Explain the basic structure doctrine.
+05/12/2025 12:01:09 PM: INFO: Received response for Question 2
+05/12/2025 12:01:09 PM: INFO: Sending Question 3: What are the powers of the Supreme Court under Article 32?
+05/12/2025 12:11:18 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:11:21 PM: INFO: Application launched: https://para.unada.in/
+05/12/2025 12:11:21 PM: INFO: Clicking 'Login' button.
+05/12/2025 12:11:21 PM: INFO: Entering login credentials.
+05/12/2025 12:11:21 PM: INFO: Waiting for login success message.
+05/12/2025 12:11:23 PM: INFO: Login successful.
+05/12/2025 12:11:23 PM: INFO: 'Create First Chat' not visible. Creating new chat via sidebar.
+05/12/2025 12:11:25 PM: INFO: New chat successfully created.
+05/12/2025 12:11:25 PM: INFO: Total questions to process: 3
+05/12/2025 12:11:25 PM: INFO: Sending Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 12:11:37 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:11:46 PM: INFO: Received response for Question 1
+05/12/2025 12:11:46 PM: INFO: Sending Question 2: Explain the basic structure doctrine.
+05/12/2025 12:11:50 PM: INFO: Received response for Question 2
+05/12/2025 12:11:50 PM: INFO: Sending Question 3: What are the powers of the Supreme Court under Article 32?
+05/12/2025 12:12:00 PM: ERROR: Error handling Question 3: Message: 
+
+05/12/2025 12:19:14 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:19:16 PM: INFO: Application launched: https://para.unada.in/
+05/12/2025 12:19:16 PM: INFO: Clicking 'Login' button.
+05/12/2025 12:19:17 PM: INFO: Entering login credentials.
+05/12/2025 12:19:17 PM: INFO: Waiting for login success message.
+05/12/2025 12:19:18 PM: INFO: Login successful.
+05/12/2025 12:19:18 PM: INFO: Total questions to process: 3
+05/12/2025 12:19:18 PM: INFO: Creating new chat for Question 1
+05/12/2025 12:19:19 PM: INFO: New chat created.
+05/12/2025 12:19:32 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:19:33 PM: INFO: Received response for Question 1
+05/12/2025 12:19:33 PM: INFO: Creating new chat for Question 2
+05/12/2025 12:19:33 PM: ERROR: Error processing Question 2: Message: no such element: Unable to locate element: {"method":"css selector","selector":".MuiBox-root.css-19zr93t"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7055DCF25+75717]
+	GetHandleVerifier [0x00007FF7055DCF80+75808]
+	(No symbol) [0x00007FF7053A8F9A]
+	(No symbol) [0x00007FF7053FF4C6]
+	(No symbol) [0x00007FF7053FF77C]
+	(No symbol) [0x00007FF705452577]
+	(No symbol) [0x00007FF7054273BF]
+	(No symbol) [0x00007FF70544F39C]
+	(No symbol) [0x00007FF705427153]
+	(No symbol) [0x00007FF7053F0421]
+	(No symbol) [0x00007FF7053F11B3]
+	GetHandleVerifier [0x00007FF7058DD6FD+3223453]
+	GetHandleVerifier [0x00007FF7058D7CA2+3200322]
+	GetHandleVerifier [0x00007FF7058F5AD3+3322739]
+	GetHandleVerifier [0x00007FF7055F69FA+180890]
+	GetHandleVerifier [0x00007FF7055FE0FF+211359]
+	GetHandleVerifier [0x00007FF7055E5274+109332]
+	GetHandleVerifier [0x00007FF7055E5422+109762]
+	GetHandleVerifier [0x00007FF7055CBA39+4825]
+	BaseThreadInitThunk [0x00007FFA061CE8D7+23]
+	RtlUserThreadStart [0x00007FFA083F14FC+44]
+
+05/12/2025 12:23:57 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:24:01 PM: INFO: Creating new chat for Question 1
+05/12/2025 12:24:03 PM: ERROR: Error processing Question 1: 'TestParaSearchPage' object has no attribute 'wait_for_search_bar_ready'
+05/12/2025 12:25:12 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:25:15 PM: INFO: Creating new chat for Question 1
+05/12/2025 12:25:16 PM: ERROR: Error processing Question 1: 'TestParaSearchPage' object has no attribute 'wait_for_search_bar_ready'
+05/12/2025 12:26:30 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:26:34 PM: INFO: Creating new chat for Question 1
+05/12/2025 12:26:49 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:26:59 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:27:00 PM: INFO: Creating new chat for Question 2
+05/12/2025 12:27:10 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:27:10 PM: WARNING: Sidebar not available. Skipping click.
+05/12/2025 12:27:23 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:27:34 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:27:45 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:27:45 PM: ERROR: Error processing Question 2: Message: 
+
+05/12/2025 12:32:14 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:32:19 PM: INFO: Creating new chat for Question 1
+05/12/2025 12:32:21 PM: INFO: New chat created.
+05/12/2025 12:32:21 PM: ERROR: Search bar issue before Question 1: 'TestParaSearchPage' object has no attribute 'wait_for_search_bar_ready'
+05/12/2025 12:32:21 PM: ERROR: Unhandled error in Question 1: assert False
+05/12/2025 12:32:49 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:32:54 PM: INFO: Creating new chat for Question 1
+05/12/2025 12:32:56 PM: INFO: New chat created.
+05/12/2025 12:33:09 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:33:16 PM: INFO: Received response for Question 1
+05/12/2025 12:33:16 PM: INFO: Creating new chat for Question 2
+05/12/2025 12:33:27 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:33:27 PM: WARNING: Sidebar not available. Skipping click.
+05/12/2025 12:33:27 PM: INFO: New chat created.
+05/12/2025 12:33:40 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:33:51 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:34:01 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:34:01 PM: ERROR: No response for Question 2
+05/12/2025 12:34:02 PM: ERROR: Unhandled error in Question 2: assert False
+05/12/2025 12:35:25 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:35:29 PM: INFO: Creating new chat for Question 1
+05/12/2025 12:35:31 PM: INFO: New chat created.
+05/12/2025 12:35:44 PM: INFO: Received response for Question 1
+05/12/2025 12:35:44 PM: INFO: Creating new chat for Question 2
+05/12/2025 12:35:54 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:35:54 PM: WARNING: Sidebar not available. Skipping click.
+05/12/2025 12:35:55 PM: INFO: New chat created.
+05/12/2025 12:36:07 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:36:18 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:36:29 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:36:40 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:36:48 PM: INFO: Received response for Question 2
+05/12/2025 12:36:48 PM: INFO: Creating new chat for Question 3
+05/12/2025 12:36:58 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:36:58 PM: WARNING: Sidebar not available. Skipping click.
+05/12/2025 12:36:59 PM: INFO: New chat created.
+05/12/2025 12:37:11 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:37:22 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:37:32 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:37:43 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:37:49 PM: INFO: Received response for Question 3
+05/12/2025 12:37:53 PM: INFO: ========== [TEST PASSED] test_para_search_functionality ==========
+05/12/2025 12:45:08 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:45:13 PM: INFO: Creating new chat for Question 1
+05/12/2025 12:45:16 PM: INFO: New chat created.
+05/12/2025 12:45:29 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:45:31 PM: INFO: Received response for Question 1
+05/12/2025 12:45:31 PM: INFO: Creating new chat for Question 2
+05/12/2025 12:45:42 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:45:42 PM: WARNING: Sidebar not available. Skipping click.
+05/12/2025 12:45:43 PM: INFO: New chat created.
+05/12/2025 12:45:56 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:46:06 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:46:17 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:46:28 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:46:33 PM: INFO: Received response for Question 2
+05/12/2025 12:46:33 PM: INFO: Creating new chat for Question 3
+05/12/2025 12:46:44 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:46:44 PM: WARNING: Sidebar not available. Skipping click.
+05/12/2025 12:46:45 PM: INFO: New chat created.
+05/12/2025 12:46:57 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:47:08 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:47:19 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:47:29 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:47:34 PM: INFO: Received response for Question 3
+05/12/2025 12:47:34 PM: INFO: Responses saved to JSON file.
+05/12/2025 12:47:38 PM: INFO: ========== [TEST PASSED] test_para_search_functionality ==========
+05/12/2025 12:55:21 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 12:55:25 PM: INFO: [START] Processing Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 12:55:27 PM: INFO: [INFO] New chat created for Question 1.
+05/12/2025 12:55:40 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:55:43 PM: INFO: [SUCCESS] Response received for Question 1.
+05/12/2025 12:55:43 PM: INFO: [START] Processing Question 2: Explain the basic structure doctrine.
+05/12/2025 12:55:53 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:55:53 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 12:55:54 PM: INFO: [INFO] New chat created for Question 2.
+05/12/2025 12:56:06 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:56:17 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:56:27 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:56:38 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:56:45 PM: INFO: [SUCCESS] Response received for Question 2.
+05/12/2025 12:56:45 PM: INFO: [START] Processing Question 3: What are the powers of the Supreme Court under Article 32?
+05/12/2025 12:56:55 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:56:55 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 12:56:56 PM: INFO: [INFO] New chat created for Question 3.
+05/12/2025 12:57:09 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:57:19 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:57:30 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:57:40 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:57:46 PM: INFO: [SUCCESS] Response received for Question 3.
+05/12/2025 12:57:46 PM: INFO: [START] Processing Question 4: What is the difference between constitutional law and administrative law?
+05/12/2025 12:57:57 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:57:57 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 12:57:58 PM: INFO: [INFO] New chat created for Question 4.
+05/12/2025 12:58:10 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:58:21 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:58:31 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:58:42 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:58:48 PM: INFO: [SUCCESS] Response received for Question 4.
+05/12/2025 12:58:48 PM: INFO: [START] Processing Question 5: How is a writ petition filed in the High Court?
+05/12/2025 12:58:58 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 12:58:58 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 12:58:59 PM: INFO: [INFO] New chat created for Question 5.
+05/12/2025 12:59:11 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:59:22 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:59:33 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:59:44 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 12:59:55 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:00:05 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:00:05 PM: ERROR: [ERROR] No response received for Question 5.
+05/12/2025 01:00:06 PM: ERROR: [FATAL ERROR] Unexpected error for Question 5: assert False
+05/12/2025 01:50:22 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 01:50:27 PM: INFO: [START] Processing Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 01:50:29 PM: INFO: [INFO] New chat created for Question 1.
+05/12/2025 01:50:42 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:50:49 PM: INFO: [SUCCESS] Response received for Question 1.
+05/12/2025 01:50:49 PM: INFO: [START] Processing Question 2: Explain the basic structure doctrine.
+05/12/2025 01:50:59 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 01:50:59 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 01:51:00 PM: INFO: [INFO] New chat created for Question 2.
+05/12/2025 01:51:12 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:51:23 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:51:34 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:51:44 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:51:48 PM: INFO: [SUCCESS] Response received for Question 2.
+05/12/2025 01:51:48 PM: INFO: [START] Processing Question 3: What are the powers of the Supreme Court under Article 32?
+05/12/2025 01:51:59 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 01:51:59 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 01:52:00 PM: INFO: [INFO] New chat created for Question 3.
+05/12/2025 01:52:12 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:52:23 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:52:34 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:52:44 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:52:51 PM: INFO: [SUCCESS] Response received for Question 3.
+05/12/2025 01:52:51 PM: INFO: [START] Processing Question 4: What is the difference between constitutional law and administrative law?
+05/12/2025 01:53:01 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 01:53:01 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 01:53:02 PM: INFO: [INFO] New chat created for Question 4.
+05/12/2025 01:53:15 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:53:26 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:53:36 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:53:47 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:53:50 PM: INFO: [SUCCESS] Response received for Question 4.
+05/12/2025 01:53:50 PM: INFO: [START] Processing Question 5: How is a writ petition filed in the High Court?
+05/12/2025 01:54:00 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 01:54:00 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 01:54:01 PM: INFO: [INFO] New chat created for Question 5.
+05/12/2025 01:54:13 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:54:24 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:54:35 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:54:46 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 01:54:52 PM: INFO: [SUCCESS] Response received for Question 5.
+05/12/2025 01:54:52 PM: INFO: [INFO] All responses saved to para_search_responses.json.
+05/12/2025 01:54:53 PM: INFO: [INFO] Logout successful.
+05/12/2025 01:54:55 PM: INFO: ========== [TEST PASSED] test_para_search_functionality ==========
+05/12/2025 02:02:53 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 02:02:56 PM: INFO: [START] Processing Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 02:02:58 PM: INFO: [INFO] New chat created for Question 1.
+05/12/2025 02:03:11 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:03:11 PM: INFO: [SUCCESS] Response received for Question 1.
+05/12/2025 02:03:11 PM: INFO: [START] Processing Question 2: Explain the basic structure doctrine.
+05/12/2025 02:03:22 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 02:03:22 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 02:03:22 PM: INFO: [INFO] New chat created for Question 2.
+05/12/2025 02:03:35 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:03:45 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:03:56 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:04:06 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:04:17 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:04:18 PM: INFO: [SUCCESS] Response received for Question 2.
+05/12/2025 02:04:18 PM: INFO: [START] Processing Question 3: What are the powers of the Supreme Court under Article 32?
+05/12/2025 02:04:28 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 02:04:28 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 02:04:29 PM: INFO: [INFO] New chat created for Question 3.
+05/12/2025 02:04:42 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:04:53 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:05:03 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:05:14 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:05:18 PM: INFO: [SUCCESS] Response received for Question 3.
+05/12/2025 02:05:18 PM: INFO: [START] Processing Question 4: What is the difference between constitutional law and administrative law?
+05/12/2025 02:05:29 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 02:05:29 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 02:05:29 PM: INFO: [INFO] New chat created for Question 4.
+05/12/2025 02:05:42 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:05:53 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:06:03 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:06:14 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:06:21 PM: INFO: [SUCCESS] Response received for Question 4.
+05/12/2025 02:06:21 PM: INFO: [START] Processing Question 5: How is a writ petition filed in the High Court?
+05/12/2025 02:06:31 PM: ERROR: Sidebar button not found or not clickable.
+05/12/2025 02:06:31 PM: WARNING: [WARNING] Sidebar not available. Continuing without clicking.
+05/12/2025 02:06:32 PM: INFO: [INFO] New chat created for Question 5.
+05/12/2025 02:06:44 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:06:55 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:07:06 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:07:16 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:07:21 PM: INFO: [SUCCESS] Response received for Question 5.
+05/12/2025 02:07:21 PM: INFO: [INFO] All responses saved to para_search_responses.json.
+05/12/2025 02:07:22 PM: INFO: [INFO] Logout successful.
+05/12/2025 02:07:24 PM: INFO: ========== [TEST PASSED] test_para_search_functionality ==========
+05/12/2025 02:19:32 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 02:19:36 PM: INFO: [START] Processing Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 02:19:38 PM: INFO: [INFO] New chat created for Question 1.
+05/12/2025 02:19:51 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:20:01 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:20:12 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:20:23 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:20:34 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:20:45 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:20:45 PM: ERROR: [ERROR] No response received for Question 1.
+05/12/2025 02:20:45 PM: ERROR: [FATAL ERROR] Unexpected error for Question 1: assert False
+05/12/2025 02:21:23 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 02:21:27 PM: INFO: [START] Processing Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 02:21:28 PM: INFO: [INFO] New chat created for Question 1.
+05/12/2025 02:21:41 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:21:52 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:22:03 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:22:13 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:22:24 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:22:35 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:22:35 PM: ERROR: [ERROR] No response received for Question 1.
+05/12/2025 02:22:35 PM: ERROR: [FATAL ERROR] Unexpected error for Question 1: assert False
+05/12/2025 02:22:58 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 02:23:02 PM: INFO: [START] Processing Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 02:23:04 PM: INFO: [INFO] New chat created for Question 1.
+05/12/2025 02:23:17 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:23:28 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:23:38 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:23:49 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:23:59 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:24:10 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:24:10 PM: ERROR: [ERROR] No response received for Question 1.
+05/12/2025 02:24:10 PM: ERROR: [FATAL ERROR] Unexpected error for Question 1: assert False
+05/12/2025 02:24:59 PM: INFO: ========== [TEST STARTED] test_para_search_functionality ==========
+05/12/2025 02:25:04 PM: INFO: [START] Processing Question 1: What is Article 21 of the Indian Constitution?
+05/12/2025 02:25:05 PM: INFO: [INFO] New chat created for Question 1.
+05/12/2025 02:25:18 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:25:29 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:25:40 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:25:50 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:26:01 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:26:12 PM: WARNING: Timeout: Response text not found within the wait time.
+05/12/2025 02:26:12 PM: ERROR: [ERROR] No response received for Question 1.
+05/12/2025 02:26:12 PM: ERROR: [FATAL ERROR] Unexpected error for Question 1: assert False

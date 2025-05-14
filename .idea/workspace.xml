@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ef0c45c-83ad-4e85-a793-3ed1b5724681" name="Changes" comment="Add files via upload">
+      <change afterPath="$PROJECT_DIR$/TestCases/test_para_search_multi_question.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Configuration/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCases/test_para_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_para_search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pageObject/parasearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageObject/parasearch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utilities/readProperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/readProperties.py" afterDir="false" />
     </list>
@@ -64,7 +64,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/PycharmProjects/DemoProject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/PycharmProjects/DemoProject/TestCases&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -75,8 +75,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\DELL\PycharmProjects\DemoProject\TestData" />
       <recent name="C:\Users\DELL\PycharmProjects\DemoProject\TestCases" />
+      <recent name="C:\Users\DELL\PycharmProjects\DemoProject\TestData" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\PycharmProjects\DemoProject\TestData" />

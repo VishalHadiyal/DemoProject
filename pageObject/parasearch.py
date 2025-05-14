@@ -138,9 +138,15 @@ class ParaSearch:
 
     def clicks_side_bar_button(self):
         """
-        Clicks the side bar button.
+        Clicks the side bar button if it is visible and interactable.
         """
-        self.driver.find_element(By.CSS_SELECTOR, self.BUTTON_SIDE_BAR_CSS_SELECTOR).click()
+        try:
+            sidebar_button = self.wait.until(
+                EC.element_to_be_clickable((By.CSS_SELECTOR, self.BUTTON_SIDE_BAR_CSS_SELECTOR)))
+            sidebar_button.click()
+        except TimeoutException:
+            logging.error("Sidebar button not found or not clickable.")
+            raise
 
     def clicks_add_new_chat_button(self):
         """
@@ -156,3 +162,13 @@ class ParaSearch:
             lambda driver: element.text.strip() != ""
         )
         return element.text
+
+    def wait_for_search_bar_ready(self, driver, parasearch, timeout=10):
+        """
+        Waits until the search bar is clickable and interactable.
+        """
+        wait = WebDriverWait(driver, timeout)
+        return wait.until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, parasearch.SEARCH_BAR_CSS_SELECTOR))
+        )
+
